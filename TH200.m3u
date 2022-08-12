@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล",  5HD
 https://freelive.inwstream.com:1936/freelive-edge/ch5hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
