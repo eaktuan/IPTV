@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="NBT HD" group="Digital TV" logo="https://i.imgur.com/50EIb6z.png", NBT HD
+https://cdn6.goprimetime.info/feed/202105171329/chnbt/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
