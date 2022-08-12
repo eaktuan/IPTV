@@ -1,0 +1,666 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล",  5HD
+https://freelive.inwstream.com:1936/freelive-edge/ch5hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="ดิจิตอล", MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="ดิจิตอล", NBT HD
+https://freelive.inwstream.com:1936/freelive-edge/nbt/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="ดิจิตอล", THAI TPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="ดิจิตอล", ONE HD
+https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="ดิจิตอล", THAIRATH TV
+https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="ดิจิตอล", AMARIN TV
+https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="ดิจิตอล", PPTV
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="ดิจิตอล", WORKPOINT
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="ดิจิตอล", CH8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="ดิจิตอล", MONO 29
+https://freelive2.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="ดิจิตอล", GMM25
+https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="ดิจิตอล", NATION TV
+https://freelive2.inwstream.com:1936/freelive-edge/nation/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="ดิจิตอล", TNN24
+https://freelive2.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="ดิจิตอล", TRUE4U
+https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/af566eee06d70705c9a5d6621f7cc64d.png" group-title="ดิจิตอล", JKN 18
+https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/866e5df87e28038644029317171a221a.png" group-title="ดิจิตอล", NEWS1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/32c5ff58cf17d10974ce35833a4ef67f.png" group-title="ดิจิตอล", ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/da7fe18b34092574913e8357193cd986.jpg" group-title="ดิจิตอล", TOP NEWS
+https://live.topnews.co.th/hls/topnews_a_1080.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/eb42aa92842b63f74425e44222f6d133.jpg" group-title="ดิจิตอล", TPTV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1
+https://www.livestream88.com/sport/true-sport-hd-1|Referer=https://www.livestream88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1 สำรอง
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="กิฬาใน", TRUESP HD2
+https://www.livestream88.com/sport/true-sport-hd-2|Referer=https://www.livestream88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="กิฬาใน", TRUESP HD2 สำรอง
+https://dooball2you.com/truesporthd2|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWdC9.png" group-title="กิฬาใน", TRUESP HD3
+https://www.livestream88.com/sport/true-sport-hd-3|Referer=https://www.livestream88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWdC9.png" group-title="กิฬาใน", TRUESP HD3 สำรอง
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd3|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3756a1167f02f5dc25f465b35b568173.png" group-title="กิฬาใน", TRUESP HD4
+https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3756a1167f02f5dc25f465b35b568173.png" group-title="กิฬาใน", TRUESP HD4 สำรอง
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd4|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/a05c2d50398bd84a99ff453225190129.png" group-title="กิฬาใน", TRUESP5
+https://livesod88.com/?id=794897&ch=truesport5|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/a05c2d50398bd84a99ff453225190129.png" group-title="กิฬาใน", TRUESP5 สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87truesport5|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/fc0ab991d804bdf24fe7e22871be26f5.png" group-title="กิฬาใน", TRUESP7
+https://livesod88.com/?id=794897&ch=truesport7|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/fc0ab991d804bdf24fe7e22871be26f5.png" group-title="กิฬาใน", TRUESP7 สำรอง
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesport7|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/06/OvFe1S.jpg" group-title="กิฬาใน", TRUE TENNIS
+https://sport.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.livedoomovie.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/06/OvFe1S.jpg" group-title="กิฬาใน", TRUE TENNIS สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87truetennis|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3791450550fdbe2cb8c85f97098105bf.png" group-title="กิฬาใน", TRUE GOLF
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/golf/sport/golf/chunks.m3u8|Referer=https://www.livestream88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3791450550fdbe2cb8c85f97098105bf.png" group-title="กิฬาใน", TRUE GOLF สำรอง
+https://dooball2you.com/golf-channel-thailand|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e6223772e309fc4064ab422561ce5e83.jpg" group-title="กิฬาใน", TRUE GOLFCHANNEL THAILAND+
+https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-golf-channel-thailand-2|Referer=https://www.livestream88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e6223772e309fc4064ab422561ce5e83.jpg" group-title="กิฬาใน", TRUE GOLFCHANNEL THAILAND+ สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87golf-channel-thailand-2|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/02/26/orHxvZ.jpg" group-title="กิฬาใน", TRUE NBA
+https://www.doofootball.com/dootv/live/truenba#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/02/26/orHxvZ.jpg" group-title="กิฬาใน", TRUE NBA สำรอง
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87nbatv|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/02/08/oklyIR.png" group-title="กิฬาใน", TRUE NFL
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/nfl/sport/nfl/chunks.m3u8|Referer=https://www.livestream88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/02/08/oklyIR.png" group-title="กิฬาใน", TRUE NFL สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87nfl|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/4fc9b12284a839c63ddabb6433edbd8a.jpg" group-title="กิฬาใน", T SPORTS
+https://www.doofootball.com/dootv/live/tsports#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/4fc9b12284a839c63ddabb6433edbd8a.jpg" group-title="กิฬาใน", T SPORTS สำรอง
+https://dooball2you.com/t-sport-channel|Referer=https://dooball2you.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7Nfn.png", EPL1
+https://www.doofootball.com/dootv/live/epl1#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7Nfn.png", EPL1 สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf1|Referer=https://dooball2you.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7B5g.png", EPL2
+https://www.doofootball.com/dootv/live/epl2#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7B5g.png", EPL2 สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf2|Referer=https://dooball2you.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7fVW.png", EPL3
+https://www.doofootball.com/dootv/live/epl3#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7fVW.png", EPL3 สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf3|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/308ecc8cfb4d4d43d4bfcc71a7d732a4.png" group-title="กิฬาใน", EPL4
+https://www.doofootball.com/dootv/live/epl4#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/308ecc8cfb4d4d43d4bfcc71a7d732a4.png" group-title="กิฬาใน", EPL4 สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf4|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b9d9a52b695e182e8130f5f05bd6c608.png" group-title="กิฬาใน", EPL5
+https://www.doofootball.com/dootv/live/epl5#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b9d9a52b695e182e8130f5f05bd6c608.png" group-title="กิฬาใน", EPL5 สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf5|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png" group-title="กิฬาใน", BEIN SPORTS1
+https://www.doofootball.com/dootv/live/bein1#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png" group-title="กิฬาใน", BEIN SPORTS1 สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport1|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png" group-title="กิฬาใน", BEIN SPORTS2
+https://www.doofootball.com/dootv/live/bein3#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png" group-title="กิฬาใน", BEIN SPORTS2 สำรอง
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport2|Referer=https://dooball2you.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e05c56fc4bbe8583628ec8e167f85169.png" group-title="กิฬาใน", MOTORVISION TV
+https://www.doofootball.com/dootv/live/motorvision#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://www.img.in.th/images/e299f2a177540b23d8a78789cd02d4a2.jpg", SPOTV1 HD
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87spotv1|Referer=https://dooball2you.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://www.img.in.th/images/e299f2a177540b23d8a78789cd02d4a2.jpg", SPOTV1 HD สำรอง
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://www.img.in.th/images/0d46bfb892fc534ad56fe3550e0f0adf.jpg", SPOTV2
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87spotv2|Referer=https://dooball2you.com
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://www.img.in.th/images/0d46bfb892fc534ad56fe3550e0f0adf.jpg", SPOTV2 สำรอง
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://www.img.in.th/images/efaa2047a712ae9ef8aec49e4ae74e56.png", TRUE GAMINGUP
+https://www.doofootball.com/dootv/live/truegamingup#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqTXE.jpg" group-title="กิฬานอก", ASTRO SPORT1
+https://www.doofootball.com/dootv/live/astrosupersport#dootv_sport|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqTXE.jpg" group-title="กิฬานอก", ASTRO SPORT1 สำรอง
+http://udoofree.com/movie2/168/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqg1n.jpg" group-title="กิฬานอก", ASTRO SPORT2
+https://www.doofootball.com/dootv/live/astrosupersport2#dootv_sport|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqg1n.jpg" group-title="กิฬานอก", ASTRO SPORT2 สำรอง
+http://udoofree.com/movie2/169/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqiAg.jpg" group-title="กิฬานอก", ASTRO SPORT3
+https://www.doofootball.com/dootv/live/astrosupersport3#dootv_sport|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqiAg.jpg" group-title="กิฬานอก", ASTRO SPORT3 สำรอง
+http://udoofree.com/movie2/366/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqReW.jpg" group-title="กิฬานอก", ASTRO SPORT4
+https://www.doofootball.com/dootv/live/astrosupersport4#dootv_sport|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqReW.jpg" group-title="กิฬานอก", ASTRO SPORT4 สำรอง
+http://udoofree.com/movie2/171/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5b8213d1b6757c9878a44aa96568a710.jpg" group-title="กิฬานอก", ASTRO SPORT 5
+https://www.doofootball.com/dootv/live/astrosupersport5#dootv_sport|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5b8213d1b6757c9878a44aa96568a710.jpg" group-title="กิฬานอก", ASTRO SPORT 5 สำรอง
+http://udoofree.com/movie2/371/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/08b35c4610a59768b61d3656675522e7.jpg" group-title="กิฬานอก", ABU DHABI SPORTS1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/60840d13059e354e3c2d14ad2853e6ab.jpg" group-title="กิฬานอก", ABU DHABI SPORTS2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e5444cb00a8c8e9b33a35701a11636cb.jpg" group-title="กิฬานอก", ABU DHABI SPORTS3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e0023f99b58e0aea7453ffe9d87a1807.png" group-title="กิฬานอก", DHABI SPORTS HD1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e0023f99b58e0aea7453ffe9d87a1807.png" group-title="กิฬานอก", DHABI SPORTS HD2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e0023f99b58e0aea7453ffe9d87a1807.png" group-title="กิฬานอก", DHABI SPORTS HD3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/adda70cede46360affb01c33228fc14a.png" group-title="กิฬานอก", FOX SPORTS
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/a21c1b6cb008a54dc04b446bed649bf3.png" group-title="กิฬานอก", FOX SPORTS2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/8bdb36570383e1f9c2fc84444e2b4018.png" group-title="กิฬานอก", FOX SPORTS3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/385c1a971b6b07fa8843a2baa64d5177.png" group-title="กิฬานอก", EUROSPORT UK
+https://streaming.livescorethai.net/iptv/uk-eurosport.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/385c1a971b6b07fa8843a2baa64d5177.png" group-title="กิฬานอก", EUROSPORT FR
+https://streaming.livescorethai.net/iptv/fr-eurosport.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrHT0.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VARITY1
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678020.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrHT0.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VARITY1 สำรอง
+https://srv.vhls.ru.com/cdn/premium416/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrYPR.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VARIETY2
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678021.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrYPR.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VARIETY2 สำรอง
+https://srv.vhls.ru.com/cdn/premium417/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/30/jf4huW.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VRAITY3
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678022.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/30/jf4huW.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VRAITY3 สำรอง
+https://srv.vhls.ru.com/cdn/premium418/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzVn2W.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VRAITY4
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678023.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzVn2W.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VRAITY4 สำรอง
+https://srv.vhls.ru.com/cdn/premium419/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrpNI.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  FOOTBALL
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678024.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/06/16/st1HuW.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  LALIGA
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/683001.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bznKEb.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  CRICKET
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/688714.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bznZXf.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  PSL
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678030.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/07/bjc068.jpg" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  PREMIER LEAGUE
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678029.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzr7dz.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  GRANDSTAND
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678031.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrryR.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  ACTION
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/683568.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzvvLz.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  RUGBY
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678026.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrITE.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  GOLF
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678028.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrMlN.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  MOTORSPORT
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/6780245.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzXWG0.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  BLITZ
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/682921.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzVKm8.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  MAXIMO1
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/682919.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzVG8b.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา", TENNIS
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678027.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/9574dee6fbecf2055ba262904c3bab5d.jpg" group-title="กิฬานอก", SONY TEN1
+http://103.55.144.46/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3d56ce009c7e5ebbd417595c40f9efe1.jpg" group-title="กิฬานอก", SONY TEN2
+http://103.55.144.46/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c2c1af5a39bf953e2fb9ed3c3c96167f.jpg" group-title="กิฬานอก", SONY TEN3
+http://103.55.144.46/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ea175699625ab4268f6eb29c940d6431.png" group-title="กิฬานอก", SONY SIX
+http://103.55.144.46/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5fc9040f69a4a94fe1283fa30c7209c7.jpg" group-title="กิฬานอก",Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5fc9040f69a4a94fe1283fa30c7209c7.jpg" group-title="กิฬานอก",Bein Sport 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5fc9040f69a4a94fe1283fa30c7209c7.jpg" group-title="กิฬานอก",Bein Sport 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/912a76619561a49474bef021bdc3a74d.png" group-title="กิฬานอก", FOX SPORT1 NL
+https://livesod88.com/?id=739746&ch=foxsport1nl|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/370fd4614ae46cf3fe60b4e13284c676.png" group-title="กิฬานอก", FOX SPORT2 NL
+https://livesod88.com/?id=739746&ch=foxsport2nl|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/412b81937de9b4d642e0c0a1f74f2083.png" group-title="กิฬานอก", FOX SPORT3 NL
+https://livesod88.com/?id=739746&ch=foxsport3nl|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8c6f432d7aaa4a64b916c0180bdb7826.png" group-title="กิฬานอก", FOX SPORT4 NL
+https://livesod88.com/?id=739746&ch=foxsport4nl|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/02/26/orVAMz.jpg" group-title="กิฬานอก", MUTV
+https://livesod88.com/?id=765442&ch=mutv|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8dc902a912f71329014934a7ab598d0f.png" group-title="กิฬานอก", LFCTV
+https://livesod88.com/?id=765442&ch=lfctv|Referer=https://livesod88.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/818899cecaa14a0b6dddf48a874db80c.jpg", WWE
+http://93.152.174.144:4000/play/WWE/index.m3u8
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/3e0e8207711e55d6d980abd28122d7d1.png", FITE
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/4c0ead306458819caea717aced8d6aac.jpg", FIGHT SPORTS
+http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/1f959b627250ffc649864054b97fb827.jpg", FIGHT SPORTS+
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/b8d2e0489f98c05950cf4dec3edfc11f.jpg", KIX
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/db48dcd53252f631cba8ddc4d717953d.jpg", SPORT TV1
+https://livesod88.com/?id=844950&ch=sporttv1|Referer=https://livesod88.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/2e3929cfc9e98aeca740f06aa5125e41.jpg", SPORT TV2
+https://livesod88.com/?id=844950&ch=sporttv2|Referer=https://livesod88.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/8151ed6a2510a7df0cd8921bc2380835.jpg", SPORT TV3
+https://livesod88.com/?id=844950&ch=sporttv3|Referer=https://livesod88.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/aa014efbc155c5c6482cd9a6728cb720.jpg", SPORT TV4
+https://livesod88.com/?id=844950&ch=sporttv4|Referer=https://livesod88.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/cdc109243b4d14e57c477c96a78fea11.jpg", SPORT TV5
+https://livesod88.com/?id=844950&ch=sporttv5|Referer=https://livesod88.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/dc2decf7d6c62c4be0e2c85c16e688de.png", S FOOTBALL
+https://ufa77.tv/channel?ch=supersportfootball|Referer=https://ufa77.tv
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/8f49aa45ae585de2d74e615b574aa8cd.png", S
+https://ufa77.tv/channel?ch=supersportepl|Referer=https://ufa77.tv
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/7c50e674f5fca25d80115d9445245e1d.png" group-title="กิฬานอก", FOX SPORTS1 USA
+https://www.doofootball.com/dootv/live/foxsports1usa#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c6c7b2860a85da64fbfd9f62e3f06b86.png" group-title="กิฬานอก", FOX SPORTS2 USA
+https://www.doofootball.com/dootv/live/foxsports1usa#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/cd024a08246d6f278363963fb35c9ba5.jpg" group-title="กิฬานอก", SK1HD
+https://livesod88.com/?id=845452&ch=sportklub1slovenia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/53d17a02c9984efcbcec1591c5f61cce.jpg" group-title="กิฬานอก", SK2HD
+https://livesod88.com/?id=845452&ch=sportklub2slovenia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/a78a847446ac38e06375c1f7595cc9df.jpg" group-title="กิฬานอก", SK3HD
+https://livesod88.com/?id=845452&ch=sportklub3slovenia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8222600091ea8451b255c4fa038ad6a6.png" group-title="กิฬานอก", SK4HD
+https://livesod88.com/?id=845452&ch=sportklub4slovenia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/d3c92464fee688a0b30383125f846a07.png" group-title="กิฬานอก", SK5HD
+https://ufa77.tv/channel?ch=sportklub5|Referer=https://ufa77.tv/channels
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/870cc39edfff0787417d1ec62f3ce48d.png" group-title="กิฬานอก", SK6HD
+https://ufa77.tv/channel?ch=sportklub6|Referer=https://ufa77.tv/channels
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/182604f248c0d1862ad6dd908accdebb.jpg" group-title="กิฬานอก", ARENA SPORT1
+https://livesod88.com/?id=844978&ch=arenasport1serbia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/50072123aedddd61a8f368f8934b7890.jpg" group-title="กิฬานอก", ARENA SPORT2
+https://livesod88.com/?id=844978&ch=arenasport2serbia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/00abb3c4cc557c2301b0a0200c714509.jpg" group-title="กิฬานอก", ARENA SPORT3
+https://livesod88.com/?id=844978&ch=arenasport3serbia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/780b0640a4c640964ef95a697be3bd16.jpg" group-title="กิฬานอก", ARENA SPORT4
+https://livesod88.com/?id=844978&ch=arenasport4serbia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/121cc6bd4ef0018c02221630c5eb2e3a.png" group-title="กิฬานอก", ARENA SPORT5
+https://livesod88.com/?id=844978&ch=arenasport5serbia|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png" group-title="กิฬานอก", BTSPORTS1 HD
+https://www.doofootball.com/dootv/live/btsport1#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1237ae854e27d2dca4324a0dcf762f77.jpg" group-title="กิฬานอก", BTSPORTS2 HD
+https://www.doofootball.com/dootv/live/btsport2#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg" group-title="กิฬานอก", BTSPORTS3 HD
+https://www.doofootball.com/dootv/live/btsport3#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/bc787009e8c0a0d5cb3c5fbcc7c11557.png" group-title="ช่องหนัง", ROCK ENTERTAINMENT
+https://www.doofootball.com/dootv/live/blueant#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/9b6ebd7743382f5d0ab3cf25db093909.png" group-title="ช่องหนัง", ROCK EXTREME
+https://www.doofootball.com/dootv/live/blueantextream#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/24bfd4eaeb5313dbaa0f74bd8db265a3.jpg" group-title="ช่องหนัง", LIFETIME
+https://www.doofootball.com/dootv/live/lifetime#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1238910fd41e775292b31fce0fd05a4d.jpg" group-title="ช่องหนัง", AXN
+https://www.doofootball.com/dootv/live/axn#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/41143583913aa40b2eebb06c141c0074.jpg" group-title="ช่องหนัง", HITS MOVIES
+https://www.doofootball.com/dootv/live/hitsmovie#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c82045c09cb29ffd86145bab13ed15bb.jpg" group-title="ช่องหนัง", HITS
+https://www.doofootball.com/dootv/live/hits#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8d61488c439073b5c0f726e09cafeb9b.png" group-title="ช่องหนัง", HBO HD
+https://www.doofootball.com/dootv/live/hbohd#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8d61488c439073b5c0f726e09cafeb9b.png" group-title="ช่องหนัง", HBO HD สำรอง
+http://udoofree.com/movie2/133/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="ช่องหนัง", HBO HITS
+https://www.doofootball.com/dootv/live/hbohit#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="ช่องหนัง", HBO HITS สำรอง
+http://udoofree.com/movie2/306/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6eac887110c3052325a0cad4a63483d2.jpg" group-title="ช่องหนัง", HBO SIGNATURE
+https://www.doofootball.com/dootv/live/hbosignature#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6eac887110c3052325a0cad4a63483d2.jpg" group-title="ช่องหนัง", HBO SIGNATURE สำรอง
+http://udoofree.com/movie2/135/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/16d381c3c705aa7e60cffca7cb033e8a.jpg" group-title="ช่องหนัง", HBO FAMILY
+https://www.doofootball.com/dootv/live/hbofamily#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/16d381c3c705aa7e60cffca7cb033e8a.jpg" group-title="ช่องหนัง", HBO FAMILY สำรอง
+http://udoofree.com/movie2/136/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ee09ae81c0e90a4ba58367b01bfa9c86.jpg" group-title="ช่องหนัง", CINEMAX
+https://www.doofootball.com/dootv/live/cinemax#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ee09ae81c0e90a4ba58367b01bfa9c86.jpg" group-title="ช่องหนัง", CINEMAX สำรอง
+http://udoofree.com/movie2/137/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e48c89ee4e97a41985569943ee17fc13.png" group-title="ช่องหนัง", PARAMOUNT
+https://www.doofootball.com/dootv/live/paramount#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/fb905c7c11a96ee8c119ea06f212dc6d.jpg" group-title="ช่องหนัง", WARNERTV
+https://www.doofootball.com/dootv/live/wbtv#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/cab673d7c0371143b0570fff50ecc91e.jpg" group-title="ช่องหนัง", UNIVERSALL
+http://203.154.243.89:28010/pa/universal.ts
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/f1b88c92556f3502c048ee71d1f7460a.jpg" group-title="ช่องหนัง", TRUE FILM HD
+https://www.doofootball.com/dootv/live/truefilmhd#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/15bb935da0f71a159d5a5d5d967f8b56.jpg" group-title="ช่องหนัง", TRUE FILM HD2
+https://www.doofootball.com/dootv/live/truefilmhd2#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/79270601470d1b2b231ccfee6c09cba5.png" group-title="ช่องหนัง", TRUE THAI FILM
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b3ddbb9fa0da061747874eed508f6eb2.png" group-title="ช่องหนัง", TRUE MOVIE HITS
+https://www.doofootball.com/dootv/live/moviehits#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/bbeb884556b7c108c282fb60e0b94ebd.jpg" group-title="ช่องหนัง", TRUE FILM ASIA
+https://www.doofootball.com/dootv/live/truefilmasia#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e572857ffce8e10ed0df3c752a20d252.png" group-title="ช่องหนัง", 3BB ASIAN
+https://www.doofootball.com/dootv/live/3bbasian#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/af5eeafd0bc6c0355c7de6d78c1ad0b7.png" group-title="กิฬาใน", 3BB SPORT ONE
+https://www.doofootball.com/dootv/live/3bbsport#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/72fbac840bae5b33138140931f9a4f75.jpg" group-title="สารคดี", TRUE XZYTE
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/602765d68a820b53985b6b41c76f0c0d.png" group-title="ช่องหนัง", TRUE SERIES
+https://www.doofootball.com/dootv/live/trueseries#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/4e5f20c87e265fa8cf7b5c31fe9c8baf.png" group-title="ช่องหนัง", TRUE ASIAN MORE
+https://www.doofootball.com/dootv/live/asianseries#main_dootv|Referer=https://www.doofootball.com  
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/33a8fd1f3951b86df78c2351ca97b257.png" group-title="ช่องหนัง", TRUE CHAINESE MORE
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://www.livedoomovies.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ce20d66028246d639899bc9038ac2c39.png" group-title="ช่องหนัง", TRUE KOREAN MORE
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE0OjU1IEFNJmhhc2hfdmFsdWU9b21hbVM4QmZJKzRMS1BmU3NEaldYUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNiZpZD1jaF82Nzg2OA==
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/28d4514355a3029411193afaae9a0f58.jpg" group-title="ช่องหนัง", TRUE MUSICHD
+https://ufa77.tv/channel?ch=trueidstation|Referer=https://ufa77.tv
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c90a9856d05e88b4988a3ddbd52455e1.jpg" group-title="ช่องหนัง", TRUE INSIDE
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c895d79e8c08314c7e27141dd6f9793f.jpg" group-title="ช่องหนัง", GEM
+https://www.doofootball.com/dootv/live/gem#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/456b505954a4a8b8b335c2bb37b18ec8.jpg" group-title="ช่องหนัง", TVBไทย
+https://www.doofootball.com/dootv/live/tvb#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b448a4775564c39bc6e198d0fe427c2f.png" group-title="ช่องหนัง", MOVIE WORLD1
+http://61.19.242.134/feed/202105171329/LC11/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/39eb457d6f6513eedd2d40a44b14ef7c.jpg" group-title="ช่องหนัง", KBS WORLD
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-kbsworld.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/4e7e14a5298ec3d74478c57aab11cc1d.png" group-title="ช่องหนัง", KMTV
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NDM6MDAgUE0maGFzaF92YWx1ZT01UTN4Z2JZbmZ5ZU9JWVVlYTZBQUV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIwJmlkPWNoXzMxMDA3
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/338f02ba80c47db2bafcc83d17d8b0cb.png" group-title="ช่องหนัง", TVN
+https://www.doofootball.com/dootv/live/tvn#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/480e90b1a791d48c8dfa023f8b3c624f.png" group-title="ช่องหนัง", CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/2edf59c0ad8cbf269421175e08c98f7f.jpg" group-title="ช่องหนัง", CCM 
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjIyIEFNJmhhc2hfdmFsdWU9UWNlNy80ck10K3lybFhvS0g5YnhmUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8xODEwOQ==
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b1e752c4b289f701c43f53ce4a2df8fe.png" group-title="ช่องหนัง", MONO PLUS+
+https://www.doofootball.com/dootv/live/monoplus#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/7c027cc436ab9764b5546aa8ec693abd.jpg" group-title="ช่องหนัง", KIX
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/d9880e906720bc2c03e3cecd573fa969.jpg" group-title="ช่องหนัง", FWMOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/08530f35ce4fa876de729e1416880264.jpg" group-title="ช่องหนัง", FWSOV
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e0c5a05dd384a1001aa0c77dc0c0f5ff.jpg" group-title="ช่องหนัง", FWTOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/f0544124ad2d620fe0cbd2a33647c6a3.png" group-title="ช่องหนัง", CHANNEL8
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/f4d3a95a870ddf3d6baba478873712ee.jpg" group-title="ช่องหนัง", SUN
+https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8b6ee23f8abfdf23b5f6399e5d15b448.jpg" group-title="ช่องหนัง", SAMURAI
+https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/67de164d166f77b2a02090ff3dd701cf.png" group-title="ช่องหนัง", มังกร
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/2681797d8d102b655dd5ec03b608cdfa.jpg" group-title="ช่องหนัง", จอมยุทธ
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/615109effe570888e52792b22cc494a9.jpg" group-title="ช่องหนัง", SANOOK
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/7c3912db9822c01122762127c165d616.jpg" group-title="ช่องหนัง", BOXFILM
+https://cdn6.goprimetime.info/feed/202105171329/LC52/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b1c8bae8950471728983fc8f52528248.png" group-title="ช่องหนัง", แอท TV
+http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/4e2ff3104f5c71312f06f0bda062f863.jpg" group-title="ช่องหนัง", HOLLYWOOD HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3d7379cbdb7cdd84ca2d1b98778b94ee.jpg" group-title="ช่องหนัง", FOX HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/4333893645ba80aabc21815901746ad0.png", HISTORYHD
+https://www.doofootball.com/dootv/live/history#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/750a53b686446ebe72dcf75250736696.png", H2
+https://smart-tv.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c9b21591130dc190a0dfea665b8b98f2.png", NATIONAL GEOGRAPHIC
+https://www.doofootball.com/dootv/live/natgeo#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/b0b94b191e44d2907185661b782c16ea.jpg", NETGEO WILD
+https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/9077a737d109eacd184b65a964995b74.png", DISCOVERY CHANNEL
+https://www.doofootball.com/dootv/live/discovery#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png", DISCOVERY ASIA
+https://www.doofootball.com/dootv/live/discoveryasia#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/22d4a934f81fdb9f865b36098027b888.jpg", LOVENATURE
+https://www.doofootball.com/dootv/live/lovenature4k#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/22d4a934f81fdb9f865b36098027b888.jpg", LOVENATURE4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/60bb97237ee960e0019e12b4df372cae.png", CLARITY4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/a51c6879d26d7873fde3c1ab655a3060.jpg", WILDEARTH
+https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c755f2aab88607683ed1abd1b11d3b71.png", ANIMAL PLANET
+https://www.doofootball.com/dootv/live/animalplanet#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png", EXPLORE LIFE
+https://www.doofootball.com/dootv/live/truelife#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/06cfef3a3ca19742cf4a40b82e91e93d.png", EXPLORE SCI
+https://www.doofootball.com/dootv/live/truesci#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/e6b5a730b20ebd9bc688cef5780a61db.png", EXPLORE WILD
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MTMgUE0maGFzaF92YWx1ZT1IZWtPTjNBOXVaOEpkcFVSUEd6a2x3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzkwNzE4
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg", BBC EARTH
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/9984c1a46949fa4896c324e6995ff523.jpg", BBC LIFE STYLE
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE3OjA3IEFNJmhhc2hfdmFsdWU9OFJZVW04MEYvK2RaeFM4R3JOWDRlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF85NTgyMQ==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/fbc0664bce9cc64951a22bbca7adec98.jpg" group-title="สารคดี", SUMLOJLOK
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjQ0IEFNJmhhc2hfdmFsdWU9MWRxcVhpSHliZWI5SFo5RlV3MElyZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8yNzIxMQ==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/7b58134f70144483a324ead6bd57b8bc.jpg" group-title="สารคดี", MYSCI
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjA5IEFNJmhhc2hfdmFsdWU9NFRxTzVoS2YvNnNJSUoxUExScmtvQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF82MDQxNQ==
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c85150fcd19799baf0b1eceeee611b5a.jpg", ANIMAL WORLD
+http://203.154.243.89:28010/pa/animal.ts
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/fdc76a7d8c0e6ff82b5f87e1f2a04e95.jpg", SCIENCE WORLD
+http://203.154.243.89:28010/pa/sci.ts
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/2643154d6ed913015caa73fc5138edf8.jpg", TLC
+https://www.doofootball.com/dootv/live/tlc#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/940fc281f97a3225f5b1fb68ead66aa9.jpg", AFN
+https://www.doofootball.com/dootv/live/afc#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/fa022dc7d84672c1d10da25e48f1a1a6.png", FOOD NETWORK
+https://www.doofootball.com/dootv/live/foodnetwork#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/3010f575e8e95a0e3979f8f94008e07b.png", FASION TV
+https://www.doofootball.com/dootv/live/fashiontv#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b0b09526c0efa0fbafe377fe05a889fd.jpg" group-title="การ์ตูน", ANIPLUS
+https://www.doofootball.com/dootv/live/aniplus#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/368d3d29f5525b3dd70e05b21506f1ac.png" group-title="การ์ตูน", CN
+https://streaming.livescorethai.net/iptv/sd-cartoonnetworkeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/691b47ccba4e0af48342bdfcc781ad72.png" group-title="การ์ตูน", NICK JR
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg" group-title="การ์ตูน", DREAMWORKS
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTM6MDAgUE0maGFzaF92YWx1ZT1FeDdpNXN1ZjBUR3NrckxXRThONUt3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzMxNTE3
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" group-title="การ์ตูน", BOOMERANG
+https://cdn6.goprimetime.info/feed/202105171329/chboomberang/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" group-title="การ์ตูน", BOOMERANG สำรอง
+http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/2a551c1a9831f7c1ceaeac6e43558cc0.png" group-title="การ์ตูน", ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg" group-title="การ์ตูน", TOONEE
+http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c4aafaf3f6af58c64d7f049f5a011b19.png" group-title="การ์ตูน", NICKELODEON
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/60b56a0145237a2e549613113422b0f1.jpg" group-title="การ์ตูน", NICK PLUTOO
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/1b1028430bb8b27bfe42cd975aaad338.png" group-title="การ์ตูน", DISNEY XD
+http://udoofree.com/movie2/83/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/73d68e549a0acc538d663343cd46c541.jpg" group-title="การ์ตูน", TRUE SPARK JUMP
+https://www.doofootball.com/dootv/live/truesparkjump#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/2a7f0f12a4eb4ecdb5f70aeaf42fc57c.jpg" group-title="การ์ตูน", CARTOON CLUB
+https://youdooball.livedoomovies.com:4432/02_Cartoon_Club_720p/chunklist.m3u8|Referer=https://www.youdooball.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/96fa301efc1646e3173aa420ddeeb7ae.jpg" group-title="การ์ตูน", BABY
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b7e6863668ad763509ce5a8e99de06dc.jpg" group-title="การ์ตูน", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/6b1890cc05b2d3e0fdfa50e64265ff92.png" group-title="การ์ตูน", CONTV ANIME
+https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/eeceb6abb14e5de92a8bd74b83fb84ba.jpg" group-title="การ์ตูน", ฺBABY FIRST
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c5af1527f87bc50f32e5d427d903ef28.jpg" group-title="การ์ตูน", ROKU_COCORO
+https://bit.ly/3aOcOrC
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/dc42aa9b8d2988d664d08feefdbed3ea.png" group-title="TV ท้องถิ่นไทย", สถานีเติมสุข
+https://live1.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/aec497b0898e50ea17a1dd4c78acc7be.png" group-title="TV ท้องถิ่นไทย", SIAM NEWS
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/1e917738abf7ba379a88018ff480a419.png" group-title="TV ท้องถิ่นไทย", THAI NEWS
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/ec2ef7dcb349dc95dc5e74310ae1a1fd.png" group-title="TV ท้องถิ่นไทย", MOUNCHON TV
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/7722f0cb752be4d2b85a0739fe0f278f.png" group-title="TV ท้องถิ่นไทย", BURIRUM TV
+https://live2.thaitvstream.com/play/burirumtv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c913045e4c1b0a17453921b37c085b80.png" group-title="TV ท้องถิ่นไทย", MIDIA NEWS
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/a9ce275bb077a3ccb144034a03109669.png" group-title="TV ท้องถิ่นไทย", PHETCHABUN TV
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/ce12341aa3d9f14cebcce259f8e3dd31.png" group-title="TV ท้องถิ่นไทย", SMN
+https://live.thaitvstream.com/play/smn/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/e245611c67a3fcea13aa0fafe6bfcbf0.png" group-title="TV ท้องถิ่นไทย", PRACHUAP NEWS
+https://live1.thaitvstream.com/play/prachuapnews/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/8fbc80da1ac7a2d0e4571f0212af79a0.png" group-title="TV ท้องถิ่นไทย", ZABB TV
+https://live1.thaitvstream.com/play/zabbtv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/2f67c4ff9c71c9ba7531252d7606dc87.png" group-title="TV ท้องถิ่นไทย", WADYAN TV
+https://live.thaitvstream.com/play/wadyantv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/45719d011bfe68ee217195d85d59b788.png" group-title="TV ท้องถิ่นไทย", CHIANGRAI CHANNEL
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/3e9cebc5d8c7c0f2666b1c4af85ccd19.png" group-title="TV ท้องถิ่นไทย", AETV
+https://live1.thaitvstream.com/play/aetv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/ab6645c139fd08676e090e5142b6bcdd.png" group-title="TV ท้องถิ่นไทย", KHAOCHAD TV
+https://live1.thaitvstream.com/play/khaochadtv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/e24399483f1b8816818b612f97fa34be.png" group-title="TV ท้องถิ่นไทย", SRTVONLINE
+https://live1.thaitvstream.com/play/srtvonline/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b61fa835f4e661fd454bd8af47ca8c72.png" group-title="TV ท้องถิ่นไทย", NK TV
+https://3070.short.gy/fstvhd/nktv.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/bcec21d4209176a2a42f6dfdf993f736.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก1
+https://ufa77.tv/channel?ch=baygonhero1|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c77935f205bbbab031e1ff53fe5c5c84.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก2
+https://ufa77.tv/channel?ch=baygonhero2|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/f7e32970fc5bd391e167a5159ca4503c.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก3
+https://ufa77.tv/channel?ch=baygonhero3|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b336afe7bd6aa03d6e49a01d9fe1832d.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก4
+https://ufa77.tv/channel?ch=baygonhero4|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/6ff4d7abb150f9926007b04bc987b955.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก5
+https://ufa77.tv/channel?ch=baygonhero5|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/270bb5cc4187587dccc605493e9c13a5.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก6
+https://ufa77.tv/channel?ch=baygonhero6|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/985d29625f22701e514c9b8ec7f4cb41.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก7
+https://ufa77.tv/channel?ch=baygonhero7|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/747e14a3d2b34bc79c674b253a029ffe.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก8
+https://ufa77.tv/channel?ch=baygonhero8|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/9b4aa869b445f7d527c6d52d8b486dd5.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก9
+https://ufa77.tv/channel?ch=baygonhero9|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/e7bf62181b1f132b967d9ddfa0cedc5a.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก10
+https://ufa77.tv/channel?ch=baygonhero10|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/cb5571e1f0022965f2d766a668570e0f.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก11
+https://ufa77.tv/channel?ch=baygonhero11|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/d85eb2330dd0f7e99773fa8d72503034.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก12
+https://ufa77.tv/channel?ch=baygonhero12|Referer=https://ufa77.tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 UP1
+https://bit.ly/3i8dkRs
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 UP2
+https://bit.ly/3JdDyOo
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 UP3
+https://bit.ly/3KzSqH8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 UP4
+https://bit.ly/3i66Dzd
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 UP5
+https://bit.ly/3i9ub6g
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 UP6
+https://bit.ly/3tUM9is
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 UP7
+https://vxxx.com/video-438587/?campaign=10127|Referer=https://vxxx.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 UP8
+https://vxxx.com/video-324015/?r=1|Referer=https://vxxx.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up9
+https://vxxx.com/video-342715/?r=1|Referer=https://vxxx.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up10
+https://vxxx.com/video-258825/?r=1|Referer=https://vxxx.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up11
+https://vxxx.com/video-256233/?autostart=1&r=1|Referer=https://vxxx.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up12
+https://vxxx.com/video-466281/?autostart=1&r=1|Referer=https://vxxx.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up13
+https://vxxx.com/video-258825/?r=1|Referer=https://vxxx.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up14
+https://pornercdns.com/hls/0098000/98005/hd/hd.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up15
+https://pornercdns.com/hls/0098000/98004/hd/hd.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up16
+https://pornercdns.com/hls/0098000/98003/hd/hd.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up17
+https://inporn.com/video/249389/best-xxx-scene-hd-great-will-enslaves-your-mind
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up18
+https://bit.ly/3O4OK26
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up19
+https://bit.ly/3n33YbW
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up20
+https://bit.ly/3mV7eGD
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up21
+https://vxxx.com/video-324015/?campaign=10127
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up22
+https://vxxx.com/video-438587/?r=1
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up23
+https://vxxx.com/video-431943/?campaign=10127
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up24
+https://vxxx.com/video-331607/?r=1
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up25
+https://bit.ly/3oumevG
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up26
+https://bit.ly/3RXHgAv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up27
+https://bit.ly/3ONn3L3
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Good TV", KHONGDEE
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjQyIEFNJmhhc2hfdmFsdWU9L0Y5bkRYSGtrSFFCK2dwVHl6alpPQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF81Njk4MQ==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b446da4c3a89d9f306fa1e167e3412df.png" group-title="Good TV", BUSABA
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjEwOjIwIEFNJmhhc2hfdmFsdWU9QU9ZRWZiVXNNelgweldsVGtHNThKdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF8zNDU4Ng==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/9c2f1253368532d5015bcf9ca4aef617.png" group-title="Good TV", JUSTFUN
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjEwOjMwIEFNJmhhc2hfdmFsdWU9TmNCWEJjRmt0Njh4MEFjWSttc0xJUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81MzgyNQ==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/a2b222a362e6d83f5bf8b2339a062244.png" group-title="Good TV", THAINESS
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA2OjAwIEFNJmhhc2hfdmFsdWU9T3pEdkx1K21INnBXMm1XVTUyL2ZrUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF81NzY3OQ==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/fd76ecf1e617b0e00acadd6767b30d75.png" group-title="Good TV", REALMETRO
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA2OjIyIEFNJmhhc2hfdmFsdWU9NEM3dGJ5TW90Y0llM1piUm9vNnBidz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8zNTIxMA==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/dfd15e4a0ed8885fb939601af2f35fc7.png" group-title="Good TV", SWEET
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjUxOjUwIEFNJmhhc2hfdmFsdWU9Z1dPQzRpeTBTM0Y5YnNoL3hVYUVNQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF8zOTM1OQ==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/db7a4652980255179701133b25a1cbb4.png" group-title="Good TV", HEART
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjE5IEFNJmhhc2hfdmFsdWU9VzJ3aXZFWUUrWkZGeWM4M1ZzNlBVUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF80NTYxMg==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/4a7e116b40a282edcce9e169005e9cee.jpg" group-title="Good TV", SUMLOJLOK
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjQ0IEFNJmhhc2hfdmFsdWU9MWRxcVhpSHliZWI5SFo5RlV3MElyZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8yNzIxMQ
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/28f6179b3a19db0773fe1f7380720c88.png" group-title="Good TV", HERO
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjM1IEFNJmhhc2hfdmFsdWU9M2k2ZnIvVEdTTmpDRXYxTjFjK1Nydz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNiZpZD1jaF83NTQ0NA==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/49a677f8cdcdb6682de1fa704227435b.png" group-title="Good TV", ANIMALSHOW
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjU1IEFNJmhhc2hfdmFsdWU9SndOUUdOMjhIUHlqWTcrcHlCam0vQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMiZpZD1jaF83NTQ1MA==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b104ec599d8aded7cb89c511aede4223.png" group-title="Good TV", BXCITE
+https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA4OjU5IEFNJmhhc2hfdmFsdWU9Q0JCTHptdXhENVlYeFNlQ0pLczFlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF81NDIyNg==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/584fe75d73c3958fd7a29c6e1a747592.png" group-title="Good TV", MYSCI
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjA5IEFNJmhhc2hfdmFsdWU9NFRxTzVoS2YvNnNJSUoxUExScmtvQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF82MDQxNQ==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/8e8992c5c5816289e169674a8367a3f2.png" group-title="Good TV", NEW EXPLORER
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjIxIEFNJmhhc2hfdmFsdWU9eUx2b21vQkFmK0NGbXNURE45eThEZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF85NDIwNA==
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/e9baad7fda47c0ab5964f029aeda6554.jpg" group-title="Good TV", NEXTKID
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjU1OjA3IEFNJmhhc2hfdmFsdWU9YTQxOE56cUhTSFN5RHd2dkt6ZVpXQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81NzA4Mw==
+#EXTINF:-0 group-title="Movies IPM" tvg-logo="http://88iptv.org/images/channels/a_film.png", A-Film
+http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11?ticket=6FC9BAB537E100512D508A92161443105F07A3D9
