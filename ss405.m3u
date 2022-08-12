@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="NBT HD" group="Digital TV" logo="https://i.imgur.com/50EIb6z.png", NBT HD
+https://cdn6.goprimetime.info/feed/202105171329/chnbt/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="THAI PBS HD" group="Digital TV" logo="https://i.imgur.com/OFsQwvv.png", THAI PBS HD
+https://cdn6.goprimetime.info/feed/202105171329/chthaipbs/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ALTV" group="Digital TV" logo="https://i.imgur.com/Y6k45Su.png", ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TV5 HD" group="Digital TV" logo="https://i.imgur.com/4MIQNPQ.png", TV5 HD
+https://cdn6.goprimetime.info/feed/202105171329/ch5hd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="T Sports 7" group="Digital TV" logo="https://i.imgur.com/hnfiUbK.png", T Sports 7
+https://cdn6.goprimetime.info/feed/202105171329/chtsport/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TPTV" group="Digital TV" logo="https://i.imgur.com/Jfdy937.png", TPTV
+https://cdn6.goprimetime.info/feed/202105171329/TPTV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TNN 16" group="Digital TV" logo="https://i.imgur.com/mfVhuRC.png", TNN 16
+https://cdn6.goprimetime.info/feed/202105171329/chtnn/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="JKN 18" group="Digital TV" logo="https://i.imgur.com/zxgCdl0.png", JKN 18
+https://cdn6.goprimetime.info/feed/202105171329/newtv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Nation TV" group="Digital TV" logo="https://i.imgur.com/RULAfjb.png", Nation TV
+https://cdn6.goprimetime.info/feed/202105171329/chnation/index.m3u8
+#EXTINF:0 type="stream" channelId="1301" name="Workpoint TV" group="Digital TV" logo="https://i.imgur.com/oxf6BRn.png", Workpoint TV
+https://cdn6.goprimetime.info/feed/202105171329/chworkpoint/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="True 4U" group="Digital TV" logo="https://i.imgur.com/tXb8NiE.png", True 4U
+https://cdn6.goprimetime.info/feed/202105171329/chtrue4u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="GMM 25" group="Digital TV" logo="https://i.imgur.com/sWGT1SD.png", GMM 25
+https://cdn6.goprimetime.info/feed/202105171329/chgmm/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CH 8" group="Digital TV" logo="https://i.imgur.com/RSQLFiU.png", CH 8
+https://cdn6.goprimetime.info/feed/202105171329/ch8/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MONO 29" group="Digital TV" logo="https://i.imgur.com/V4VWHiB.png", MONO 29
+https://cdn6.goprimetime.info/feed/202105171329/chmono29/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MCOT HD" group="Digital TV" logo="https://i.imgur.com/S4dSUQ7.png", MCOT HD
+https://cdn6.goprimetime.info/feed/202105171329/chmcothd/index.m3u8
+#EXTINF:0 type="stream" channelId="1281" name="ONE HD" group="Digital TV" logo="https://i.imgur.com/9apyiI0.png", ONE HD
+https://cdn6.goprimetime.info/feed/202105171329/chonehd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Thairath TV" group="Digital TV" logo="https://i.imgur.com/ArasZJO.png", Thairath TV
+https://cdn6.goprimetime.info/feed/202105171329/chthairath/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CH3 HD" group="Digital TV" logo="https://i.imgur.com/lHbIKfF.png", CH3 HD
+https://cdn6.goprimetime.info/feed/202105171329/ch3hd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Amarin TV" group="Digital TV" logo="https://i.imgur.com/S6gvvf9.png", Amarin TV
+https://cdn6.goprimetime.info/feed/202105171329/chamarin/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CH7 HD" group="Digital TV" logo="https://i.imgur.com/vxnLkTz.png", CH7 HD
+https://cdn6.goprimetime.info/feed/202105171329/ch7hd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="PPTV HD" group="Digital TV" logo="https://i.imgur.com/i4t7Q0C.png", PPTV HD
+https://cdn6.goprimetime.info/feed/202105171329/chpptvhd/index.m3u8
+#EXTINF:0 type="stream" channelId="1212" name="Animax" group="Kids" logo="https://i.imgur.com/jZuyxNb.png", Animax
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="1147" name="BBC Cbeebies" group="Kids" logo="https://i.imgur.com/rP7RFCC.png", BBC Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Aniplus" group="Kids" logo="https://i.imgur.com/0X10nqk.png", Aniplus
+https://iptv-thai.herokuapp.com/tv.php?channel=31049
+#EXTINF:0 type="stream" channelId="-1" name="Cartoon Network Asia" group="Kids" logo="https://i.imgur.com/5vAC8xF.png", Cartoon Network Asia
+https://iptv-thai.herokuapp.com/tv.php?channel=115632
+#EXTINF:0 type="stream" channelId="41" name="Nickelodeon" group="Kids" logo="https://i.imgur.com/TmbKg45.png", Nickelodeon
+https://iptv-sniper.herokuapp.com/localtv.php?channel=28
+#EXTINF:0 type="stream" channelId="-1" name="Nick Jr Asia" group="Kids" logo="https://i.imgur.com/Zxl4exf.png", Nick Jr Asia
+https://iptv-sniper.herokuapp.com/localtv.php?channel=27
+#EXTINF:0 type="stream" channelId="321" name="BOOMERANG" group="Kids" logo="https://i.imgur.com/Ruc88XO.png", BOOMERANG
+https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8
+#EXTINF:0 type="stream" channelId="1302" name="CARTOON CLUB" group="Kids" logo="https://i.imgur.com/82UoSmm.png", CARTOON CLUB
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1197" name="DISNEY JUNIOR" group="Kids" logo="https://i.imgur.com/fR07k9R.png", DISNEY JUNIOR
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/7959
+#EXTINF:0 type="stream" channelId="-1" name="Toonee" group="Kids" logo="https://i.imgur.com/4dzIz6q.png", Toonee
+http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SANOOK" group="Kids" logo="https://i.imgur.com/k6EtTFG.png", SANOOK
+https://cdn6.goprimetime.info/feed/202105171329/LC53/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FW TOON" group="Kids" logo="https://img.inwiptv.net/postor/20200512162950fw%20teletoon(1).jpg", FW TOON
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="LEGO CHANNEL" group="Kids" logo="https://i.imgur.com/h7eBdIu.jpg", LEGO CHANNEL
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="BabyTV HD" group="Kids" logo="https://i.imgur.com/7n1v4Hl.png", BabyTV HD
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Baby First HD" group="Kids" logo="https://i.imgur.com/Ligk525.png", Baby First HD
+http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TOM & JERRY" group="Kids" logo="https://i.imgur.com/Iga79tm.png", TOM & JERRY
+https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
+#EXTINF:0 type="stream" channelId="-1" name="Moonbug Kids" group="Kids" logo="https://i.imgur.com/SbK0REx.png", Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2908" name="ZooMoo" group="Kids" logo="https://i.imgur.com/olzqUL2.jpg", ZooMoo
+https://cdn6.goprimetime.info/feed/202105171329/LC38/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SUN" group="Movies&Series" logo="https://i.imgur.com/NWuip1G.png", SUN
+https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SAMURAI" group="Movies&Series" logo="https://i.imgur.com/SYOqA7z.png", SAMURAI
+https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="BOX FILM" group="Movies&Series" logo="https://i.imgur.com/ACIoLb2.png", BOX FILM
+https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MOVIES WORLD 1" group="Movies&Series" logo="https://i.imgur.com/2QbShex.png", MOVIES WORLD 1
+https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Mangorn" group="Movies&Series" logo="https://i.imgur.com/vMWjnIm.png", Mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="JOM YUT" group="Movies&Series" logo="https://i.imgur.com/i7HCIuZ.jpg", JOM YUT
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2557" name="Warner TV" group="Movies&Series" logo="https://i.imgur.com/msimG9G.png", Warner TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=21
+#EXTINF:0 type="stream" channelId="2501" name="AMC" group="Movies&Series" logo="https://i.imgur.com/YeFs4iC.png", AMC
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MOVIE SHPHERE" group="Movies&Series" logo="https://i.imgur.com/lqonBPO.png", MOVIE SHPHERE
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4036" name="Paramount Network" group="Movies&Series" logo="https://i.imgur.com/Jyp89ry.png", Paramount Network
+https://iptv-sniper.herokuapp.com/localtv.php?channel=59
+#EXTINF:0 type="stream" channelId="1286" name="Thrill" group="Movies&Series" logo="https://i.imgur.com/7M6WYVm.png", Thrill
+https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FILM 1" group="Movies&Series" logo="https://i.imgur.com/evyLHta.png", FILM 1
+https://iptv-thai.herokuapp.com/tv.php?channel=115667
+#EXTINF:0 type="stream" channelId="-1" name="FILM 2" group="Movies&Series" logo="https://i.imgur.com/QaVqmK1.png", FILM 2
+https://iptv-thai.herokuapp.com/tv.php?channel=115415
+#EXTINF:0 type="stream" channelId="-1" name="Movie Hits" group="Movies&Series" logo="https://i.imgur.com/ANmrwNg.png", Movie Hits
+https://iptv-thai.herokuapp.com/tv.php?channel=115729
+#EXTINF:0 type="stream" channelId="-1" name="Korean More" group="Movies&Series" logo="https://i.imgur.com/rl4HrNv.png", Korean More
+https://iptv-thai.herokuapp.com/tv.php?channel=115422
+#EXTINF:0 type="stream" channelId="-1" name="FILMASIA" group="Movies&Series" logo="https://i.imgur.com/AGpfYsR.png", FILMASIA
+https://iptv-thai.herokuapp.com/tv.php?channel=115665
+#EXTINF:0 type="stream" channelId="-1" name="Celestial Classic Movies" group="Movies&Series" logo="https://i.imgur.com/Y6ZnSx3.png", Celestial Classic Movies
+https://iptv-thai.herokuapp.com/tv.php?channel=115802
+#EXTINF:0 type="stream" channelId="1573" name="AXN" group="Movies&Series" logo="https://i.imgur.com/OO6mWTx.png", AXN
+https://iptv-thai.herokuapp.com/tv.php?channel=115619
+#EXTINF:0 type="stream" channelId="-1" name="Hits" group="Movies&Series" logo="https://i.imgur.com/YeqyD9W.png", Hits
+http://210.210.155.35/session/1204b13c-a86a-11ec-baed-ab3e95131f5a/dr9445/h/h37/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Hits Movies" group="Movies&Series" logo="https://i.imgur.com/nSSSRCU.png", Hits Movies
+https://iptv-thai.herokuapp.com/tv.php?channel=115720
+#EXTINF:0 type="stream" channelId="4956" name="STAR MOVIES HD" group="Movies&Series" logo="https://i.imgur.com/fSLaQQs.png", STAR MOVIES HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Sony Entertainment HD" group="Movies&Series" logo="https://i.imgur.com/oTt7D3K.png", Sony Entertainment HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Zee TV HD" group="Movies&Series" logo="https://i.imgur.com/9SYqIRU.png", Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ZEE ANMOL" group="Movies&Series" logo="https://i.imgur.com/RHHmZre.png", ZEE ANMOL
+http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ZEE BOLLYWOOD HD" group="Movies&Series" logo="https://i.imgur.com/RHHmZre.png", ZEE BOLLYWOOD HD
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="3132" name="Sony Max HD" group="Movies&Series" logo="https://i.imgur.com/ro7bedn.png", Sony Max HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Action Hollywood Movies" group="Movies&Series" logo="https://i.imgur.com/B3RHwVN.png", Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FW MOV" group="Movies&Series" logo="https://img.inwiptv.net/postor/20200512164154fwmov.jpg", FW MOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FW SOV" group="Movies&Series" logo="https://img.inwiptv.net/postor/20200512165346fwsov.jpg", FW SOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TVB Thai" group="Movies&Series" logo="https://i.imgur.com/R9ZBaeS.png", TVB Thai
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3249" name="KBS World" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/512px-KBS_World_(2009).svg.png", KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="GEM" group="Entertainment" logo="https://i.imgur.com/DjI6SS1.png", GEM
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="KMTV" group="Entertainment" logo="https://i.imgur.com/G5A1D6X.png", KMTV
+https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2344" name="tvN" group="Entertainment" logo="https://i.imgur.com/MStuY5w.png", tvN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=85
+#EXTINF:0 type="stream" channelId="-1" name="Rock Entertainment" group="Entertainment" logo="https://i.imgur.com/ZdXxK3X.png", Rock Entertainment
+https://iptv-sniper.herokuapp.com/localtv.php?channel=56
+#EXTINF:0 type="stream" channelId="-1" name="Rock Extreme" group="Entertainment" logo="https://i.imgur.com/QyRhLu6.png", Rock Extreme
+https://iptv-sniper.herokuapp.com/localtv.php?channel=57
+#EXTINF:0 type="stream" channelId="-1" name="Arirang World" group="Entertainment" logo="https://i.imgur.com/Yk19rUf.png", Arirang World
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Food Network Asia" group="Entertainment" logo="https://i.imgur.com/95lMoqu.png", Food Network Asia
+https://iptv-thai.herokuapp.com/tv.php?channel=115672
+#EXTINF:0 type="stream" channelId="-1" name="Asian Food Network" group="Entertainment" logo="https://i.imgur.com/9y1nKoi.png", Asian Food Network
+https://iptv-sniper.herokuapp.com/localtv.php?channel=63
+#EXTINF:0 type="stream" channelId="1040" name="TLC HD" group="Entertainment" logo="https://i.imgur.com/2OLSViz.png", TLC HD
+https://iptv-thai.herokuapp.com/tv.php?channel=115403
+#EXTINF:0 type="stream" channelId="2080" name="Abu Dhabi TV" group="Entertainment" logo="https://i.imgur.com/RdIJVDs.png", Abu Dhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="A3 Bikini Network" group="Entertainment" logo="https://i.imgur.com/7ZQRdle.png", A3 Bikini Network
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="KpopTV Play" group="Entertainment" logo="https://i.imgur.com/OMVNxVZ.png", KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Golf Channel Thailand HD" group="Sports" logo="https://i.imgur.com/LC70maf.png", Golf Channel Thailand HD
+https://iptv-thai.herokuapp.com/tv.php?channel=115446
+#EXTINF:0 type="stream" channelId="-1" name="Golf Channel Thailand HD Plus" group="Sports" logo="https://i.imgur.com/wVenKVZ.png", Golf Channel Thailand HD Plus
+https://iptv-thai.herokuapp.com/tv.php?channel=115698
+#EXTINF:0 type="stream" channelId="-1" name="ONE GOLF" group="Sports" logo="https://i.imgur.com/AOkqHR5.jpg", ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="EDGEsport Channel" group="Sports" logo="https://i.imgur.com/Vql6RaF.png", EDGEsport Channel
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FITE" group="Sports" logo="https://www.fite.tv/static/img/home_fite_tw_bg_02.jpg", FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Fightsport" group="Sports" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU", Fightsport
+https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Tennis" group="Sports" logo="https://i.imgur.com/IdAB2wR.jpg", Tennis
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FIght Sport" group="Sports" logo="https://i.imgur.com/e51mUq9.png", FIght Sport
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="82" name="Eurosport1" group="Sports" logo="https://i.imgur.com/qzebaLa.png", Eurosport1
+http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
+#EXTINF:0 type="stream" channelId="83" name="Eurosport2" group="Sports" logo="https://i.imgur.com/qzebaLa.png", Eurosport2
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+#EXTINF:0 type="stream" channelId="1591" name="BEIN Sports 1" group="Sports" logo="https://i.imgur.com/cPRsf28.png", BEIN Sports 1
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:0 type="stream" channelId="1592" name="BEIN Sports 2" group="Sports" logo="https://i.imgur.com/Df7gSFQ.png", BEIN Sports 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:0 type="stream" channelId="1593" name="BEIN Sports 3" group="Sports" logo="https://i.imgur.com/4I3ePkw.png", BEIN Sports 3
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:0 type="stream" channelId="1618" name="BEIN Sports 4" group="Sports" logo="https://i.imgur.com/Pswp6AE.png", BEIN Sports 4
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:0 type="stream" channelId="1553" name="MU TV" group="Sports" logo="https://i.imgur.com/mp6mgwy.png", MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SPOTV" group="Sports" logo="https://i.imgur.com/GeaXWbl.png", SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SPOTV2" group="Sports" logo="https://i.imgur.com/eGeEm1O.png", SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CHAMPIONS TV 1" group="Sports" logo="https://i.imgur.com/EaRVaEX.png", CHAMPIONS TV 1
+https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv1
+#EXTINF:0 type="stream" channelId="-1" name="CHAMPIONS TV 2" group="Sports" logo="https://i.imgur.com/IgGVlgI.png", CHAMPIONS TV 2
+https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv2
+#EXTINF:0 type="stream" channelId="-1" name="CHAMPIONS TV 3" group="Sports" logo="https://i.imgur.com/1MBBBBN.png", CHAMPIONS TV 3
+https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv3
+#EXTINF:0 type="stream" channelId="-1" name="CHAMPIONS TV GOAL" group="Sports" logo="https://i.imgur.com/AcBSHlM.png", CHAMPIONS TV GOAL
+https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv3
+#EXTINF:0 type="stream" channelId="2540" name="ESPN" group="Sports" logo="https://i.imgur.com/dwyuLEo.png", ESPN
+https://iptv-thai.herokuapp.com/tv.php?channel=9660
+#EXTINF:0 type="stream" channelId="2599" name="SporTV" group="Sports" logo="https://i.imgur.com/iweh0Li.png", SporTV
+http://limetv.me:80/live/4719wil/452540/90328.m3u8
+#EXTINF:0 type="stream" channelId="2600" name="SporTV 2" group="Sports" logo="https://i.imgur.com/AAdoNsr.png", SporTV 2
+http://limetv.me:80/live/4719wil/452540/90320.m3u8
+#EXTINF:0 type="stream" channelId="2601" name="SporTV 3" group="Sports" logo="https://i.imgur.com/RcpUcYG.png", SporTV 3
+http://limetv.me:80/live/4719wil/452540/90324.m3u8
+#EXTINF:0 type="stream" channelId="2894" name="NFL Network" group="Sports" logo="https://i.imgur.com/hl9UZAk.png", NFL Network
+https://iptv-thai.herokuapp.com/tv.php?channel=115742
+#EXTINF:0 type="stream" channelId="805" name="NBA TV" group="Sports" logo="https://i.imgur.com/Qs70nvO.png", NBA TV
+https://iptv-thai.herokuapp.com/tv.php?channel=115302
+#EXTINF:0 type="stream" channelId="3442" name="TRACE SPORT STARS" group="Sports" logo="https://i.imgur.com/uasPtYv.png", TRACE SPORT STARS
+http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Маtch Futbol 1" group="Sports" logo="https://i.imgur.com/FQIPmGe.png", Маtch Futbol 1
+http://95.183.43.237:8080/258/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Маtch Futbol 2" group="Sports" logo="https://i.imgur.com/C1wQGMK.png", Маtch Futbol 2
+http://95.183.43.237:8080/259/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Маtch Futbol 3" group="Sports" logo="https://i.imgur.com/9K0Ybcg.png", Маtch Futbol 3
+http://95.183.43.237:8080/260/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ABU DHABI SPORT 1 HD" group="Sports" logo="https://i.postimg.cc/4NNF0d6m/ABU-DHABI-SPORTS-1.png", ABU DHABI SPORT 1 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ABU DHABI SPORT 2 HD" group="Sports" logo="https://i.postimg.cc/Bnj7qVw3/ABU-DHABI-SPORTS-2.png", ABU DHABI SPORT 2 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ABU DHABI SPORT 3 HD" group="Sports" logo="https://i.postimg.cc/4xjLnQr9/ABU-DHABI-SPORTS-3.png", ABU DHABI SPORT 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ABU DHABI SPORT 4 HD" group="Sports" logo="https://i.postimg.cc/3JSbQT19/ABU-DHABI-SPORTS-4.png", ABU DHABI SPORT 4 HD
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Dubai SPORT 1 HD" group="Sports" logo="http://bit.ly/2vEKtMM", Dubai SPORT 1 HD
+https://dmitnthvll.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Dubai SPORT 2 HD" group="Sports" logo="http://bit.ly/2w63Hub", Dubai SPORT 2 HD
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Dubai SPORT 3 HD" group="Sports" logo="http://bit.ly/2w63Hub", Dubai SPORT 3 HD
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="4980" name="Dubai Racing 1 HD" group="Sports" logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bcc4ab3b1.png", Dubai Racing 1 HD
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.smil/chunklist_b1500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Dubai Racing 2 HD" group="Sports" logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png", Dubai Racing 2 HD
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Dubai Racing 3 HD" group="Sports" logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bfea86c98.png", Dubai Racing 3 HD
+https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="WWE CHANNEL HD" group="Sports" logo="https://i.imgur.com/AhmmvrS.png", WWE CHANNEL HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423895
+#EXTINF:0 type="stream" channelId="1333" name="RED BULL TV" group="Sports" logo="https://i.imgur.com/OaiWDnU.png", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="eGG Network" group="Sports" logo="https://i.imgur.com/zk8yiaB.png", eGG Network
+http://210.210.155.35/uq2663/h/h22/index.m3u8
+#EXTINF:0 type="stream" channelId="4587" name="MAVTV" group="Sports" logo="https://i.imgur.com/I2uyZt2.png", MAVTV
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="50" name="Animal Planet" group="Documentary" logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png", Animal Planet
+https://iptv-thai.herokuapp.com/tv.php?channel=115610
+#EXTINF:0 type="stream" channelId="1455" name="History" group="Documentary" logo="https://i.imgur.com/fjTrG9N.png", History
+https://iptv-thai.herokuapp.com/tv.php?channel=115715
+#EXTINF:0 type="stream" channelId="1201" name="History 2" group="Documentary" logo="https://i.imgur.com/kxPcCcA.png", History 2
+https://iptv-thai.herokuapp.com/tv.php?channel=115713
+#EXTINF:0 type="stream" channelId="4006" name="CGTN Documentary" group="Documentary" logo="https://i.imgur.com/kDWAhy1.png", CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="2035" name="LOVE NATURE" group="Documentary" logo="https://i.imgur.com/pqwDoKY.png", LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="LOVE NATURE4K" group="Documentary" logo="https://i.imgur.com/pqwDoKY.png", LOVE NATURE4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0 type="stream" channelId="57" name="Discovery Channel" group="Documentary" logo="https://i.imgur.com/t6iJj37.png", Discovery Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=45
+#EXTINF:0 type="stream" channelId="56" name="National Geographic Channel" group="Documentary" logo="https://i.imgur.com/vKEqKFS.png", National Geographic Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=64
+#EXTINF:0 type="stream" channelId="164" name="Nat Geo Wild" group="Documentary" logo="https://i.imgur.com/2DIGjSm.png", Nat Geo Wild
+https://iptv-sniper.herokuapp.com/localtv.php?channel=51
+#EXTINF:0 type="stream" channelId="2051" name="SMITHSONIAN CHANNEL" group="Documentary" logo="https://i.imgur.com/2tClwY5.png", SMITHSONIAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="721" name="NASA TV" group="Documentary" logo="https://i.imgur.com/EdKQY9h.png", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CRIME TIME" group="Documentary" logo="https://i.imgur.com/8kuy1i7.png", CRIME TIME
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Insight TV" group="Documentary" logo="https://i.imgur.com/GfVO9De.png", Insight TV
+https://insighttv-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="InTrouble" group="Documentary" logo="https://i.imgur.com/BDAKQ8T.png", InTrouble
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="InWild" group="Documentary" logo="https://i.imgur.com/qjWVJPN.png", InWild
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="InWonder" group="Documentary" logo="https://i.imgur.com/BG2SW0a.png", InWonder
+https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Wild Earth" group="Documentary" logo="https://i.imgur.com/94KsRnD.png", Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Xplore" group="Documentary" logo="https://i.imgur.com/JcNIBDZ.png", Xplore
+https://xplore-roku.amagi.tv/playlist720-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Outside Tv" group="Documentary" logo="https://i.imgur.com/7WF7ca4.png", Outside Tv
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Voice TV HD" group="News" logo="https://i.imgur.com/YJG3Z35.png", Voice TV HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/voicetv
+#EXTINF:0 type="stream" channelId="-1" name="Al Jazeera English HD" group="News" logo="https://i.imgur.com/Fyha6mW.png", Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0 type="stream" channelId="118" name="BBC World News" group="News" logo="https://i.imgur.com/q7rGbl1.png", BBC World News
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CNA" group="News" logo="https://i.imgur.com/TkNQ76N.png", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 type="stream" channelId="893" name="CGTN" group="News" logo="https://i.imgur.com/evTfZ85.png", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0 type="stream" channelId="2883" name="CNN" group="News" logo="https://i.imgur.com/oHXDurA.png", CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 type="stream" channelId="352" name="DW" group="News" logo="https://i.imgur.com/1B4XjYf.png", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0 type="stream" channelId="119" name="Bloomberg TV" group="News" logo="https://i.imgur.com/2r7utRt.png", Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FOX News Now" group="News" logo="https://i.imgur.com/hc5a1YP.png", FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="217" name="Euronews" group="News" logo="https://i.imgur.com/ZdbWLVT.png", Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:0 type="stream" channelId="139" name="France 24 English" group="News" logo="https://i.imgur.com/BFMMPwP.png", France 24 English
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+#EXTINF:0 type="stream" channelId="1392" name="HLN" group="News" logo="https://i.imgur.com/ceQGIiY.png", HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ABC Australia Asia" group="News" logo="https://i.imgur.com/IEncbNb.png", ABC Australia Asia
+https://iptv-thai.herokuapp.com/tv.php?channel=115605
+#EXTINF:0 type="stream" channelId="-1" name="NHK World Japan" group="News" logo="https://i.imgur.com/SMXfPx4.jpg", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Phoenix InfoNews Channel" group="News" logo="https://i.imgur.com/eSNdW3n.png", Phoenix InfoNews Channel
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Phoenix Chinese Channel" group="News" logo="https://i.imgur.com/Aw2dGfj.png", Phoenix Chinese Channel
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:0 type="stream" channelId="2214" name="Rai Italia" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png", Rai Italia
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:0 type="stream" channelId="143" name="RT News" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/512px-RT_America_Logo.png", RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="YTN" group="News" logo="https://i.imgur.com/1uS5LpG.png", YTN
+https://cdn6.goprimetime.info/feed/202105171329/LC44/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV1" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png", DLTV1
+https://cdn-live.dltv.ac.th/dltv01_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV2" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png", DLTV2
+https://cdn-live.dltv.ac.th/dltv02_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV3" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png", DLTV3
+https://cdn-live.dltv.ac.th/dltv03_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV4" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png", DLTV4
+https://cdn-live.dltv.ac.th/dltv04_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV5" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png", DLTV5
+https://cdn-live.dltv.ac.th/dltv05_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV6" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png", DLTV6
+https://cdn-live.dltv.ac.th/dltv06_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV7" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png", DLTV7
+https://cdn-live.dltv.ac.th/dltv07_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV8" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png", DLTV8
+https://cdn-live.dltv.ac.th/dltv08_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV9" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png", DLTV9
+https://cdn-live.dltv.ac.th/dltv09_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV10" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png", DLTV10
+https://cdn-live.dltv.ac.th/dltv10_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV11" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png", DLTV11
+https://cdn-live.dltv.ac.th/dltv11_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV11" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png", DLTV11
+https://cdn-live.dltv.ac.th/dltv11_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV12" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png", DLTV12
+https://cdn-live.dltv.ac.th/dltv12_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV13" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png", DLTV13
+https://cdn-live.dltv.ac.th/dltv13_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV14" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png", DLTV14
+https://cdn-live.dltv.ac.th/dltv14_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DLTV15" group="Education" logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png", DLTV15
+https://cdn-live.dltv.ac.th/dltv15_720p/index.m3u8
+#EXTINF:0 type="stream" channelId="1974" name="ETV" group="Education" logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0087.png", ETV
+http://150.95.66.20:1935/live/livestream/chunklist.m3u8
