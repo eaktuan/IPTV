@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Good TV", KHONGDEE
+https://mediasv.online/wacth_1_dvr/goodtv37_KhongDee./chunks_dvr.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://4.bp.blogspot.com/_tF_DyjQ-CPA/So1LLo927nI/AAAAAAAAAR4/iWf-bjz2pAY/s320/12385712681238586726l.jpg", NBT
 https://freelive2.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
@@ -623,8 +625,6 @@ https://bit.ly/3oumevG
 https://bit.ly/3RXHgAv
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/4d3996f845bafd6c292731fe723a4098.jpg" group-title="18 UP", 18 Up27
 https://bit.ly/3ONn3L3
-#EXTINF:0 type="stream" channelId="-1", tvg-logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Good TV", KHONGDEE
-https://mediasv.online/wacth_1_dvr/goodtv37_KhongDee./chunks_dvr.m3u8
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/b446da4c3a89d9f306fa1e167e3412df.png" group-title="Good TV", BUSABA
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjEwOjIwIEFNJmhhc2hfdmFsdWU9QU9ZRWZiVXNNelgweldsVGtHNThKdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF8zNDU4Ng==
