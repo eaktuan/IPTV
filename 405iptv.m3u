@@ -2,7 +2,7 @@
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png" group-title="VTV", VTV1
 http://s4live.tv1asia.com:21585/vtv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png" , VTV3
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png" group-title="VTV", VTV3
 http://s4live.tv1asia.com:21585/vtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Good TV", KHONGDEE
