@@ -1,6 +1,11 @@
 #EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1" group-title="VTV", VTV1
+http://s4live.tv1asia.com:21585/vtv1/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Good TV", KHONGDEE
 https://mediasv.online/wacth_1_dvr/goodtv37_KhongDee./chunks_dvr.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="http://4.bp.blogspot.com/_tF_DyjQ-CPA/So1LLo927nI/AAAAAAAAAR4/iWf-bjz2pAY/s320/12385712681238586726l.jpg", NBT
 https://freelive2.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
