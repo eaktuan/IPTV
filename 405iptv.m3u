@@ -456,11 +456,11 @@ https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c755f2aab88607683ed1abd1b11d3b71.png", ANIMAL PLANET
 https://www.doofootball.com/dootv/live/animalplanet#main_dootv|Referer=https://www.doofootball.com
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png", EXPLORE LIFE
-https://www.doofootball.com/dootv/live/truelife#main_dootv|Referer=https://www.doofootball.com
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truelife/chunks.m3u8
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/06cfef3a3ca19742cf4a40b82e91e93d.png", EXPLORE SCI
-https://www.doofootball.com/dootv/live/truesci#main_dootv|Referer=https://www.doofootball.com
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truesci/chunks.m3u8
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/e6b5a730b20ebd9bc688cef5780a61db.png", EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truewild/chunks.m3u8
 https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MTMgUE0maGFzaF92YWx1ZT1IZWtPTjNBOXVaOEpkcFVSUEd6a2x3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzkwNzE4
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg", BBC EARTH
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
