@@ -6,7 +6,7 @@ http://s4live.tv1asia.com:21585/vtv1/tracks-v1a1/mono.m3u8
 http://s4live.tv1asia.com:21585/vtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png" group-title="Documetary", DISCOVERY ASIA
-https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/discovery-asia/chunks.m3u8|Referer=https://www.doofootball.com
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/discovery-asia/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Documetary", KHONGDEE
 https://mediasv.online/wacth_1_dvr/goodtv37_KhongDee./chunks_dvr.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png" group-title="Documetary", EXP LIFE
