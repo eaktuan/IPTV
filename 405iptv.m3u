@@ -10,56 +10,57 @@ https://mediasv.online/wacth_1_dvr/goodtv37_KhongDee./chunks_dvr.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://4.bp.blogspot.com/_tF_DyjQ-CPA/So1LLo927nI/AAAAAAAAAR4/iWf-bjz2pAY/s320/12385712681238586726l.jpg", NBT
 https://freelive2.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="THAITV",  3HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="THAITV",  3HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล",  5HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="THAITV",  5HD
 https://freelive.inwstream.com:1936/freelive-edge/ch5hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="THAITV", 7HD
 https://freelive.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="ดิจิตอล", MCOT HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="THAITV", MCOT HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="ดิจิตอล", NBT HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="THAITV", NBT HD
 https://freelive.inwstream.com:1936/freelive-edge/nbt/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="ดิจิตอล", THAI TPBS
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="THAITV", ThaiPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="ดิจิตอล", ONE HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="THAITV", ONE HD
 https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="ดิจิตอล", THAIRATH TV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="THAITV", THAIRATH TV
 https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="ดิจิตอล", AMARIN TV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="THAITV", AMARIN TV
 https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="ดิจิตอล", PPTV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="THAITV", PPTV
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="ดิจิตอล", WORKPOINT
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="THAITV", WORKPOINT
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="ดิจิตอล", CH8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="THAITV", CH8
 https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="ดิจิตอล", MONO 29
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="THAITV", MONO 29
 https://freelive2.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="THAITV", VOICE TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="THAITV", VOICE TV
 https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="ดิจิตอล", GMM25
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="THAITV", GMM25
 https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="ดิจิตอล", NATION TV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="THAITV", NATION TV
 https://freelive2.inwstream.com:1936/freelive-edge/nation/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="ดิจิตอล", TNN24
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="THAITV", TNN24
 https://freelive2.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="ดิจิตอล", TRUE4U
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="THAITV", TRUE4U
 https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/af566eee06d70705c9a5d6621f7cc64d.png" group-title="ดิจิตอล", JKN 18
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/af566eee06d70705c9a5d6621f7cc64d.png" group-title="THAITV", JKN 18
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/866e5df87e28038644029317171a221a.png" group-title="ดิจิตอล", NEWS1
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/866e5df87e28038644029317171a221a.png" group-title="THAITV", NEWS1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/32c5ff58cf17d10974ce35833a4ef67f.png" group-title="ดิจิตอล", ALTV4
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/32c5ff58cf17d10974ce35833a4ef67f.png" group-title="THAITV", ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/da7fe18b34092574913e8357193cd986.jpg" group-title="ดิจิตอล", TOP NEWS
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/da7fe18b34092574913e8357193cd986.jpg" group-title="THAITV", TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_1080.m3u8
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/eb42aa92842b63f74425e44222f6d133.jpg" group-title="ดิจิตอล", TPTV
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/eb42aa92842b63f74425e44222f6d133.jpg" group-title="THAITV", TPTV
 https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1
 https://www.livestream88.com/sport/true-sport-hd-1|Referer=https://www.livestream88.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1 สำรอง
