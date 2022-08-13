@@ -5,8 +5,42 @@ http://s4live.tv1asia.com:21585/vtv1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png" group-title="VTV", VTV3
 http://s4live.tv1asia.com:21585/vtv3/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Good TV", KHONGDEE
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Documetary", KHONGDEE
 https://mediasv.online/wacth_1_dvr/goodtv37_KhongDee./chunks_dvr.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png" group-title="Documetary", EXP LIFE
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truelife/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/06cfef3a3ca19742cf4a40b82e91e93d.png" group-title="Documetary", EXP SCI
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truesci/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/e6b5a730b20ebd9bc688cef5780a61db.png" group-title="Documetary", EXP WILD
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truewild/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/e6b5a730b20ebd9bc688cef5780a61db.png group-title="Documetary"", EXP WILD2
+https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MTMgUE0maGFzaF92YWx1ZT1IZWtPTjNBOXVaOEpkcFVSUEd6a2x3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzkwNzE4
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/4333893645ba80aabc21815901746ad0.png", HISTORYHD
+https://www.doofootball.com/dootv/live/history#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/750a53b686446ebe72dcf75250736696.png", H2
+https://smart-tv.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c9b21591130dc190a0dfea665b8b98f2.png", NATIONAL GEOGRAPHIC
+https://www.doofootball.com/dootv/live/natgeo#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/b0b94b191e44d2907185661b782c16ea.jpg", NETGEO WILD
+https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/9077a737d109eacd184b65a964995b74.png", DISCOVERY CHANNEL
+https://www.doofootball.com/dootv/live/discovery#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png", DISCOVERY ASIA
+https://www.doofootball.com/dootv/live/discoveryasia#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/22d4a934f81fdb9f865b36098027b888.jpg", LOVENATURE
+https://www.doofootball.com/dootv/live/lovenature4k#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/22d4a934f81fdb9f865b36098027b888.jpg", LOVENATURE4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/60bb97237ee960e0019e12b4df372cae.png", CLARITY4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/a51c6879d26d7873fde3c1ab655a3060.jpg", WILDEARTH
+https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c755f2aab88607683ed1abd1b11d3b71.png", ANIMAL PLANET
+https://www.doofootball.com/dootv/live/animalplanet#main_dootv|Referer=https://www.doofootball.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg", BBC EARTH
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/9984c1a46949fa4896c324e6995ff523.jpg", BBC LIFE STYLE
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://4.bp.blogspot.com/_tF_DyjQ-CPA/So1LLo927nI/AAAAAAAAAR4/iWf-bjz2pAY/s320/12385712681238586726l.jpg", NBT
 https://freelive2.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
@@ -433,39 +467,7 @@ http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/3d7379cbdb7cdd84ca2d1b98778b94ee.jpg" group-title="ช่องหนัง", FOX HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/4333893645ba80aabc21815901746ad0.png", HISTORYHD
-https://www.doofootball.com/dootv/live/history#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/750a53b686446ebe72dcf75250736696.png", H2
-https://smart-tv.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c9b21591130dc190a0dfea665b8b98f2.png", NATIONAL GEOGRAPHIC
-https://www.doofootball.com/dootv/live/natgeo#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/b0b94b191e44d2907185661b782c16ea.jpg", NETGEO WILD
-https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/9077a737d109eacd184b65a964995b74.png", DISCOVERY CHANNEL
-https://www.doofootball.com/dootv/live/discovery#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png", DISCOVERY ASIA
-https://www.doofootball.com/dootv/live/discoveryasia#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/22d4a934f81fdb9f865b36098027b888.jpg", LOVENATURE
-https://www.doofootball.com/dootv/live/lovenature4k#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/22d4a934f81fdb9f865b36098027b888.jpg", LOVENATURE4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/60bb97237ee960e0019e12b4df372cae.png", CLARITY4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/a51c6879d26d7873fde3c1ab655a3060.jpg", WILDEARTH
-https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c755f2aab88607683ed1abd1b11d3b71.png", ANIMAL PLANET
-https://www.doofootball.com/dootv/live/animalplanet#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png", EXPLORE LIFE
-https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truelife/chunks.m3u8
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/06cfef3a3ca19742cf4a40b82e91e93d.png", EXPLORE SCI
-https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truesci/chunks.m3u8
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/e6b5a730b20ebd9bc688cef5780a61db.png", EXPLORE WILD
-https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truewild/chunks.m3u8
-https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MTMgUE0maGFzaF92YWx1ZT1IZWtPTjNBOXVaOEpkcFVSUEd6a2x3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzkwNzE4
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg", BBC EARTH
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/9984c1a46949fa4896c324e6995ff523.jpg", BBC LIFE STYLE
-#EXTVLCOPT:http-referrer=https://wacth.tv/
+
 https://mediasv.online/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE3OjA3IEFNJmhhc2hfdmFsdWU9OFJZVW04MEYvK2RaeFM4R3JOWDRlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF85NTgyMQ==
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/fbc0664bce9cc64951a22bbca7adec98.jpg" group-title="สารคดี", SUMLOJLOK
 #EXTVLCOPT:http-referrer=https://wacth.tv/
