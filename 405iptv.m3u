@@ -621,30 +621,6 @@ https://live1.thaitvstream.com/play/khaochadtv/index.m3u8
 https://live1.thaitvstream.com/play/srtvonline/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/b61fa835f4e661fd454bd8af47ca8c72.png" group-title="TV ท้องถิ่นไทย", NK TV
 https://3070.short.gy/fstvhd/nktv.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/bcec21d4209176a2a42f6dfdf993f736.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก1
-https://ufa77.tv/channel?ch=baygonhero1|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c77935f205bbbab031e1ff53fe5c5c84.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก2
-https://ufa77.tv/channel?ch=baygonhero2|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/f7e32970fc5bd391e167a5159ca4503c.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก3
-https://ufa77.tv/channel?ch=baygonhero3|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b336afe7bd6aa03d6e49a01d9fe1832d.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก4
-https://ufa77.tv/channel?ch=baygonhero4|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/6ff4d7abb150f9926007b04bc987b955.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก5
-https://ufa77.tv/channel?ch=baygonhero5|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/270bb5cc4187587dccc605493e9c13a5.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก6
-https://ufa77.tv/channel?ch=baygonhero6|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/985d29625f22701e514c9b8ec7f4cb41.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก7
-https://ufa77.tv/channel?ch=baygonhero7|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/747e14a3d2b34bc79c674b253a029ffe.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก8
-https://ufa77.tv/channel?ch=baygonhero8|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/9b4aa869b445f7d527c6d52d8b486dd5.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก9
-https://ufa77.tv/channel?ch=baygonhero9|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/e7bf62181b1f132b967d9ddfa0cedc5a.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก10
-https://ufa77.tv/channel?ch=baygonhero10|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/cb5571e1f0022965f2d766a668570e0f.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก11
-https://ufa77.tv/channel?ch=baygonhero11|Referer=https://ufa77.tv
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/d85eb2330dd0f7e99773fa8d72503034.png" group-title="กิฬาไทยลีก", กิฬาไทยลีก12
-https://ufa77.tv/channel?ch=baygonhero12|Referer=https://ufa77.tv
 
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/b446da4c3a89d9f306fa1e167e3412df.png" group-title="Good TV", BUSABA
 #EXTVLCOPT:http-referrer=https://wacth.tv/
