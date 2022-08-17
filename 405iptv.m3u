@@ -3,7 +3,7 @@
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png" group-title="Documetary", DISCOVERY ASIA
 https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/discovery-asia/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png" group-title="Documetary", KHONGDEE
-http://6395online.com:8080/live/0635192910/0833344553/140164.ts|https://mediasv.online/wacth_1_dvr/goodtv37_KhongDee./chunks_dvr.m3u8
+http://6395online.com:8080/live/0635192910/0833344553/140164.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png" group-title="Documetary", EXP LIFE
 https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truelife/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.img.in.th/images/06cfef3a3ca19742cf4a40b82e91e93d.png" group-title="Documetary", EXP SCI
