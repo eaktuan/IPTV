@@ -1,0 +1,17 @@
+#EXTM3U
+## WorldSport 18/8/2022
+
+#EXTINF:-1 group-title="WorldSports", ESPN
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/9660.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png", BTSPORTS1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png", BT-SPORTS1
+https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r4/btsport1/chunks.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/1237ae854e27d2dca4324a0dcf762f77.jpg", BTSPORTS2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/1237ae854e27d2dca4324a0dcf762f77.jpg", BT-SPORTS2
+https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r4/btsport2/chunks.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg", BTSPORTS3
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2941
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg", BT-SPORTS3
+https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r4/btsport3/chunks.m3u8
