@@ -1,5 +1,136 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="United States" tvg-logo="https://i.postimg.cc/tR1BNfcd/NFL-Network-New.jpg", NFL Network
+http://mag.you24.online:8080/order18166/4mlgz8fpln/685903
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network HD VIP US" tvg-logo="https://i.postimg.cc/tR1BNfcd/NFL-Network-New.jpg" group-title="United States",NFL Network HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/685902
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network FHD US" tvg-logo="https://i.postimg.cc/Fz6WkQgz/MLB-Network.png" group-title="United States",MLB Network FHD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/4868
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://i.postimg.cc/Fz6WkQgz/MLB-Network.png" group-title="United States",MLB Network HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/14402
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV HD VIP US" tvg-logo="https://i.postimg.cc/Qx5wKHwr/NBA-TV-2017.png" group-title="United States",NBA TV HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/684729
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV HD US" tvg-logo="https://i.postimg.cc/Qx5wKHwr/NBA-TV-2017.png" group-title="United States",NBA TV HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/6355
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL Network HD US" tvg-logo="https://i.postimg.cc/d078DTN2/NHL-Network-2012.jpg" group-title="United States",NHL Network HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/4875
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="NBC Sports Bay Area HD US" tvg-logo="https://i.postimg.cc/NFrNqzmH/NBC-Sports-Bay-Area.jpg" group-title="United States",NBC Sports Bay Area HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677158
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="NBC Sports Boston FHD US" tvg-logo="https://i.postimg.cc/pdzzvM6x/NBC-Sports-Boston.jpg" group-title="United States",NBC Sports Boston FHD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677159
+#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="NBC Sports Philadelphia HD VIP US" tvg-logo="https://i.postimg.cc/fLQfQDwD/Nbcsphi-pri-fc-pos.jpg" group-title="United States",NBC Sports Philadelphia HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/694114
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="NBC Sports California FHD US" tvg-logo="https://i.postimg.cc/0NXQhW8x/NBC-Sports-California.jpg" group-title="United States",NBC Sports California FHD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677160
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="NBC Sports Chicago HD VIP US" tvg-logo="https://i.postimg.cc/cHdm5J4P/NBC-Sports-Chicago.jpg" group-title="United States",NBC Sports Chicago HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677161
+#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="NBC Sports Washington HD US" tvg-logo="https://i.postimg.cc/T3F3Tkyc/NBC-Sports-Washington.jpg" group-title="United States",NBC Sports Washington HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677165
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="NBC Golf FHD US" tvg-logo="https://i.postimg.cc/Nf0XMzMh/NBC-Golf.jpg" group-title="United States",NBC Golf FHD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/13753
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="NBC Golf HD US" tvg-logo="https://i.postimg.cc/Nf0XMzMh/NBC-Golf.jpg" group-title="United States",NBC Golf HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/4953
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="Golf Channel HD VIP US" tvg-logo="https://i.postimg.cc/Nf0XMzMh/NBC-Golf.jpg" group-title="United States",Golf Channel HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/6340
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 HD US" tvg-logo="https://i.postimg.cc/2y1BH1gk/FS1.png" group-title="United States",Fox Sports 1 HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/14562
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 US" tvg-logo="https://i.postimg.cc/2y1BH1gk/FS1.png" group-title="United States",Fox Sports 1 US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/63735
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="Fox Sports 2 HD US" tvg-logo="https://i.postimg.cc/8kvvr6d4/FS2.png" group-title="United States",Fox Sports 2 HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/494259
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="Fox Sports 2 US" tvg-logo="https://i.postimg.cc/8kvvr6d4/FS2.png" group-title="United States",Fox Sports 2 US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/63365
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="Fox Soccer Plus HD US" tvg-logo="https://i.postimg.cc/RF9kQf6t/Fox-Soccer-Plus.png" group-title="United States",Fox Soccer Plus HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/14408
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="Bally Sports Detroit HD VIP US" tvg-logo="https://i.postimg.cc/BQ6DmmBZ/Bally-Sports-Detroit.jpg" group-title="United States",Bally Sports Detroit HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/695156
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="Bally Sports Midwest HD VIP US" tvg-logo="https://i.postimg.cc/GmMFL1rs/Bally-Sports-Midwest.png" group-title="United States",Bally Sports Midwest HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677166
+#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="Bally Sports San Diego HD VIP US" tvg-logo="https://i.postimg.cc/dtymjf8b/Bally-Sports-San-Diego.png" group-title="United States",Bally Sports San Diego HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677172
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="Bally Sports SoCal HD US" tvg-logo="https://i.postimg.cc/k4krLZD0/Bally-Sports-So-Cal.png" group-title="United States",Bally Sports SoCal HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677149
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="Bally Sports Ohio HD VIP US" tvg-logo="https://i.postimg.cc/fyk5sTSy/Bally-sports-Ohio.png" group-title="United States",Bally Sports Ohio HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677174
+#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="Bally Sports Southwest HD VIP US" tvg-logo="https://i.postimg.cc/CxwWRxxh/Bally-Sports-Southwest.jpg" group-title="United States",Bally Sports Southwest HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/695155
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN News HD US" tvg-logo="https://i.postimg.cc/pTQYt5dP/ESPNEWS.png" group-title="United States",ESPN News HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/4935
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN FHD VIP US" tvg-logo="https://i.postimg.cc/L5tHDRvC/ESPN.png" group-title="United States",ESPN FHD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/683881
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD US" tvg-logo="https://i.postimg.cc/L5tHDRvC/ESPN.png" group-title="United States",ESPN HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/14363
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2 FHD VIP US" tvg-logo="https://i.postimg.cc/hthkPcxk/ESPN2.png" group-title="United States",ESPN 2 FHD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/683882
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2 HD US" tvg-logo="https://i.postimg.cc/hthkPcxk/ESPN2.png" group-title="United States",ESPN 2 HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677173
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U HD US" tvg-logo="https://i.postimg.cc/d3PdH2cq/ESPN-U.jpg" group-title="United States",ESPN U HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677140
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U US" tvg-logo="https://i.postimg.cc/d3PdH2cq/ESPN-U.jpg" group-title="United States",ESPN U US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/33498
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="ESPN Sec Network HD US" tvg-logo="https://i.postimg.cc/3N1XkkzY/SEC-network-horizontal.png" group-title="United States",ESPN Sec Network HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/32382
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN Deportes HD US" tvg-logo="https://i.postimg.cc/bJCYd8L4/ESPN-Deportes.png" group-title="United States",ESPN Deportes HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677142
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1 HD US" tvg-logo="https://i.postimg.cc/8zRZGCzk/TSN1.png" group-title="United States",TSN 1 HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/6353
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 HD US" tvg-logo="https://i.postimg.cc/G22KvJJ9/TSN2.png" group-title="United States",TSN 2 HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/6352
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 HD VIP US" tvg-logo="https://i.postimg.cc/Y9s3RGbR/TSN3.png" group-title="United States",TSN 3 HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/6351
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 HD VIP US" tvg-logo="https://i.postimg.cc/QMSSBn7R/TSN4.png" group-title="United States",TSN 4 HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/679808
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 HD VIP US" tvg-logo="https://i.postimg.cc/tg924Hs3/TSN5.png" group-title="United States",TSN 5 HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/6349
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="Yes Network HD VIP US" tvg-logo="https://i.postimg.cc/9Qwrw47V/YES-Network.png" group-title="United States",Yes Network HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/688786
+#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="SNY HD VIP US" tvg-logo="https://i.postimg.cc/YqXgkz11/Sportsnet-New-York.jpg" group-title="United States",SNY HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677151
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="MSG HD US" tvg-logo="https://i.postimg.cc/QM28LS4W/MSG-Network.jpg" group-title="United States",MSG HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/623146
+#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="MSG+ HD VIP US" tvg-logo="https://i.postimg.cc/0ySXWfw4/MSG-Plus.jpg" group-title="United States",MSG+ HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677150
+#EXTINF:-1 tvg-id="pac12network.us" tvg-name="Pac-12 Network HD VIP US" tvg-logo="https://i.postimg.cc/Bt9HXxn8/Pac-12-Networks.png" group-title="United States",Pac-12 Network HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/684756
+#EXTINF:-1 tvg-id="pac12oregon.us" tvg-name="PAC-12 Oregon HD VIP US" tvg-logo="https://i.postimg.cc/Bt9HXxn8/Pac-12-Networks.png" group-title="United States",PAC-12 Oregon HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/13752
+#EXTINF:-1 tvg-id="pac12oregon.us" tvg-name="PAC-12 Oregon US" tvg-logo="https://i.postimg.cc/Bt9HXxn8/Pac-12-Networks.png" group-title="United States",PAC-12 Oregon US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/4863
+#EXTINF:-1 tvg-id="pac12losangeles.us" tvg-name="PAC-12 [Los Angeles] HD VIP US" tvg-logo="https://i.postimg.cc/Bt9HXxn8/Pac-12-Networks.png" group-title="United States",PAC-12 [Los Angeles] HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677124
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="Big Ten Network HD VIP US" tvg-logo="https://i.postimg.cc/4dpBwNHh/Big-Ten-Network.jpg" group-title="United States",Big Ten Network HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/684743
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="Big Ten Network HD US" tvg-logo="https://i.postimg.cc/4dpBwNHh/Big-Ten-Network.jpg" group-title="United States",Big Ten Network HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/6361
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS Sports Network HD US" tvg-logo="https://i.postimg.cc/63xDBPdn/CBS-Sports-Network.jpg" group-title="United States",CBS Sports Network HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/14385
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="beIN Sports FHD US" tvg-logo="https://i.postimg.cc/B6ZB5c3R/be-IN-Sports.png" group-title="United States",beIN Sports FHD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/13759
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="beiN Sports HD US" tvg-logo="https://i.postimg.cc/B6ZB5c3R/be-IN-Sports.png" group-title="United States",beiN Sports HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/4902
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="TUDN HD VIP US" tvg-logo="https://i.postimg.cc/vZzhNHzJ/TUDN.png" group-title="United States",TUDN HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/684705
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="UFC Fight Pass FHD VIP US" tvg-logo="https://i.postimg.cc/NfQrP8z0/UFC-Fight-Pass.jpg" group-title="United States",UFC Fight Pass FHD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/16617
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Network FHD VIP US" tvg-logo="https://i.postimg.cc/50PZdSmM/WWE-Network.jpg" group-title="United States",WWE Network FHD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/683883
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Network HD US" tvg-logo="https://i.postimg.cc/50PZdSmM/WWE-Network.jpg" group-title="United States",WWE Network HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/14404
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="MAV TV HD US" tvg-logo="https://i.postimg.cc/fL36s0qt/MavTV.jpg" group-title="United States",MAV TV HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677152
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="NESN HD US" tvg-logo="https://i.postimg.cc/KY3NvrF2/NESN.jpg" group-title="United States",NESN HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/34415
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel FHD VIP US" tvg-logo="https://i.postimg.cc/CxqBRvZm/Tennis-Channel.jpg" group-title="United States",Tennis Channel FHD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/683506
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel HD VIP US" tvg-logo="https://i.postimg.cc/CxqBRvZm/Tennis-Channel.jpg" group-title="United States",Tennis Channel HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/684767
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow Cricket HD US" tvg-logo="https://i.postimg.cc/bwyYh3xZ/Willow-Cricket.jpg" group-title="United States",Willow Cricket HD US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/677818
+#EXTINF:-1 tvg-id="tvg.us" tvg-name="TVG Network HD VIP US" tvg-logo="https://i.postimg.cc/sgNkNcwd/TVG.jpg" group-title="United States",TVG Network HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/678070
+#EXTINF:-1 tvg-id="tvg2.us" tvg-name="TVG2 Network HD VIP US" tvg-logo="https://i.postimg.cc/sgNkNcwd/TVG.jpg" group-title="United States",TVG2 Network HD VIP US
+http://mag.you24.online:8080/order18166/4mlgz8fpln/678071
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png", DISCOVERY ASIA
 https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r7/discovery-asia/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/9077a737d109eacd184b65a964995b74.png", DISCOVERY CHANNEL
