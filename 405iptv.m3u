@@ -551,6 +551,8 @@ https://www.doofootball.com/dootv/live/btsport2#main_dootv|Referer=https://www.d
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg" group-title="กิฬานอก", BTSPORTS3 HD
 https://www.doofootball.com/dootv/live/btsport3#main_dootv|Referer=https://www.doofootball.com
 
+#EXTINF:-1 group-title="WorldSports", ESPN
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/9660.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png", BTSPORTS1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png", BT-SPORTS1
@@ -563,6 +565,7 @@ https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r4/btsport2/chunks.m3u
 http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2941
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg", BT-SPORTS3
 https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r4/btsport3/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/bc787009e8c0a0d5cb3c5fbcc7c11557.png" group-title="ช่องหนัง", ROCK ENTERTAINMENT
 https://www.doofootball.com/dootv/live/blueant#main_dootv|Referer=https://www.doofootball.com
