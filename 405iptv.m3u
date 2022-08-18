@@ -379,6 +379,8 @@ https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87spotv2|Referer=https
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://www.img.in.th/images/efaa2047a712ae9ef8aec49e4ae74e56.png", TRUE GAMINGUP
 https://www.doofootball.com/dootv/live/truegamingup#main_dootv|Referer=https://www.doofootball.com
+
+
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqTXE.jpg" group-title="กิฬานอก", ASTRO SPORT1
 https://www.doofootball.com/dootv/live/astrosupersport#dootv_sport|Referer=https://www.doofootball.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqTXE.jpg" group-title="กิฬานอก", ASTRO SPORT1 สำรอง
@@ -421,6 +423,8 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 https://streaming.livescorethai.net/iptv/uk-eurosport.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF: -1 tvg-logo="https://www.img.in.th/images/385c1a971b6b07fa8843a2baa64d5177.png" group-title="กิฬานอก", EUROSPORT FR
 https://streaming.livescorethai.net/iptv/fr-eurosport.stream/chunks.m3u8|Referer=https://freetvdd.com
+
+
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrHT0.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VARITY1
 http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678020.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrHT0.png" group-title="กิฬาSuper sportsดูได้บางช่วงเวลา",  VARITY1 สำรอง
@@ -539,12 +543,27 @@ https://livesod88.com/?id=844978&ch=arenasport3serbia|Referer=https://livesod88.
 https://livesod88.com/?id=844978&ch=arenasport4serbia|Referer=https://livesod88.com
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/121cc6bd4ef0018c02221630c5eb2e3a.png" group-title="กิฬานอก", ARENA SPORT5
 https://livesod88.com/?id=844978&ch=arenasport5serbia|Referer=https://livesod88.com
+
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png" group-title="กิฬานอก", BTSPORTS1 HD
 https://www.doofootball.com/dootv/live/btsport1#main_dootv|Referer=https://www.doofootball.com
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/1237ae854e27d2dca4324a0dcf762f77.jpg" group-title="กิฬานอก", BTSPORTS2 HD
 https://www.doofootball.com/dootv/live/btsport2#main_dootv|Referer=https://www.doofootball.com
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg" group-title="กิฬานอก", BTSPORTS3 HD
 https://www.doofootball.com/dootv/live/btsport3#main_dootv|Referer=https://www.doofootball.com
+
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png", BTSPORTS1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png", BT-SPORTS1
+https://brantakan.xyz/da/premium31/chunks.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/1237ae854e27d2dca4324a0dcf762f77.jpg", BTSPORTS2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/1237ae854e27d2dca4324a0dcf762f77.jpg", BT-SPORTS2
+https://brantakan.xyz/da/premium32/chunks.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg", BTSPORTS3
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2941
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg", BT-SPORTS3
+https://brantakan.xyz/da/premium33/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/bc787009e8c0a0d5cb3c5fbcc7c11557.png" group-title="ช่องหนัง", ROCK ENTERTAINMENT
 https://www.doofootball.com/dootv/live/blueant#main_dootv|Referer=https://www.doofootball.com
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/9b6ebd7743382f5d0ab3cf25db093909.png" group-title="ช่องหนัง", ROCK EXTREME
