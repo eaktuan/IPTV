@@ -574,6 +574,7 @@ http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1, EUROSPORT
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,CANAL+ SPORT 🇫🇷
+#EXTVLCOPT:network-caching=1000
 http://37.235.38.139:4000/play/a005
 #EXTINF:-1, BeINSports 1 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
