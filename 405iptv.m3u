@@ -551,6 +551,10 @@ https://www.doofootball.com/dootv/live/btsport2#main_dootv|Referer=https://www.d
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg" group-title="กิฬานอก", BTSPORTS3 HD
 https://www.doofootball.com/dootv/live/btsport3#main_dootv|Referer=https://www.doofootball.com
 
+
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+Sport L2
+#EXTVLCOPT:network-caching=1000
+http://vn360sport.duckdns.org:9981/stream/channelid/2098224708?auth=PlnOlsgnHwY7fYaEqZgT3DMesdis
 #EXTINF:-1 group-title="WorldSports", ESPN
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/9660.m3u8
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/5bccd1e3b8273dac47d9ad974c6d4448.png", BTSPORTS1
