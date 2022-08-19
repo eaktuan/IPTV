@@ -565,6 +565,31 @@ https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r4/btsport2/chunks.m3u
 http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2941
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img.in.th/images/2125afbb50c2e12fe07ed0e8f2155ad9.jpg", BT-SPORTS3
 https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r4/btsport3/chunks.m3u8
+#EXTINF:-1, EUROSPORT 
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1, EUROSPORT
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+#EXTINF:-1,CANAL+ SPORT 🇫🇷
+http://37.235.38.139:4000/play/a005
+#EXTINF:-1, BeINSports 1 HD[THAI] 🇹🇭
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
+#EXTINF:-1, BeINSports 2 HD[THAI] 🇹🇭
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://203c24c33fcd.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.572289218728.channel.rhIEgrJYvSgU.m3u8
+#EXTINF:-2022, BT SPORT 1 HD 🇬🇧
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-2022, BT SPORT 2 HD 🇬🇧
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-2022, BT SPORT 3 HD 🇬🇧
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-2022, BT SPORT 1 HD 🇬🇧
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116667.m3u8
+#EXTINF:-2022, BT SPORT 2 HD 🇬🇧
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116668.m3u8
+#EXTINF:-2022, BT SPORT 3 HD 🇬🇧
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116669.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/bc787009e8c0a0d5cb3c5fbcc7c11557.png" group-title="ช่องหนัง", ROCK ENTERTAINMENT
