@@ -1,11 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="Sport", TrueSportHD1D
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2sporthd1_480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="Sport", TrueSportHD1L
+#EXTINF:-1 group-title="Sport" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png", TrueSportHD1L
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="Sport", TrueSportHD1Y
+#EXTINF:-1 group-title="Sport" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png", TrueSportHD1Y
 https://youdooball.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png", TrueSportHD1D
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2sporthd1_480p/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png", EXP LIFE
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truelife/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/06cfef3a3ca19742cf4a40b82e91e93d.png", EXP SCI
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truesci/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/e6b5a730b20ebd9bc688cef5780a61db.png", EXP WILD
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truewild/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="กิฬาใน", TRUESP HD2
