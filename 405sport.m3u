@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1
-https://www.livestream88.com/sport/true-sport-hd-1|Referer=https://www.livestream88.com
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1 สำรอง
-https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1|Referer=https://dooball2you.com
+https://youdooball.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="กิฬาใน", TRUESP HD2
 https://www.livestream88.com/sport/true-sport-hd-2|Referer=https://www.livestream88.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="กิฬาใน", TRUESP HD2 สำรอง
