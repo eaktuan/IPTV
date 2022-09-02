@@ -174,46 +174,65 @@ https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/9984c1a46949fa4896c324e6995ff523.jpg", BBC LIFE STYLE
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 
-#EXTINF:-1 group-title="CAT2TV",3HD
-http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",5HD
-http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",7HD
-http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",MCOT HD
-http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",PPTV
-http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",NBT
-http://61.19.242.134/feed/202105171329/chnbt/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",THAI PBS
-http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",THAIRATH
-http://61.19.242.134/feed/202105171329/chthairath/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",NEWTV
-http://61.19.242.134/feed/202105171329/newtv/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",TNN
-http://61.19.242.134/feed/202105171329/chtnn/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",TRUE4U
-http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",NATION
-http://61.19.242.134/feed/202105171329/chnation/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",WORKPOINT
-http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",GMM25
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",CH8
-http://61.19.242.134/feed/202105171329/ch8/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",MONO
-http://61.19.242.134/feed/202105171329/chmono29/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",ONE
-http://61.19.242.134/feed/202105171329/chonehd/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",AMARIN
-http://61.19.242.134/feed/202105171329/chamarin/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",NEW
-http://61.19.242.134/feed/202105171329/newtv/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",TOPNEWS
-http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3 HD Backup
+http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5 HD
+http://freelive.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7 HD Backup
+http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="mcot.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/mcot.png?rev=8",MCOT HD 
+http://freelive2.inwstream.com:1935/freelive-edge/mcothd/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="nbt.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/nbt.png?rev=8",NBT HD
+http://freelive2.inwstream.com:1935/freelive-edge/nbt/playlist.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="thaipbs.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/thaipbs.png?rev=8",Thai PBS HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="altv.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/altv.png?rev=8",ALTV HD
+https://iptv36.my.to/altv.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="workpoint.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/workpoint.png?rev=8",Workpoint TV Backup
+http://freelive.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="pptv.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD Backup
+http://freelive.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="pptv.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
+http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7 HD Backup
+http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="ch8.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/ch8.png?rev=8",CH8 Backup
+http://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="mono29.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=8",MONO29 Backup
+http://freelive.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="tptv.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/tptv.png?rev=8",[เสีย] TPTV
+http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="one.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/one.png?rev=8",ONE HD Backup
+http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="thairath.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=8",Thairath TV HD Backup
+http://freelive2.inwstream.com:1935/freelive-edge/thairahttvhd/playlist.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="amarin.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/amarin.png?rev=8",Amarin TV HD Backup
+http://freelive.inwstream.com:1935/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="gmm25.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/gmm25.png?rev=8",GMM25 Backup
+http://freelive.inwstream.com:1935/freelive-edge/gmm/playlist.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="gmm25.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/gmm25.png?rev=8",GMM25
+http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="tnn16.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/tnn16.png?rev=8",TNN16 HD
+http://freelive.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="true4u.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
+http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="nation.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/nation.png?rev=8",Nation TV HD
+http://freelive.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="topnews.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-02-01-084935.jpg?rev=8",Top News HD
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="voice.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/voice.png?rev=8",Voice TV HD
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="psi.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/psi.png?rev=8",PSI Saradee HD
+http://freelive2.inwstream.com:1935/freelive-edge/saradee99/playlist.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="cartoonclub.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/cartoonclub.png?rev=8",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="workpoint.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/workpoint.png?rev=8",Workpoint TV HD
+https://stream-03.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8hQdWM6wnCdBfOA48PegGXI)/dm/3/x6g9qjj/s/live-2.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="mono29.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=8",MONO29 HD Soundtrack
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080EN.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="mono29.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=8",MONO29 HD
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1
