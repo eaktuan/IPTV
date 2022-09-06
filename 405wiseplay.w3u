@@ -22,6 +22,14 @@
 "import": false
 },
 {
+"name": "405Sport",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCf1XExWu3C_3nszOj_Rz8nc7FOy5vHuPFty_Ry4g3aDNI-UdBDVw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/405Sport.w3u",
+"referer": "xxx",
+"info": " 405IPTV ",
+"import": false
+},
+{
 "name": "GTR-SPORT",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCf1XExWu3C_3nszOj_Rz8nc7FOy5vHuPFty_Ry4g3aDNI-UdBDVw&usqp=CAU",
 "url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/SPORTSv2",
