@@ -4,7 +4,13 @@ author:"GTR",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29PGwocI1rUbh5dTH0pOuNVrk_ViUwKmIyQ&usqp=CAU",
 
 stations:[
-
+{
+name:"ESPN2",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5VQMQX8Hj5n4b_msBr24WuuZu9VvkTUkOA&usqp=CAU",
+url:"https://s2.yourtehzeeb.com:786/hls/espnusa.m3u8?md5=zOEGF4SnW-iuHnhNpOli3Q&expires=1662787521",
+ "referer": "cricfree.live",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
 {
 name:"TrueSportHD1",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5VQMQX8Hj5n4b_msBr24WuuZu9VvkTUkOA&usqp=CAU",
