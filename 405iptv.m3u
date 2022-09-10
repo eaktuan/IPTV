@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="United States", ESPN2
+https://s2.yourtehzeeb.com:786/hls/espnusa.m3u8?md5=zOEGF4SnW-iuHnhNpOli3Q&expires=1662787521
 #EXTINF:-1  group-title="United States" tvg-logo="https://i.postimg.cc/tR1BNfcd/NFL-Network-New.jpg", NFL Network
 http://mag.you24.online:8080/order18166/4mlgz8fpln/685903
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network HD VIP US" tvg-logo="https://i.postimg.cc/tR1BNfcd/NFL-Network-New.jpg" group-title="United States",NFL Network HD VIP US
