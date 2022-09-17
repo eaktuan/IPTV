@@ -459,3 +459,7 @@ https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://tivihot.net/wp-content/uploads/2019/07/icon_channel_sam_tivihotnet.jpg" group-title="AVG",SAM CHANNEL - BTV11
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 group-title="SPORT",ESPN
+http://the.cctv-hut.net/get/david.kendall01/3a3nyyQfhy/channel/55945.ts
