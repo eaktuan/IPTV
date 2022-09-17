@@ -676,31 +676,31 @@ https://www.doofootball.com/dootv/live/foodnetwork#main_dootv|Referer=https://ww
 https://www.doofootball.com/dootv/live/fashiontv#main_dootv|Referer=https://www.doofootball.com
 
 
-#EXTINF:-1, group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/b0b09526c0efa0fbafe377fe05a889fd.jpg", ANIPLUS
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/b0b09526c0efa0fbafe377fe05a889fd.jpg", ANIPLUS
 http://6395online.com:8080/0635192910/0833344553/181
-#EXTINF:-1, group-title="การ์ตูน", ANIMAX
+#EXTINF:-1 group-title="การ์ตูน", ANIMAX
 http://6395online.com:8080/0635192910/0833344553/177
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/368d3d29f5525b3dd70e05b21506f1ac.png" group-title="การ์ตูน", CN
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/368d3d29f5525b3dd70e05b21506f1ac.png" group-title="การ์ตูน", CN
 http://6395online.com:8080/0635192910/0833344553/172
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/691b47ccba4e0af48342bdfcc781ad72.png" group-title="การ์ตูน", NICK JR
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/691b47ccba4e0af48342bdfcc781ad72.png" group-title="การ์ตูน", NICK JR
 http://6395online.com:8080/0635192910/0833344553/174
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg" group-title="การ์ตูน", DREAMWORKS
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg" group-title="การ์ตูน", DREAMWORKS
 http://6395online.com:8080/0635192910/0833344553/176
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" group-title="การ์ตูน", BOOMERANG
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" group-title="การ์ตูน", BOOMERANG
 http://6395online.com:8080/0635192910/0833344553/173
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg" group-title="การ์ตูน", TOONEE
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg" group-title="การ์ตูน", TOONEE
 http://6395online.com:8080/0635192910/0833344553/182
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c4aafaf3f6af58c64d7f049f5a011b19.png" group-title="การ์ตูน", NICKELODEON
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c4aafaf3f6af58c64d7f049f5a011b19.png" group-title="การ์ตูน", NICKELODEON
 http://6395online.com:8080/0635192910/0833344553/175
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/1b1028430bb8b27bfe42cd975aaad338.png" group-title="การ์ตูน", DISNEY XD
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1b1028430bb8b27bfe42cd975aaad338.png" group-title="การ์ตูน", DISNEY XD
 http://udoofree.com/movie2/83/single-live?watch=1|Referer=http://udoofree.com
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/73d68e549a0acc538d663343cd46c541.jpg" group-title="การ์ตูน", TRUE SPARK JUMP
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/73d68e549a0acc538d663343cd46c541.jpg" group-title="การ์ตูน", TRUE SPARK JUMP
 http://6395online.com:8080/0635192910/0833344553/179
-#EXTINF:-1, TRUE-PLAY
+#EXTINF:-1 TRUE-PLAY
 http://6395online.com:8080/0635192910/0833344553/180
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/2a7f0f12a4eb4ecdb5f70aeaf42fc57c.jpg" group-title="การ์ตูน", CARTOON CLUB
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/2a7f0f12a4eb4ecdb5f70aeaf42fc57c.jpg" group-title="การ์ตูน", CARTOON CLUB
 http://6395online.com:8080/0635192910/0833344553/178
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/96fa301efc1646e3173aa420ddeeb7ae.jpg" group-title="การ์ตูน", BABY
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/96fa301efc1646e3173aa420ddeeb7ae.jpg" group-title="การ์ตูน", BABY
 http://6395online.com:8080/0635192910/0833344553/188
 
 
