@@ -229,23 +229,27 @@ http://6395online.com:8080/0635192910/0833344553/207
 http://6395online.com:8080/0635192910/0833344553/208
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/3756a1167f02f5dc25f465b35b568173.png" group-title="TrueSport", TRUESP HD4
 http://6395online.com:8080/0635192910/0833344553/209
+#EXTINF:-1 group-title="TrueSport" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7Nfn.png", EPL1
+http://6395online.com:8080/0635192910/0833344553/195
+#EXTINF:-1 group-title="TrueSport" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7Nfn.png", EPL1ฺB
+http://6395online.com:8080/0635192910/0833344553/196
+#EXTINF:-1 group-title="TrueSport" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7B5g.png", EPL2
+http://6395online.com:8080/0635192910/0833344553/198
+#EXTINF:-1 group-title="TrueSport" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7fVW.png", EPL3
+http://6395online.com:8080/0635192910/0833344553/199
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/308ecc8cfb4d4d43d4bfcc71a7d732a4.png" group-title="TrueSport", EPL4
+http://6395online.com:8080/0635192910/0833344553/200
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b9d9a52b695e182e8130f5f05bd6c608.png" group-title="TrueSport", EPL5
+http://6395online.com:8080/0635192910/0833344553/201
+#EXTINF:-1 group-title="TrueSport", Bein 1 TH
+http://6395online.com:8080/0635192910/0833344553/202
+#EXTINF:-1 group-title="TrueSport", Bein 1 TH
+http://6395online.com:8080/0635192910/0833344553/203
+#EXTINF:-1 group-title="TrueSport", Bein 2 TH
+http://6395online.com:8080/0635192910/0833344553/204
+#EXTINF:-1 group-title="TrueSport", Bein 3 TH
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1
-https://www.livestream88.com/sport/true-sport-hd-1|Referer=https://www.livestream88.com
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1 สำรอง
-https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1|Referer=https://dooball2you.com
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="กิฬาใน", TRUESP HD2
-https://www.livestream88.com/sport/true-sport-hd-2|Referer=https://www.livestream88.com
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="กิฬาใน", TRUESP HD2 สำรอง
-https://dooball2you.com/truesporthd2|Referer=https://dooball2you.com
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWdC9.png" group-title="กิฬาใน", TRUESP HD3
-https://www.livestream88.com/sport/true-sport-hd-3|Referer=https://www.livestream88.com
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWdC9.png" group-title="กิฬาใน", TRUESP HD3 สำรอง
-https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd3|Referer=https://dooball2you.com
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3756a1167f02f5dc25f465b35b568173.png" group-title="กิฬาใน", TRUESP HD4
-https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3756a1167f02f5dc25f465b35b568173.png" group-title="กิฬาใน", TRUESP HD4 สำรอง
-https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd4|Referer=https://dooball2you.com
+
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/a05c2d50398bd84a99ff453225190129.png" group-title="กิฬาใน", TRUESP5
 https://livesod88.com/?id=794897&ch=truesport5|Referer=https://livesod88.com
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/a05c2d50398bd84a99ff453225190129.png" group-title="กิฬาใน", TRUESP5 สำรอง
@@ -278,26 +282,6 @@ https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87nfl|Referer=https://
 https://www.doofootball.com/dootv/live/tsports#main_dootv|Referer=https://www.doofootball.com
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/4fc9b12284a839c63ddabb6433edbd8a.jpg" group-title="กิฬาใน", T SPORTS สำรอง
 https://dooball2you.com/t-sport-channel|Referer=https://dooball2you.com
-#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7Nfn.png", EPL1
-https://www.doofootball.com/dootv/live/epl1#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7Nfn.png", EPL1 สำรอง
-https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf1|Referer=https://dooball2you.com
-#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7B5g.png", EPL2
-https://www.doofootball.com/dootv/live/epl2#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7B5g.png", EPL2 สำรอง
-https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf2|Referer=https://dooball2you.com
-#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7fVW.png", EPL3
-https://www.doofootball.com/dootv/live/epl3#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 group-title="กิฬาใน" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7fVW.png", EPL3 สำรอง
-https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf3|Referer=https://dooball2you.com
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/308ecc8cfb4d4d43d4bfcc71a7d732a4.png" group-title="กิฬาใน", EPL4
-https://www.doofootball.com/dootv/live/epl4#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/308ecc8cfb4d4d43d4bfcc71a7d732a4.png" group-title="กิฬาใน", EPL4 สำรอง
-https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf4|Referer=https://dooball2you.com
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b9d9a52b695e182e8130f5f05bd6c608.png" group-title="กิฬาใน", EPL5
-https://www.doofootball.com/dootv/live/epl5#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b9d9a52b695e182e8130f5f05bd6c608.png" group-title="กิฬาใน", EPL5 สำรอง
-https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf5|Referer=https://dooball2you.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png" group-title="กิฬาใน", BEIN SPORTS1
 https://www.doofootball.com/dootv/live/bein1#main_dootv|Referer=https://www.doofootball.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png" group-title="กิฬาใน", BEIN SPORTS1 สำรอง
