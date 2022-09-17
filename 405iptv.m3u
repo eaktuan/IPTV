@@ -239,6 +239,14 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080EN.stream/playli
 #EXTINF:-1 tvg-chno="29" tvg-id="mono29.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=8",MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="TrueSport", TRUESP HD1
+http://6395online.com:8080/0635192910/0833344553/206
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="TrueSport", TRUESP HD2
+http://6395online.com:8080/0635192910/0833344553/207
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWdC9.png" group-title="TrueSport", TRUESP HD3
+http://6395online.com:8080/0635192910/0833344553/208
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3756a1167f02f5dc25f465b35b568173.png" group-title="TrueSport", TRUESP HD4
+http://6395online.com:8080/0635192910/0833344553/209
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาใน", TRUESP HD1
 https://www.livestream88.com/sport/true-sport-hd-1|Referer=https://www.livestream88.com
