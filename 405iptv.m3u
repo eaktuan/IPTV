@@ -136,24 +136,6 @@ http://mag.you24.online:8080/order18166/4mlgz8fpln/678070
 #EXTINF:-1 tvg-id="tvg2.us" tvg-name="TVG2 Network HD VIP US" tvg-logo="https://i.postimg.cc/sgNkNcwd/TVG.jpg" group-title="United States",TVG2 Network HD VIP US
 http://mag.you24.online:8080/order18166/4mlgz8fpln/678071
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png", DISCOVERY ASIA
-https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r7/discovery-asia/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/9077a737d109eacd184b65a964995b74.png", DISCOVERY CHANNEL
-https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r7/hd-discovery/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/c9b21591130dc190a0dfea665b8b98f2.png", NATIONAL GEOGRAPHIC
-https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r7/natgeo/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/c755f2aab88607683ed1abd1b11d3b71.png", ANIMAL PLANET
-https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r7/hd-animalplanet/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/7587debfd4fc37f5e6b01dd3f13ac84c.png", KHONGDEE
-http://6395online.com:8080/live/0635192910/0833344553/140164.ts
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png", EXP LIFE
-https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truelife/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/06cfef3a3ca19742cf4a40b82e91e93d.png", EXP SCI
-https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truesci/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img.in.th/images/e6b5a730b20ebd9bc688cef5780a61db.png", EXP WILD
-https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/truewild/chunks.m3u8
-
-
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/4333893645ba80aabc21815901746ad0.png", HISTORYHD
 https://www.doofootball.com/dootv/live/history#main_dootv|Referer=https://www.doofootball.com
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/750a53b686446ebe72dcf75250736696.png", H2
@@ -692,76 +674,35 @@ https://www.doofootball.com/dootv/live/afc#main_dootv|Referer=https://www.doofoo
 https://www.doofootball.com/dootv/live/foodnetwork#main_dootv|Referer=https://www.doofootball.com
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/3010f575e8e95a0e3979f8f94008e07b.png", FASION TV
 https://www.doofootball.com/dootv/live/fashiontv#main_dootv|Referer=https://www.doofootball.com
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b0b09526c0efa0fbafe377fe05a889fd.jpg" group-title="การ์ตูน", ANIPLUS
-https://www.doofootball.com/dootv/live/aniplus#main_dootv|Referer=https://www.doofootball.com
+
+
+#EXTINF:-1, group-title="การ์ตูน" tvg-logo="https://www.img.in.th/images/b0b09526c0efa0fbafe377fe05a889fd.jpg", ANIPLUS
+http://6395online.com:8080/0635192910/0833344553/181
+#EXTINF:-1, group-title="การ์ตูน", ANIMAX
+http://6395online.com:8080/0635192910/0833344553/177
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/368d3d29f5525b3dd70e05b21506f1ac.png" group-title="การ์ตูน", CN
-https://streaming.livescorethai.net/iptv/sd-cartoonnetworkeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+http://6395online.com:8080/0635192910/0833344553/172
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/691b47ccba4e0af48342bdfcc781ad72.png" group-title="การ์ตูน", NICK JR
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-nickjr.stream/playlist.m3u8
+http://6395online.com:8080/0635192910/0833344553/174
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg" group-title="การ์ตูน", DREAMWORKS
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTM6MDAgUE0maGFzaF92YWx1ZT1FeDdpNXN1ZjBUR3NrckxXRThONUt3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzMxNTE3
+http://6395online.com:8080/0635192910/0833344553/176
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" group-title="การ์ตูน", BOOMERANG
-https://cdn6.goprimetime.info/feed/202105171329/chboomberang/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" group-title="การ์ตูน", BOOMERANG สำรอง
-http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/2a551c1a9831f7c1ceaeac6e43558cc0.png" group-title="การ์ตูน", ZOOMOO
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+http://6395online.com:8080/0635192910/0833344553/173
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg" group-title="การ์ตูน", TOONEE
-http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+http://6395online.com:8080/0635192910/0833344553/182
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/c4aafaf3f6af58c64d7f049f5a011b19.png" group-title="การ์ตูน", NICKELODEON
-https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/60b56a0145237a2e549613113422b0f1.jpg" group-title="การ์ตูน", NICK PLUTOO
-https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+http://6395online.com:8080/0635192910/0833344553/175
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/1b1028430bb8b27bfe42cd975aaad338.png" group-title="การ์ตูน", DISNEY XD
 http://udoofree.com/movie2/83/single-live?watch=1|Referer=http://udoofree.com
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/73d68e549a0acc538d663343cd46c541.jpg" group-title="การ์ตูน", TRUE SPARK JUMP
-https://www.doofootball.com/dootv/live/truesparkjump#main_dootv|Referer=https://www.doofootball.com
+http://6395online.com:8080/0635192910/0833344553/179
+#EXTINF:-1, TRUE-PLAY
+http://6395online.com:8080/0635192910/0833344553/180
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/2a7f0f12a4eb4ecdb5f70aeaf42fc57c.jpg" group-title="การ์ตูน", CARTOON CLUB
-https://youdooball.livedoomovies.com:4432/02_Cartoon_Club_720p/chunklist.m3u8|Referer=https://www.youdooball.com
+http://6395online.com:8080/0635192910/0833344553/178
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/96fa301efc1646e3173aa420ddeeb7ae.jpg" group-title="การ์ตูน", BABY
-https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b7e6863668ad763509ce5a8e99de06dc.jpg" group-title="การ์ตูน", PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/6b1890cc05b2d3e0fdfa50e64265ff92.png" group-title="การ์ตูน", CONTV ANIME
-https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/eeceb6abb14e5de92a8bd74b83fb84ba.jpg" group-title="การ์ตูน", ฺBABY FIRST
-http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c5af1527f87bc50f32e5d427d903ef28.jpg" group-title="การ์ตูน", ROKU_COCORO
-https://bit.ly/3aOcOrC
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/dc42aa9b8d2988d664d08feefdbed3ea.png" group-title="TV ท้องถิ่นไทย", สถานีเติมสุข
-https://live1.thaitvstream.com/play/gochannel/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/aec497b0898e50ea17a1dd4c78acc7be.png" group-title="TV ท้องถิ่นไทย", SIAM NEWS
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/1e917738abf7ba379a88018ff480a419.png" group-title="TV ท้องถิ่นไทย", THAI NEWS
-https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/ec2ef7dcb349dc95dc5e74310ae1a1fd.png" group-title="TV ท้องถิ่นไทย", MOUNCHON TV
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/7722f0cb752be4d2b85a0739fe0f278f.png" group-title="TV ท้องถิ่นไทย", BURIRUM TV
-https://live2.thaitvstream.com/play/burirumtv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c913045e4c1b0a17453921b37c085b80.png" group-title="TV ท้องถิ่นไทย", MIDIA NEWS
-https://live1.thaitvstream.com/play/medianews/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/a9ce275bb077a3ccb144034a03109669.png" group-title="TV ท้องถิ่นไทย", PHETCHABUN TV
-https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/ce12341aa3d9f14cebcce259f8e3dd31.png" group-title="TV ท้องถิ่นไทย", SMN
-https://live.thaitvstream.com/play/smn/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/e245611c67a3fcea13aa0fafe6bfcbf0.png" group-title="TV ท้องถิ่นไทย", PRACHUAP NEWS
-https://live1.thaitvstream.com/play/prachuapnews/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/8fbc80da1ac7a2d0e4571f0212af79a0.png" group-title="TV ท้องถิ่นไทย", ZABB TV
-https://live1.thaitvstream.com/play/zabbtv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/2f67c4ff9c71c9ba7531252d7606dc87.png" group-title="TV ท้องถิ่นไทย", WADYAN TV
-https://live.thaitvstream.com/play/wadyantv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/45719d011bfe68ee217195d85d59b788.png" group-title="TV ท้องถิ่นไทย", CHIANGRAI CHANNEL
-https://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/3e9cebc5d8c7c0f2666b1c4af85ccd19.png" group-title="TV ท้องถิ่นไทย", AETV
-https://live1.thaitvstream.com/play/aetv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/ab6645c139fd08676e090e5142b6bcdd.png" group-title="TV ท้องถิ่นไทย", KHAOCHAD TV
-https://live1.thaitvstream.com/play/khaochadtv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/e24399483f1b8816818b612f97fa34be.png" group-title="TV ท้องถิ่นไทย", SRTVONLINE
-https://live1.thaitvstream.com/play/srtvonline/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b61fa835f4e661fd454bd8af47ca8c72.png" group-title="TV ท้องถิ่นไทย", NK TV
-https://3070.short.gy/fstvhd/nktv.m3u8
+http://6395online.com:8080/0635192910/0833344553/188
+
 
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/b446da4c3a89d9f306fa1e167e3412df.png" group-title="Good TV", BUSABA
 #EXTVLCOPT:http-referrer=https://wacth.tv/
