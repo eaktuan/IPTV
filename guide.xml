@@ -10,8 +10,9 @@
     <url>http://www.tv.trueid.net</url>
   </channel>
   <channel id="ThaiPBS3.th">
-    <display-name lang="en">Thai PBS HD</display-name>
-    <url>http://www.aisplay.ais.co.th</url>
+    <display-name>Thai PBS 3</display-name>
+    <icon src="https://i.imgur.com/pLXo2Cq.png"/>
+    <url>https://tv.trueid.net</url>
   </channel>
   <channel id="ALTV.th">
     <display-name lang="en">ALTV</display-name>
