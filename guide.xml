@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="ESPN.us">
-  <display-name>ESPN</display-name>
-  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"/>
-  <url>https://directv.com</url>
-  </channel>
   <channel id="NBT2.th">
     <display-name lang="en">NBT HD</display-name>
     <url>http://www.tv.trueid.net</url>
@@ -62,7 +57,7 @@
     <display-name lang="en">Mono 29</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
   </channel>
-  <channel id="MCOTHD.th">
+  <channel id="MCOT HD">
     <display-name lang="en">MCOT HD</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
   </channel>
