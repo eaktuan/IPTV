@@ -1,465 +1,1753 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
+#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
+## #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml"
 
-
-#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="THAITV",CH3 HD
-https://cdn6.goprimetime.info/feed/202105171329/ch3hd/index.m3u8
-#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="THAITV",TV5 HD
-https://cdn6.goprimetime.info/feed/202105171329/ch5hd/index.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="THAITV",CH7 HD
-https://cdn6.goprimetime.info/feed/202105171329/ch7hd/index.m3u8
-#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="THAITV",MCOT HD
-https://cdn6.goprimetime.info/feed/202105171329/chmcothd/index.m3u8
-#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="THAITV",NBT HD
-https://cdn6.goprimetime.info/feed/202105171329/chnbt/index.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="THAITV",THAI PBS HD
-https://cdn6.goprimetime.info/feed/202105171329/chthaipbs/index.m3u8
-#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://i.imgur.com/Y6k45Su.png" group-title="THAITV",ALTV
+########################## 01-36 @ Digital TV ##########################
+#EXTINF:-1 tvg-chno="1" tvg-id="ThaiTV5HD1.th" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Digital TV",TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="ThaiPBS3.th" tvg-name="Thai PBS 3" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Digital TV",Thai PBS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://i.imgur.com/Y6k45Su.png" group-title="Digital TV",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="THAITV",PPTV HD
-https://cdn6.goprimetime.info/feed/202105171329/chpptvhd/index.m3u8
-#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="https://i.imgur.com/mfVhuRC.png" group-title="THAITV",TNN 16
-https://cdn6.goprimetime.info/feed/202105171329/chtnn/index.m3u8
-#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="THAITV",Nation TV
-https://cdn6.goprimetime.info/feed/202105171329/chnation/index.m3u8
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/oxf6BRn.png" group-title="THAITV",Workpoint TV
-https://cdn6.goprimetime.info/feed/202105171329/chworkpoint/index.m3u8
-#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="THAITV",True 4U
-https://cdn6.goprimetime.info/feed/202105171329/chtrue4u/index.m3u8
-#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="THAITV",GMM 25
-https://cdn6.goprimetime.info/feed/202105171329/chgmm/index.m3u8
-#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="THAITV",CH 8
-https://cdn6.goprimetime.info/feed/202105171329/ch8/index.m3u8
-#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="THAITV",MONO 29
-https://cdn6.goprimetime.info/feed/202105171329/chmono29/index.m3u8
-#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="THAITV",ONE HD
-https://cdn6.goprimetime.info/feed/202105171329/chonehd/index.m3u8
-#EXTINF:-1 tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title="THAITV",Thairath TV
-https://cdn6.goprimetime.info/feed/202105171329/chthairath/index.m3u8
-#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="THAITV",Amarin TV
-https://cdn6.goprimetime.info/feed/202105171329/chamarin/index.m3u8
-#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://i.imgur.com/Jfdy937.png" group-title="THAITV",TPTV
-https://cdn6.goprimetime.info/feed/202105171329/TPTV/index.m3u8
-#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://i.imgur.com/zxgCdl0.png" group-title="THAITV",JKN 18
-https://cdn6.goprimetime.info/feed/202105171329/newtv/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Digital TV",CH5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
+#EXTINF:-1 group-title="Digital TV",Thai PBS HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="Digital TV",T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
+#EXTINF:-1 group-title="Digital TV",NBT2
+https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",NBT11
+https://thainews.prd.go.th/lv/live/ch9_L.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://i.imgur.com/Jfdy937.png" group-title="Digital TV",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8
+#EXTINF:-1 group-title="Digital TV",NBT11 Central
+https://thainews.prd.go.th/lv/live/ch9_L.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",NBT Bangkok
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Digital TV",NBT WORLD
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",CH14
+https://
+#EXTINF:-1 group-title="Digital TV",Thairath32
+https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="TNN16.th" tvg-name="TNN16" tvg-logo="https://i.imgur.com/mfVhuRC.png" group-title="Digital TV",TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
+#EXTINF:-1 group-title="Digital TV",TNN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tnnthailand-1mertz.cdn.byteark.com/live/pl_720p/index.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://i.imgur.com/zxgCdl0.png" group-title="Digital TV",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
+#EXTINF:-1 group-title="Digital TV",CH19
+https://
+#EXTINF:-1 group-title="Digital TV",CH20
+https://
+#EXTINF:-1 group-title="Digital TV",CH21
+https://
+#EXTINF:-1 tvg-chno="22" tvg-id="Nation TV" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Digital TV",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://i.imgur.com/oxf6BRn.png" group-title="Digital TV",Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Digital TV",True 4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="Digital TV",GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chgmm3/index.m3u8
+#EXTINF:-1 group-title="Digital TV",CH26
+https://
+#EXTINF:-1 tvg-chno="27" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="Digital TV",CH 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
+#EXTINF:-1 group-title="Digital TV",CH28
+https://
+#EXTINF:-1 tvg-chno="29" tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Digital TV",MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="MCOT HD" tvg-name="MCOT HD" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="Digital TV",MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="Digital TV",ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title="Digital TV",Thairath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Digital TV",CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="Digital TV",Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Digital TV",CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Digital TV",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
-http://s4live.tv1asia.com:21585/vtv1/tracks-v1a1/mono.m3u8|https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png",VTV3
-http://s4live.tv1asia.com:21585/vtv3/tracks-v1a1/mono.m3u8|https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575",VTV4
-http://s4live.tv1asia.com:21585/vtv4/tracks-v1a1/mono.m3u8|https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635",VTV5
-http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8|https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6
-http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8|https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934",VTV7
-https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092",VTV8
-https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164",VTV9
-https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",V.News
-http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="nhandan" group-title="VTV" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
+########################## 37-59 @ Truevision ##########################
+#EXTINF:-1 tvg-chno="37" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Digital TV",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://aisplay.ais.co.th/portal/live?vid=5d4bebb6aae7315312049035
+
+#EXTINF:-1 group-title="Truevision",CH38
+https://
+#EXTINF:-1 group-title="Truevision",CH39
+https://
+#EXTINF:-1 group-title="Truevision",CH40
+https://
+#EXTINF:-1 group-title="Truevision",CH41
+https://
+#EXTINF:-1 group-title="Truevision",CH42
+https://
+#EXTINF:-1 group-title="Truevision",CH43
+https://
+#EXTINF:-1 group-title="Truevision",CH44
+https://
+#EXTINF:-1 group-title="Truevision",CH45
+https://
+#EXTINF:-1 group-title="Truevision",CH46
+https://
+#EXTINF:-1 group-title="Truevision",CH47
+https://
+#EXTINF:-1 group-title="Truevision",CH48
+https://
+#EXTINF:-1 group-title="Truevision",CH49
+https://
+#EXTINF:-1 group-title="Truevision",CH50
+https://
+#EXTINF:-1 group-title="Truevision",CH51
+https://
+#EXTINF:-1 group-title="Truevision",CH52
+https://
+#EXTINF:-1 group-title="Truevision",CH53
+https://
+#EXTINF:-1 group-title="Truevision",CH54
+https://
+#EXTINF:-1 group-title="Truevision",CH55
+https://
+#EXTINF:-1 group-title="Truevision",CH56
+https://
+#EXTINF:-1 group-title="Truevision",CH57
+https://
+#EXTINF:-1 group-title="Truevision",CH58
+https://
+#EXTINF:-1 group-title="Truevision",CH59
+https://
+
+########################## 60-110 @ Vietnam ##########################
+#EXTINF:-1 tvg-chno="60" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v_news.png",V.News
+https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
+#EXTINF:-1 tvg-chno="70" group-title="Vietnam" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhan_dan_tv_vn.png",Nhân Dân TV
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1111916114.m3u8
+#EXTINF:-1 tvg-chno="61" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_1.png",VTV1 News
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=926772&extension=m3u8
+#EXTINF:-1 tvg-chno="62" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_2.png",VTV2 EduTech
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=926771&extension=m3u8
+#EXTINF:-1 tvg-chno="63" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_3.png",VTV3 SportEnt
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=926770&extension=m3u8
+#EXTINF:-1 tvg-chno="64" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_4.png",VTV4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=926769&extension=m3u8
+#EXTINF:-1 tvg-chno="65" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_5.png",VTV5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=926768&extension=m3u8
+#EXTINF:-1 tvg-chno="66" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_6.png",VTV6
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115191&extension=ts
+#EXTINF:-1 tvg-chno="67" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_7.png",VTV7
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115192&extension=ts
+#EXTINF:-1 tvg-chno="68" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_8.png",VTV8
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115193&extension=ts
+#EXTINF:-1 tvg-chno="69" group-title="Vietnam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv_vn_9.png",VTV9
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115194&extension=ts
+#EXTINF:-1 tvg-chno="71" group-title="Vietnam" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qpvn_vn.png",Quốc Phòng TV
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
+#EXTINF:-1 tvg-chno="72" group-title="Vietnam" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quoc-hoi-tv-vn.png",Quốc Hội TV
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/ANTV_SD_logo_fix.png/revision/latest?cb=20201026081353&path-prefix=vi",An Ninh TV
-https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-
-
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVcab1 - Giải Trí
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVcab2 - Phim Việt
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="http://onetv.click/logo/on-sports.jpg",VTVcab3 - On Sports
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/194.png",VTVcab4 - Văn Hóa
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/100.png",VTVcab5
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTVcab6 - On Sports +
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/phprtQ6hB_5dae811aae9cd.png",VTVcab7 - O2 TV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/102.png",VTVcab8 - Bibi TV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/195.png",VTVcab9 - Info TV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/phpehBSp4_60a6127162d07.png",VTVcab10 - Film TV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/103.png",VTVcab12 - Style TV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/phpKbpOAa_5d429d8e79e56.jpg",VTVcab15 - UM channel
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="http://onetv.click/logo/on-football.jpg",VTVcab16 - On Football
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/104.png",VTVcab17 - Yeah1 TV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/php3VO8ig_60a612a082b23.png",VTVcab19 - Vie Dramas
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/132.png",VTVcab20 - V Family
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sctvonline.vn
-
-
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/1_cc823220.jpg",SCTV1
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/2_fd5dc799.jpg",SCTV2
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/3_efafd3ec.jpg",SCTV3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/4_23b344ec.jpg",SCTV4
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/5_4efd92d7.jpg",SCTV5
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_132935f2.jpg",SCTV6
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_15259bbf.jpg",SCTV7
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/8_efcc1082.jpg",SCTV8
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg",SCTV9
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg",SCTV10
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg",SCTV11
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/12_c58b7453.jpg",SCTV12
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/13_29828548.jpg",SCTV13
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/14_614545db.jpg",SCTV14
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/15_f6a8241e.jpg",SCTV15
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg",SCTV16
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/17_03ba5e54.jpg",SCTV17
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/18_664a253b.jpg",SCTV18
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/19_3b86f52a.jpg",SCTV19
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/20_6c70556d.jpg",SCTV20
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/21_8f6788be.jpg",SCTV21
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/22_881fabb7.jpg",SCTV22
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/82_51400b18.jpg",SCTV Phim TH
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/68_ad4ad421.jpg",BTV5
-https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sctvonline.vn
-
-
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htv1.png",HTV1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Logo_HTV2_%282008-2009%29.png/revision/latest/scale-to-width-down/340?cb=20181201104829&path-prefix=vi",HTV2
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/DreamsTV_logo_%282018-present%29.png/revision/latest?cb=20180824082826&path-prefix=vi" tvg-chno="23",HTV3
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/HTV4_HTV_Key.png/revision/latest/scale-to-width-down/340?cb=20201012040751&path-prefix=vi" tvg-chno="24",HTV4 Key
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c6/HTV7_%282016-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200608060620&path-prefix=vi" tvg-chno="27",HTV7
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTV9_%282016-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200608060619&path-prefix=vi" tvg-chno="29",HTV9
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/HTVC_Film_logo.png/revision/latest/scale-to-width-down/200?cb=20210629030316&path-prefix=vi",HTVC Phim
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTVC_Ca_Nh%E1%BA%A1c_old.png/revision/latest?cb=20210131022321&path-prefix=vi",HTVC Ca Nhạc
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/HC8_M.png",HTVC Du Lịch & Cuộc Sống
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTVC_Gia_%C4%90%C3%ACnh_logo_2018.png/revision/latest/scale-to-width-down/205?cb=20210625041805&path-prefix=vi",HTVC Gia Đình
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",HTVC Phụ Nữ
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC Thuần Việt SD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTVC_Vietnamese_HD.png/revision/latest?cb=20210131021250&path-prefix=vi",HTVC Thuần Việt HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png",HTVC FBNC
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi" tvg-chno="25",HTV Thể Thao
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="http://imageidc1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png",HTVC Plus
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_vgs_shop" group-title="HTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png",HTVC VGS Shopping
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_coop" group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV Co.op
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="baby_first" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
-https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",Boomerang
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
-https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",Nat Geo WILD
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhnKjNH9EmjI7TcRVuz9nucLfsOnpx8dFmtLpcO3w=s88-c-k-c0x00ffffff-no-rj",Natgeo Abu Dhabi HD
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
-http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
-http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125607/cmc_new/img.live_channel/0/0/0/0/254.jpg",Planet Earth HD 
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
-http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://imgur.com/uWdY6xI.png",History HD
-http://cdn.vthanhtivi.xyz:9981/stream/channelid/1614246532?profile=pass
-#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",TLC
-https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",Outdoor Channel
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman 
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://www.liwest.at/fileadmin/uploads/tx_liwestchannels/Love_Nature_4k.png",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/E73Bz0Qlvxk/maxresdefault.jpg",Smithsonian Channel HD
-https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
-http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
-http://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png",Warner
-http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
-https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-
-
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
-https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg",Bà Rịa Vũng Tàu
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/20.jpg",Bắc Giang
-https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/19.jpg",Bạc Liêu
-https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/192.jpg",Bắc Ninh
-https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544502354/cmc_new/img.live_channel/0/0/0/0/193.jpg",Bến Tre
-https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/25.jpg",Bình Định
-https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501517/cmc_new/img.live_channel/0/0/0/0/136.jpg",Bình Dương1
-https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1570670399/cmc_new/img.live_channel/0/0/0/0/135.jpg",Bình Dương2
-https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/26.jpg",Bình Phước1
-https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1d/BPTV2.png/250px-BPTV2.png",Bình Phước2
-https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/27.jpg",BTV6 Bình thuận
-https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/27.jpg",Bình Thuận
-https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_crtv.png",Cao Bằng
-https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmQz0XA2fyYCNpf-xJwY2RxDCOQLrfEMeX9Q&usqp=CAU",Cà Mau
-https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544502088/cmc_new/img.live_channel/0/0/0/0/30.jpg",Cần Thơ
-https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png",Đà Nẵng1
-https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png",Đà Nẵng2
-https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501466/cmc_new/img.live_channel/0/0/0/0/40.jpg",Đắk Lắk
-https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1587697242/cmc_new/img.live_channel/0/0/0/0/39.jpg",Điện Biên
-https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/195.jpg",Đồng Nai1
-https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/196.jpg",Đồng Nai2
-https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1546682447/cmc_new/img.live_channel/0/0/0/0/43.jpg",Đồng Tháp
-https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/197.jpg",Gia Lai
-https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1559553793/cmc_new/img.live_channel/0/0/0/0/198.jpg",Hà Giang
-https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/34.jpg",Hà Nam
-https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564374852/cmc_new/img.live_channel/0/0/0/0/12.jpg" group-title="Địa Phương",Hà Nội 1
+#EXTINF:-1 tvg-chno="73" group-title="Vietnam" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanoi_tv1.png",HàNội1
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564374837/cmc_new/img.live_channel/0/0/0/0/148.jpg" group-title="Địa Phương",Hà Nội 2
+#EXTINF:-1 tvg-chno="74" group-title="Vietnam" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanoi_tv2.png",HàNội2
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/35.jpg",Hà Tĩnh
-https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/107651-KienGiang.png",Kiên Giang
-https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/46.jpg",Kon Tum
-https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/50.jpg",Lâm Đồng
-https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/51.jpg",Lạng Sơn
-https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/49.jpg",Lào Cai 
-https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/48.jpg",Long An
-https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/08/06/857648-ntv_nam_dinh.png",Nam Định
-https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/53.jpg",Nghệ An
-https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501207/cmc_new/img.live_channel/0/0/0/0/54.jpg",Ninh Bình
-https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/55.jpg",Ninh Thuận
-https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/56.jpg",Phú Thọ
-https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/147.jpg",Phú Yên
-https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/57.jpg",Quảng Bình
-https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/58.jpg",Quảng Nam
-https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/59.jpg",Quảng Ngãi
-https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/60.jpg",Quảng Ninh1
-https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/22.jpg",Quảng Ninh3
-https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/61.jpg",Quảng Trị
-https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544502165/cmc_new/img.live_channel/0/0/0/0/62.jpg",Sóc Trăng
-https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/63.jpg",Sơn La
-https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/71.jpg",Tây Ninh
-https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1597486151/cmc_new/img.live_channel/0/0/0/0/65.jpg",Thái Bình
-https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/66.jpg",Thái Nguyên
-https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1546682518/cmc_new/img.live_channel/0/0/0/0/64.jpg",Thanh Hóa
-https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501362/cmc_new/img.live_channel/0/0/0/0/67.jpg",Thừa Thiên Huế
-https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544502195/cmc_new/img.live_channel/0/0/0/0/68.jpg",Tiền Giang
-https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1579490043/cmc_new/img.live_channel/0/0/0/0/69.jpg",Trà Vinh
-https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/70.jpg",Tuyên Quang
-https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Địa Phương",Vĩnh Long 1 HD
-https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg" group-title="Địa Phương",Vĩnh Long 2 HD
-https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg" group-title="Địa Phương",Vĩnh Long 3 HD
-https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/05/30/ww471q39_Logo-THVL4-HD.jpg" group-title="Địa Phương",Vĩnh Long 4 HD
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png",Vĩnh Phúc
-https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
-https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-chno="75" group-title="Vietnam" tvg-logo="",DaNangTV1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115217&extension=ts&play_token=SOk80PM0Cg
+#EXTINF:-1 tvg-chno="76" group-title="Vietnam" tvg-logo="",HTV1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=157324&extension=ts
+#EXTINF:-1 tvg-chno="77" group-title="Vietnam",	CH77
+https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-360p/chunks.m3u8
+#EXTINF:-1 tvg-chno="78" group-title="Vietnam",	CH78
+https://16371213858134.vnns.net/ttxvn_abr/playlist.m3u8
+#EXTINF:-1 tvg-chno="79" group-title="Vietnam",	CH79
+https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
+#EXTINF:-1 tvg-chno="80" group-title="Vietnam",	CH80
+https://			
+#EXTINF:-1 tvg-chno="81" group-title="Vietnam",	CH81
+https://			
+#EXTINF:-1 tvg-chno="82" group-title="Vietnam",	CH82
+https://			
+#EXTINF:-1 tvg-chno="83" group-title="Vietnam",	CH83
+https://			
+#EXTINF:-1 tvg-chno="84" group-title="Vietnam",	CH84
+https://			
+#EXTINF:-1 tvg-chno="	85	" group-title="Vietnam",	CH85
+https://			
+#EXTINF:-1 tvg-chno="	86	" group-title="Vietnam",	CH86
+https://			
+#EXTINF:-1 tvg-chno="	87	" group-title="Vietnam",	CH87
+https://			
+#EXTINF:-1 tvg-chno="	88	" group-title="Vietnam",	CH88
+https://			
+#EXTINF:-1 tvg-chno="	89	" group-title="Vietnam",	CH89
+https://			
+#EXTINF:-1 tvg-chno="	90	" group-title="Vietnam",	CH90
+https://			
+#EXTINF:-1 tvg-chno="	91	" group-title="Vietnam",	CH91
+https://			
+#EXTINF:-1 tvg-chno="	92	" group-title="Vietnam",	CH92
+https://			
+#EXTINF:-1 tvg-chno="	93	" group-title="Vietnam",	CH93
+https://			
+#EXTINF:-1 tvg-chno="	94	" group-title="Vietnam",	CH94
+https://			
+#EXTINF:-1 tvg-chno="	95	" group-title="Vietnam",	CH95
+https://			
+#EXTINF:-1 tvg-chno="	96	" group-title="Vietnam",	CH96
+https://			
+#EXTINF:-1 tvg-chno="	97	" group-title="Vietnam",	CH97
+https://			
+#EXTINF:-1 tvg-chno="	98	" group-title="Vietnam",	CH98
+https://			
+#EXTINF:-1 tvg-chno="	99	" group-title="Vietnam",	CH99
+https://			
+#EXTINF:-1 tvg-chno="	100	" group-title="Vietnam",	CH100
+https://			
+#EXTINF:-1 tvg-chno="	101	" group-title="Vietnam",	CH101
+https://			
+#EXTINF:-1 tvg-chno="	102	" group-title="Vietnam",	CH102
+https://			
+#EXTINF:-1 tvg-chno="	103	" group-title="Vietnam",	CH103
+https://			
+#EXTINF:-1 tvg-chno="	104	" group-title="Vietnam",	CH104
+https://			
+#EXTINF:-1 tvg-chno="	105	" group-title="Vietnam",	CH105
+https://			
+#EXTINF:-1 tvg-chno="	106	" group-title="Vietnam",	CH106
+https://			
+#EXTINF:-1 tvg-chno="	107	" group-title="Vietnam",	CH107
+https://			
+#EXTINF:-1 tvg-chno="	108	" group-title="Vietnam",	CH108
+https://			
+#EXTINF:-1 tvg-chno="	109	" group-title="Vietnam",	CH109
+https://			
+#EXTINF:-1 tvg-chno="	110	" group-title="Vietnam",	CH110
+https://			
+
+########################## 111-184 @ HD ZONE ##########################
+#EXTINF:-1 tvg-chno="	111	" group-title="TrueHD",	CH111
+https://			
+#EXTINF:-1 tvg-chno="	112	" group-title="TrueHD",	CH112
+https://			
+#EXTINF:-1 tvg-chno="	113	" group-title="TrueHD",	CH113
+https://			
+#EXTINF:-1 tvg-chno="	114	" group-title="TrueHD",	CH114
+https://			
+#EXTINF:-1 tvg-chno="	115	" group-title="TrueHD",	CH115
+https://			
+#EXTINF:-1 tvg-chno="	116	" group-title="TrueHD",	CH116
+https://			
+#EXTINF:-1 tvg-chno="	117	" group-title="TrueHD",	CH117
+https://			
+#EXTINF:-1 tvg-chno="	118	" group-title="TrueHD",	CH118
+https://			
+#EXTINF:-1 tvg-chno="	119	" group-title="TrueHD",	CH119
+https://			
+#EXTINF:-1 tvg-chno="	120	" group-title="TrueHD",	CH120
+https://			
+#EXTINF:-1 tvg-chno="	121	" group-title="TrueHD",	CH121
+https://			
+#EXTINF:-1 tvg-chno="	122	" group-title="TrueHD",	CH122
+https://			
+#EXTINF:-1 tvg-chno="	123	" group-title="TrueHD",	CH123
+https://			
+#EXTINF:-1 tvg-chno="	124	" group-title="TrueHD",	CH124
+https://			
+#EXTINF:-1 tvg-chno="	125	" group-title="TrueHD",	CH125
+https://			
+#EXTINF:-1 tvg-chno="	126	" group-title="TrueHD",	CH126
+https://			
+#EXTINF:-1 tvg-chno="	127	" group-title="TrueHD",	CH127
+https://			
+#EXTINF:-1 tvg-chno="	128	" group-title="TrueHD",	CH128
+https://			
+#EXTINF:-1 tvg-chno="	129	" group-title="TrueHD",	CH129
+https://			
+#EXTINF:-1 tvg-chno="	130	" group-title="TrueHD",	CH130
+https://			
+#EXTINF:-1 tvg-chno="	131	" group-title="TrueHD",	CH131
+https://			
+#EXTINF:-1 tvg-chno="	132	" group-title="TrueHD",	CH132
+https://			
+#EXTINF:-1 tvg-chno="	133	" group-title="TrueHD",	CH133
+https://			
+#EXTINF:-1 tvg-chno="	134	" group-title="TrueHD",	CH134
+https://			
+#EXTINF:-1 tvg-chno="	135	" group-title="TrueHD",	CH135
+https://			
+#EXTINF:-1 tvg-chno="	136	" group-title="TrueHD",	CH136
+https://			
+#EXTINF:-1 tvg-chno="	137	" group-title="TrueHD",	CH137
+https://			
+#EXTINF:-1 tvg-chno="	138	" group-title="TrueHD",	CH138
+https://			
+#EXTINF:-1 tvg-chno="	139	" group-title="TrueHD",	CH139
+https://			
+#EXTINF:-1 tvg-chno="	140	" group-title="TrueHD",	CH140
+https://			
+#EXTINF:-1 tvg-chno="	141	" group-title="TrueHD",	CH141
+https://			
+#EXTINF:-1 tvg-chno="	142	" group-title="TrueHD",	CH142
+https://			
+#EXTINF:-1 tvg-chno="	143	" group-title="TrueHD",	CH143
+https://			
+#EXTINF:-1 tvg-chno="	144	" group-title="TrueHD",	CH144
+https://			
+#EXTINF:-1 tvg-chno="	145	" group-title="TrueHD",	CH145
+https://			
+#EXTINF:-1 tvg-chno="	146	" group-title="TrueHD",	CH146
+https://			
+#EXTINF:-1 tvg-chno="	147	" group-title="TrueHD",	CH147
+https://			
+#EXTINF:-1 tvg-chno="	148	" group-title="TrueHD",	CH148
+https://			
+#EXTINF:-1 tvg-chno="	149	" group-title="TrueHD",	CH149
+https://			
+#EXTINF:-1 tvg-chno="	150	" group-title="TrueHD",	CH150
+https://			
+#EXTINF:-1 tvg-chno="	151	" group-title="TrueHD",	CH151
+https://			
+#EXTINF:-1 tvg-chno="	152	" group-title="TrueHD",	CH152
+https://			
+#EXTINF:-1 tvg-chno="	153	" group-title="TrueHD",	CH153
+https://			
+#EXTINF:-1 tvg-chno="	154	" group-title="TrueHD",	CH154
+https://			
+#EXTINF:-1 tvg-chno="	155	" group-title="TrueHD",	CH155
+https://			
+#EXTINF:-1 tvg-chno="	156	" group-title="TrueHD",	CH156
+https://			
+#EXTINF:-1 tvg-chno="	157	" group-title="TrueHD",	CH157
+https://			
+#EXTINF:-1 tvg-chno="	158	" group-title="TrueHD",	CH158
+https://			
+#EXTINF:-1 tvg-chno="	159	" group-title="TrueHD",	CH159
+https://			
+#EXTINF:-1 tvg-chno="	160	" group-title="TrueHD",	CH160
+https://			
+#EXTINF:-1 tvg-chno="	161	" group-title="TrueHD",	CH161
+https://			
+#EXTINF:-1 tvg-chno="	162	" group-title="TrueHD",	CH162
+https://			
+#EXTINF:-1 tvg-chno="	163	" group-title="TrueHD",	CH163
+https://			
+#EXTINF:-1 tvg-chno="	164	" group-title="TrueHD",	CH164
+https://			
+#EXTINF:-1 tvg-chno="	165	" group-title="TrueHD",	CH165
+https://			
+#EXTINF:-1 tvg-chno="	166	" group-title="TrueHD",	CH166
+https://			
+#EXTINF:-1 tvg-chno="	167	" group-title="TrueHD",	CH167
+https://			
+#EXTINF:-1 tvg-chno="	168	" group-title="TrueHD",	CH168
+https://			
+#EXTINF:-1 tvg-chno="	169	" group-title="TrueHD",	CH169
+https://			
+#EXTINF:-1 tvg-chno="	170	" group-title="TrueHD",	CH170
+https://			
+#EXTINF:-1 tvg-chno="	171	" group-title="TrueHD",	CH171
+https://			
+#EXTINF:-1 tvg-chno="	172	" group-title="TrueHD",	CH172
+https://			
+#EXTINF:-1 tvg-chno="	173	" group-title="TrueHD",	CH173
+https://			
+#EXTINF:-1 tvg-chno="	174	" group-title="TrueHD",	CH174
+https://			
+#EXTINF:-1 tvg-chno="	175	" group-title="TrueHD",	CH175
+https://			
+#EXTINF:-1 tvg-chno="	176	" group-title="TrueHD",	CH176
+https://			
+#EXTINF:-1 tvg-chno="	177	" group-title="TrueHD",	CH177
+https://			
+#EXTINF:-1 tvg-chno="	178	" group-title="TrueHD",	CH178
+https://			
+#EXTINF:-1 tvg-chno="	179	" group-title="TrueHD",	CH179
+https://			
+#EXTINF:-1 tvg-chno="	180	" group-title="TrueHD",	CH180
+https://			
+#EXTINF:-1 tvg-chno="	181	" group-title="TrueHD",	CH181
+https://			
+#EXTINF:-1 tvg-chno="	182	" group-title="TrueHD",	CH182
+https://			
+#EXTINF:-1 tvg-chno="	183	" group-title="TrueHD",	CH183
+https://			
+#EXTINF:-1 tvg-chno="	184	" group-title="TrueHD",	CH184
+https://			
+#EXTINF:-1 tvg-chno="	185	" group-title="TrueHD",	CH185
+https://			
+#EXTINF:-1 tvg-chno="	186	" group-title="TrueHD",	CH186
+https://			
+#EXTINF:-1 tvg-chno="	187	" group-title="TrueHD",	CH187
+https://			
+#EXTINF:-1 tvg-chno="	188	" group-title="TrueHD",	CH188
+https://			
+#EXTINF:-1 tvg-chno="	189	" group-title="TrueHD",	CH189
+https://			
+#EXTINF:-1 tvg-chno="	190	" group-title="TrueHD",	CH190
+https://			
+#EXTINF:-1 tvg-chno="	191	" group-title="TrueHD",	CH191
+https://			
+#EXTINF:-1 tvg-chno="	192	" group-title="TrueHD",	CH192
+https://			
+#EXTINF:-1 tvg-chno="	193	" group-title="TrueHD",	CH193
+https://			
+#EXTINF:-1 tvg-chno="	194	" group-title="TrueHD",	CH194
+https://			
+#EXTINF:-1 tvg-chno="	195	" group-title="TrueHD",	CH195
+https://			
+#EXTINF:-1 tvg-chno="	196	" group-title="TrueHD",	CH196
+https://			
+#EXTINF:-1 tvg-chno="	197	" group-title="TrueHD",	CH197
+https://			
+#EXTINF:-1 tvg-chno="	198	" group-title="TrueHD",	CH198
+https://			
+#EXTINF:-1 tvg-chno="	199	" group-title="TrueHD",	CH199
+https://			
+#EXTINF:-1 tvg-chno="	200	" group-title="TrueHD",	CH200
+https://			
+#EXTINF:-1 tvg-chno="	201	" group-title="TrueHD",	CH201
+https://			
+#EXTINF:-1 tvg-chno="	202	" group-title="TrueHD",	CH202
+https://			
+#EXTINF:-1 tvg-chno="	203	" group-title="TrueHD",	CH203
+https://			
+#EXTINF:-1 tvg-chno="	204	" group-title="TrueHD",	CH204
+https://			
+#EXTINF:-1 tvg-chno="	205	" group-title="TrueHD",	CH205
+https://			
+#EXTINF:-1 tvg-chno="	206	" group-title="TrueHD",	CH206
+https://			
+#EXTINF:-1 tvg-chno="	207	" group-title="TrueHD",	CH207
+https://			
+#EXTINF:-1 tvg-chno="	208	" group-title="TrueHD",	CH208
+https://			
+#EXTINF:-1 tvg-chno="	209	" group-title="TrueHD",	CH209
+https://			
+#EXTINF:-1 tvg-chno="	210	" group-title="TrueHD",	CH210
+https://			
+#EXTINF:-1 tvg-chno="	211	" group-title="TrueHD",	CH211
+https://			
+#EXTINF:-1 tvg-chno="	212	" group-title="TrueHD",	CH212
+https://			
+#EXTINF:-1 tvg-chno="	213	" group-title="TrueHD",	CH213
+https://			
+#EXTINF:-1 tvg-chno="	214	" group-title="TrueHD",	CH214
+https://			
+#EXTINF:-1 tvg-chno="	215	" group-title="TrueHD",	CH215
+https://			
+#EXTINF:-1 tvg-chno="	216	" group-title="TrueHD",	CH216
+https://			
+#EXTINF:-1 tvg-chno="	217	" group-title="TrueHD",	CH217
+https://			
+#EXTINF:-1 tvg-chno="	218	" group-title="TrueHD",	CH218
+https://			
+#EXTINF:-1 tvg-chno="	219	" group-title="TrueHD",	CH219
+https://			
+#EXTINF:-1 tvg-chno="	220	" group-title="TrueHD",	CH220
+https://			
+#EXTINF:-1 tvg-chno="	221	" group-title="TrueHD",	CH221
+https://			
+
+########################## 222-299 @ Movies ##########################
+#EXTINF:-1 tvg-chno="	222	" group-title="Movies",	CH222
+https://			
+#EXTINF:-1 tvg-chno="	223	" group-title="Movies",	CH223
+https://			
+#EXTINF:-1 tvg-chno="	224	" group-title="Movies",	CH224
+https://			
+#EXTINF:-1 tvg-chno="	225	" group-title="Movies",	CH225
+https://			
+#EXTINF:-1 tvg-chno="	226	" group-title="Movies",	CH226
+https://			
+#EXTINF:-1 tvg-chno="	227	" group-title="Movies",	CH227
+https://			
+#EXTINF:-1 tvg-chno="	228	" group-title="Movies",	CH228
+https://			
+#EXTINF:-1 tvg-chno="	229	" group-title="Movies",	CH229
+https://			
+#EXTINF:-1 tvg-chno="	230	" group-title="Movies",	CH230
+https://			
+#EXTINF:-1 tvg-chno="	231	" group-title="Movies",	CH231
+https://			
+#EXTINF:-1 tvg-chno="	232	" group-title="Movies",	CH232
+https://			
+#EXTINF:-1 tvg-chno="	233	" group-title="Movies",	CH233
+https://			
+#EXTINF:-1 tvg-chno="	234	" group-title="Movies",	CH234
+https://			
+#EXTINF:-1 tvg-chno="	235	" group-title="Movies",	CH235
+https://			
+#EXTINF:-1 tvg-chno="	236	" group-title="Movies",	CH236
+https://			
+#EXTINF:-1 tvg-chno="	237	" group-title="Movies",	CH237
+https://			
+#EXTINF:-1 tvg-chno="	238	" group-title="Movies",	CH238
+https://			
+#EXTINF:-1 tvg-chno="	239	" group-title="Movies",	CH239
+https://			
+#EXTINF:-1 tvg-chno="	240	" group-title="Movies",	CH240
+https://			
+#EXTINF:-1 tvg-chno="	241	" group-title="Movies",	CH241
+https://			
+#EXTINF:-1 tvg-chno="	242	" group-title="Movies",	CH242
+https://			
+#EXTINF:-1 tvg-chno="	243	" group-title="Movies",	CH243
+https://			
+#EXTINF:-1 tvg-chno="	244	" group-title="Movies",	CH244
+https://			
+#EXTINF:-1 tvg-chno="	245	" group-title="Movies",	CH245
+https://			
+#EXTINF:-1 tvg-chno="	246	" group-title="Movies",	CH246
+https://			
+#EXTINF:-1 tvg-chno="	247	" group-title="Movies",	CH247
+https://			
+#EXTINF:-1 tvg-chno="	248	" group-title="Movies",	CH248
+https://			
+#EXTINF:-1 tvg-chno="	249	" group-title="Movies",	CH249
+https://			
+#EXTINF:-1 tvg-chno="	250	" group-title="Movies",	CH250
+https://			
+#EXTINF:-1 tvg-chno="	251	" group-title="Movies",	CH251
+https://			
+#EXTINF:-1 tvg-chno="	252	" group-title="Movies",	CH252
+https://			
+#EXTINF:-1 tvg-chno="	253	" group-title="Movies",	CH253
+https://			
+#EXTINF:-1 tvg-chno="	254	" group-title="Movies",	CH254
+https://			
+#EXTINF:-1 tvg-chno="	255	" group-title="Movies",	CH255
+https://			
+#EXTINF:-1 tvg-chno="	256	" group-title="Movies",	CH256
+https://			
+#EXTINF:-1 tvg-chno="	257	" group-title="Movies",	CH257
+https://			
+#EXTINF:-1 tvg-chno="	258	" group-title="Movies",	CH258
+https://			
+#EXTINF:-1 tvg-chno="	259	" group-title="Movies",	CH259
+https://			
+#EXTINF:-1 tvg-chno="	260	" group-title="Movies",	CH260
+https://			
+#EXTINF:-1 tvg-chno="	261	" group-title="Movies",	CH261
+https://			
+#EXTINF:-1 tvg-chno="	262	" group-title="Movies",	CH262
+https://			
+#EXTINF:-1 tvg-chno="	263	" group-title="Movies",	CH263
+https://			
+#EXTINF:-1 tvg-chno="	264	" group-title="Movies",	CH264
+https://			
+#EXTINF:-1 tvg-chno="	265	" group-title="Movies",	CH265
+https://			
+#EXTINF:-1 tvg-chno="	266	" group-title="Movies",	CH266
+https://			
+#EXTINF:-1 tvg-chno="267" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg", CH267
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043914&extension=ts
+#EXTINF:-1 tvg-chno="	268	" group-title="Movies",	CH268
+https://			
+#EXTINF:-1 tvg-chno="	269	" group-title="Movies",	CH269
+https://			
+#EXTINF:-1 tvg-chno="	270	" group-title="Movies",	CH270
+https://			
+#EXTINF:-1 tvg-chno="	271	" group-title="Movies",	CH271
+https://			
+#EXTINF:-1 tvg-chno="	272	" group-title="Movies",	CH272
+https://			
+#EXTINF:-1 tvg-chno="	273	" group-title="Movies",	CH273
+https://			
+#EXTINF:-1 tvg-chno="	274	" group-title="Movies",	CH274
+https://			
+#EXTINF:-1 tvg-chno="	275	" group-title="Movies",	CH275
+https://			
+#EXTINF:-1 tvg-chno="	276	" group-title="Movies",	CH276
+https://			
+#EXTINF:-1 tvg-chno="	277	" group-title="Movies",	CH277
+https://			
+#EXTINF:-1 tvg-chno="	278	" group-title="Movies",	CH278
+https://			
+#EXTINF:-1 tvg-chno="	279	" group-title="Movies",	CH279
+https://			
+#EXTINF:-1 tvg-chno="	280	" group-title="Movies",	CH280
+https://			
+#EXTINF:-1 tvg-chno="	281	" group-title="Movies",	CH281
+https://			
+#EXTINF:-1 tvg-chno="	282	" group-title="Movies",	CH282
+https://			
+#EXTINF:-1 tvg-chno="	283	" group-title="Movies",	CH283
+https://			
+#EXTINF:-1 tvg-chno="	284	" group-title="Movies",	CH284
+https://			
+#EXTINF:-1 tvg-chno="	285	" group-title="Movies",	CH285
+https://			
+#EXTINF:-1 tvg-chno="	286	" group-title="Movies",	CH286
+https://			
+#EXTINF:-1 tvg-chno="	287	" group-title="Movies",	CH287
+https://			
+#EXTINF:-1 tvg-chno="	288	" group-title="Movies",	CH288
+https://			
+#EXTINF:-1 tvg-chno="	289	" group-title="Movies",	CH289
+https://			
+#EXTINF:-1 tvg-chno="	290	" group-title="Movies",	CH290
+https://			
+#EXTINF:-1 tvg-chno="	291	" group-title="Movies",	CH291
+https://			
+#EXTINF:-1 tvg-chno="	292	" group-title="Movies",	CH292
+https://			
+#EXTINF:-1 tvg-chno="	293	" group-title="Movies",	CH293
+https://			
+#EXTINF:-1 tvg-chno="	294	" group-title="Movies",	CH294
+https://			
+#EXTINF:-1 tvg-chno="	295	" group-title="Movies",	CH295
+https://			
+#EXTINF:-1 tvg-chno="	296	" group-title="Movies",	CH296
+https://			
+#EXTINF:-1 tvg-chno="	297	" group-title="Movies",	CH297
+https://			
+#EXTINF:-1 tvg-chno="	298	" group-title="Movies",	CH298
+https://			
+#EXTINF:-1 tvg-chno="	299	" group-title="Movies",	CH299
+https://			
+#EXTINF:-1 tvg-chno="	300	" group-title="Movies",	CH300
+https://			
+#EXTINF:-1 tvg-chno="	301	" group-title="Movies",	CH301
+https://			
+#EXTINF:-1 tvg-chno="	302	" group-title="Movies",	CH302
+https://			
+#EXTINF:-1 tvg-chno="	303	" group-title="Movies",	CH303
+https://			
+#EXTINF:-1 tvg-chno="	304	" group-title="Movies",	CH304
+https://			
+#EXTINF:-1 tvg-chno="	305	" group-title="Movies",	CH305
+https://			
+#EXTINF:-1 tvg-chno="	306	" group-title="Movies",	CH306
+https://			
+#EXTINF:-1 tvg-chno="	307	" group-title="Movies",	CH307
+https://			
+#EXTINF:-1 tvg-chno="	308	" group-title="Movies",	CH308
+https://			
+#EXTINF:-1 tvg-chno="	309	" group-title="Movies",	CH309
+https://			
+#EXTINF:-1 tvg-chno="	310	" group-title="Movies",	CH310
+https://			
+#EXTINF:-1 tvg-chno="	311	" group-title="Movies",	CH311
+https://			
+#EXTINF:-1 tvg-chno="	312	" group-title="Movies",	CH312
+https://			
+#EXTINF:-1 tvg-chno="	313	" group-title="Movies",	CH313
+https://			
+#EXTINF:-1 tvg-chno="	314	" group-title="Movies",	CH314
+https://			
+#EXTINF:-1 tvg-chno="	315	" group-title="Movies",	CH315
+https://			
+#EXTINF:-1 tvg-chno="	316	" group-title="Movies",	CH316
+https://			
+#EXTINF:-1 tvg-chno="	317	" group-title="Movies",	CH317
+https://			
+#EXTINF:-1 tvg-chno="	318	" group-title="Movies",	CH318
+https://			
+#EXTINF:-1 tvg-chno="	319	" group-title="Movies",	CH319
+https://			
+#EXTINF:-1 tvg-chno="	320	" group-title="Movies",	CH320
+https://			
+#EXTINF:-1 tvg-chno="	321	" group-title="Movies",	CH321
+https://			
+#EXTINF:-1 tvg-chno="	322	" group-title="Movies",	CH322
+https://			
+#EXTINF:-1 tvg-chno="	323	" group-title="Movies",	CH323
+https://			
+#EXTINF:-1 tvg-chno="	324	" group-title="Movies",	CH324
+https://			
+#EXTINF:-1 tvg-chno="	325	" group-title="Movies",	CH325
+https://			
+#EXTINF:-1 tvg-chno="	326	" group-title="Movies",	CH326
+https://			
+#EXTINF:-1 tvg-chno="	327	" group-title="Movies",	CH327
+https://			
+#EXTINF:-1 tvg-chno="	328	" group-title="Movies",	CH328
+https://			
+#EXTINF:-1 tvg-chno="	329	" group-title="Movies",	CH329
+https://			
+#EXTINF:-1 tvg-chno="	330	" group-title="Movies",	CH330
+https://			
+#EXTINF:-1 tvg-chno="	331	" group-title="Movies",	CH331
+https://			
+#EXTINF:-1 tvg-chno="	332	" group-title="Movies",	CH332
+https://			
+
+########################## 333-371 @ Varity ##########################
+#EXTINF:-1 tvg-chno="	333	" group-title="Variety",	CH333
+https://			
+#EXTINF:-1 tvg-chno="	334	" group-title="Variety",	CH334
+https://			
+#EXTINF:-1 tvg-chno="	335	" group-title="Variety",	CH335
+https://			
+#EXTINF:-1 tvg-chno="	336	" group-title="Variety",	CH336
+https://			
+#EXTINF:-1 tvg-chno="	337	" group-title="Variety",	CH337
+https://			
+#EXTINF:-1 tvg-chno="	338	" group-title="Variety",	CH338
+https://			
+#EXTINF:-1 tvg-chno="	339	" group-title="Variety",	CH339
+https://			
+#EXTINF:-1 tvg-chno="	340	" group-title="Variety",	CH340
+https://			
+#EXTINF:-1 tvg-chno="	341	" group-title="Variety",	CH341
+https://			
+#EXTINF:-1 tvg-chno="	342	" group-title="Variety",	CH342
+https://			
+#EXTINF:-1 tvg-chno="	343	" group-title="Variety",	CH343
+https://			
+#EXTINF:-1 tvg-chno="	344	" group-title="Variety",	CH344
+https://			
+#EXTINF:-1 tvg-chno="	345	" group-title="Variety",	CH345
+https://			
+#EXTINF:-1 tvg-chno="	346	" group-title="Variety",	CH346
+https://			
+#EXTINF:-1 tvg-chno="	347	" group-title="Variety",	CH347
+https://			
+#EXTINF:-1 tvg-chno="	348	" group-title="Variety",	CH348
+https://			
+#EXTINF:-1 tvg-chno="	349	" group-title="Variety",	CH349
+https://			
+#EXTINF:-1 tvg-chno="	350	" group-title="Variety",	CH350
+https://			
+#EXTINF:-1 tvg-chno="	351	" group-title="Variety",	CH351
+https://			
+#EXTINF:-1 tvg-chno="	352	" group-title="Variety",	CH352
+https://			
+#EXTINF:-1 tvg-chno="	353	" group-title="Variety",	CH353
+https://			
+#EXTINF:-1 tvg-chno="	354	" group-title="Variety",	CH354
+https://			
+#EXTINF:-1 tvg-chno="	355	" group-title="Variety",	CH355
+https://			
+#EXTINF:-1 tvg-chno="	356	" group-title="Variety",	CH356
+https://			
+#EXTINF:-1 tvg-chno="	357	" group-title="Variety",	CH357
+https://			
+#EXTINF:-1 tvg-chno="	358	" group-title="Variety",	CH358
+https://			
+#EXTINF:-1 tvg-chno="	359	" group-title="Variety",	CH359
+https://			
+#EXTINF:-1 tvg-chno="	360	" group-title="Variety",	CH360
+https://			
+#EXTINF:-1 tvg-chno="	361	" group-title="Variety",	CH361
+https://			
+#EXTINF:-1 tvg-chno="	362	" group-title="Variety",	CH362
+https://			
+#EXTINF:-1 tvg-chno="	363	" group-title="Variety",	CH363
+https://			
+#EXTINF:-1 tvg-chno="	364	" group-title="Variety",	CH364
+https://			
+#EXTINF:-1 tvg-chno="	365	" group-title="Variety",	CH365
+https://			
+#EXTINF:-1 tvg-chno="	366	" group-title="Variety",	CH366
+https://			
+#EXTINF:-1 tvg-chno="	367	" group-title="Variety",	CH367
+https://			
+#EXTINF:-1 tvg-chno="368" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH368
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043915&extension=ts
+#EXTINF:-1 tvg-chno="	369	" group-title="Variety",	CH369
+https://			
+#EXTINF:-1 tvg-chno="	370	" group-title="Variety",	CH370
+https://			
+#EXTINF:-1 tvg-chno="	371	" group-title="Variety",	CH371
+https://			
+#EXTINF:-1 tvg-chno="	372	" group-title="Variety",	CH372
+https://			
+#EXTINF:-1 tvg-chno="	373	" group-title="Variety",	CH373
+https://			
+#EXTINF:-1 tvg-chno="	374	" group-title="Variety",	CH374
+https://			
+#EXTINF:-1 tvg-chno="	375	" group-title="Variety",	CH375
+https://			
+#EXTINF:-1 tvg-chno="	376	" group-title="Variety",	CH376
+https://			
+#EXTINF:-1 tvg-chno="	377	" group-title="Variety",	CH377
+https://			
+#EXTINF:-1 tvg-chno="	378	" group-title="Variety",	CH378
+https://			
+#EXTINF:-1 tvg-chno="	379	" group-title="Variety",	CH379
+https://			
+#EXTINF:-1 tvg-chno="	380	" group-title="Variety",	CH380
+https://			
+#EXTINF:-1 tvg-chno="	381	" group-title="Variety",	CH381
+https://			
+#EXTINF:-1 tvg-chno="	382	" group-title="Variety",	CH382
+https://			
+#EXTINF:-1 tvg-chno="	383	" group-title="Variety",	CH383
+https://			
+#EXTINF:-1 tvg-chno="	384	" group-title="Variety",	CH384
+https://			
+#EXTINF:-1 tvg-chno="	385	" group-title="Variety",	CH385
+https://			
+#EXTINF:-1 tvg-chno="	386	" group-title="Variety",	CH386
+https://			
+#EXTINF:-1 tvg-chno="	387	" group-title="Variety",	CH387
+https://			
+#EXTINF:-1 tvg-chno="	388	" group-title="Variety",	CH388
+https://			
+#EXTINF:-1 tvg-chno="	389	" group-title="Variety",	CH389
+https://			
+#EXTINF:-1 tvg-chno="	390	" group-title="Variety",	CH390
+https://			
+#EXTINF:-1 tvg-chno="	391	" group-title="Variety",	CH391
+https://			
+#EXTINF:-1 tvg-chno="	392	" group-title="Variety",	CH392
+https://			
+#EXTINF:-1 tvg-chno="	393	" group-title="Variety",	CH393
+https://			
+#EXTINF:-1 tvg-chno="	394	" group-title="Variety",	CH394
+https://			
+#EXTINF:-1 tvg-chno="	395	" group-title="Variety",	CH395
+https://			
+#EXTINF:-1 tvg-chno="	396	" group-title="Variety",	CH396
+https://			
+#EXTINF:-1 tvg-chno="	397	" group-title="Variety",	CH397
+https://			
+#EXTINF:-1 tvg-chno="	398	" group-title="Variety",	CH398
+https://			
+#EXTINF:-1 tvg-chno="	399	" group-title="Variety",	CH399
+https://			
+#EXTINF:-1 tvg-chno="	400	" group-title="Variety",	CH400
+https://			
+#EXTINF:-1 tvg-chno="	401	" group-title="Variety",	CH401
+https://			
+#EXTINF:-1 tvg-chno="	402	" group-title="Variety",	CH402
+https://			
+#EXTINF:-1 tvg-chno="	403	" group-title="Variety",	CH403
+https://			
+#EXTINF:-1 tvg-chno="	404	" group-title="Variety",	CH404
+https://			
+#EXTINF:-1 tvg-chno="	405	" group-title="Variety",	CH405
+https://			
+#EXTINF:-1 tvg-chno="	406	" group-title="Variety",	CH406
+https://			
+#EXTINF:-1 tvg-chno="	407	" group-title="Variety",	CH407
+https://			
+#EXTINF:-1 tvg-chno="	408	" group-title="Variety",	CH408
+https://			
+#EXTINF:-1 tvg-chno="	409	" group-title="Variety",	CH409
+https://			
+#EXTINF:-1 tvg-chno="	410	" group-title="Variety",	CH410
+https://			
+#EXTINF:-1 tvg-chno="	411	" group-title="Variety",	CH411
+https://			
+#EXTINF:-1 tvg-chno="	412	" group-title="Variety",	CH412
+https://			
+#EXTINF:-1 tvg-chno="	413	" group-title="Variety",	CH413
+https://			
+#EXTINF:-1 tvg-chno="	414	" group-title="Variety",	CH414
+https://			
+#EXTINF:-1 tvg-chno="	415	" group-title="Variety",	CH415
+https://			
+#EXTINF:-1 tvg-chno="	416	" group-title="Variety",	CH416
+https://			
+#EXTINF:-1 tvg-chno="	417	" group-title="Variety",	CH417
+https://			
+#EXTINF:-1 tvg-chno="	418	" group-title="Variety",	CH418
+https://			
+#EXTINF:-1 tvg-chno="	419	" group-title="Variety",	CH419
+https://			
+#EXTINF:-1 tvg-chno="	420	" group-title="Variety",	CH420
+https://			
+#EXTINF:-1 tvg-chno="	421	" group-title="Variety",	CH421
+https://			
+#EXTINF:-1 tvg-chno="422" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH422
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043916&extension=ts
+#EXTINF:-1 tvg-chno="423" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png", BEIN Sports 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177356&extension=ts
+#EXTINF:-1 tvg-chno="424" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png", BEIN Sports 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177357&extension=ts
+#EXTINF:-1 tvg-chno="425" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png", BEIN Sports 2A
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177357&extension=ts
+#EXTINF:-1 tvg-chno="426" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png", BEIN Sports 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177358&extension=ts
+#EXTINF:-1 tvg-chno="427" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png", BEIN Sports 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177359&extension=ts
+#EXTINF:-1 tvg-chno="428" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png", BEIN Sports 6
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177360&extension=ts
+#EXTINF:-1 tvg-chno="429" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png", BEIN Sports 7
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177361&extension=ts
+#EXTINF:-1 tvg-chno="430" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_max_08_hd.png", BEIN Sports 8
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177362&extension=ts
+#EXTINF:-1 tvg-chno="431" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH431
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043917&extension=ts
+#EXTINF:-1 tvg-chno="432" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH432
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043919&extension=ts
+#EXTINF:-1 tvg-chno="433" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH433
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043920&extension=ts
+#EXTINF:-1 tvg-chno="434" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH434
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043921&extension=ts
+#EXTINF:-1 tvg-chno="435" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH435
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043922&extension=ts
+#EXTINF:-1 tvg-chno="436" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH436
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043924&extension=ts
+#EXTINF:-1 tvg-chno="437" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH437
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043926&extension=ts
+#EXTINF:-1 tvg-chno="438" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH438
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043927&extension=ts
+#EXTINF:-1 tvg-chno="439" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH439
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043928&extension=ts
+#EXTINF:-1 tvg-chno="440" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH440
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043931&extension=ts
+#EXTINF:-1 tvg-chno="441" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH441
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043933&extension=ts
+#EXTINF:-1 tvg-chno="442" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH442
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043934&extension=ts
+#EXTINF:-1 tvg-chno="443" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH443
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043936&extension=ts
+#EXTINF:-1 tvg-chno="444" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH444
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043942&extension=ts
+#EXTINF:-1 tvg-chno="445" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_1_ca.png",	TSN1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177344&extension=ts
+#EXTINF:-1 tvg-chno="446" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_2_ca.png",	TSN2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177345&extension=ts
+#EXTINF:-1 tvg-chno="447" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_3_ca.png",	TSN3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177346&extension=ts
+#EXTINF:-1 tvg-chno="448" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_4_ca.png",	TSN4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177347&extension=ts
+#EXTINF:-1 tvg-chno="449" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_5_ca.png",	TSN5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=177348&extension=ts
+#EXTINF:-1 tvg-chno="450" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH450
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043940&extension=ts
+#EXTINF:-1 tvg-chno="451" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH450A
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043940&extension=ts
+#EXTINF:-1 tvg-chno="452" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH452
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043941&extension=ts
+#EXTINF:-1 tvg-chno="453" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH453
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043942&extension=ts
+#EXTINF:-1 tvg-chno="454" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH454
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043943&extension=ts
+#EXTINF:-1 tvg-chno="455" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH455
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043944&extension=ts
+#EXTINF:-1 tvg-chno="456" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH456
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043945&extension=ts
+#EXTINF:-1 tvg-chno="457" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH457
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043947&extension=ts
+#EXTINF:-1 tvg-chno="458" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH458
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043948&extension=ts
+#EXTINF:-1 tvg-chno="459" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH459
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043949&extension=ts
+#EXTINF:-1 tvg-chno="460" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH460
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043950&extension=ts
+#EXTINF:-1 tvg-chno="461" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH461
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043951&extension=ts
+#EXTINF:-1 tvg-chno="462" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH462
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043952&extension=ts
+#EXTINF:-1 tvg-chno="463" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH462B
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043952&extension=ts
+#EXTINF:-1 tvg-chno="464" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH464
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043953&extension=ts
+#EXTINF:-1 tvg-chno="465" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH465
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043954&extension=ts
+
+#EXTINF:-1 tvg-chno="466" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_1_ca.png",	TSN1 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=904216&extension=ts
+#EXTINF:-1 tvg-chno="467" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_2_ca.png",	TSN2 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=904215&extension=ts
+#EXTINF:-1 tvg-chno="468" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_3_ca.png",	TSN3 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=904214&extension=ts
+#EXTINF:-1 tvg-chno="469" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_4_ca.png",	TSN4 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=904213&extension=ts
+#EXTINF:-1 tvg-chno="470" group-title="CA Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_5_ca.png",	TSN5 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=904212&extension=ts
+#EXTINF:-1 tvg-chno="471" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	Cricket
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1036492&extension=ts
+#EXTINF:-1 tvg-chno="472" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	NBA TV
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1000006&extension=ts
+
+#EXTINF:-1 tvg-chno="473" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH473
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043955&extension=ts
+#EXTINF:-1 tvg-chno="474" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH474
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043956&extension=ts
+#EXTINF:-1 tvg-chno="475" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH475
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043957&extension=ts
+#EXTINF:-1 tvg-chno="476" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH476
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043958&extension=ts
+#EXTINF:-1 tvg-chno="477" group-title="CA Sports" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-606726668.jpg",	CH477
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1043959&extension=ts
+#EXTINF:-1 tvg-chno="	478	" group-title="CA Sports",	CH478
+https://			
+#EXTINF:-1 tvg-chno="	479	" group-title="CA Sports",	CH479
+https://			
+#EXTINF:-1 tvg-chno="	480	" group-title="CA Sports",	CH480
+https://			
+#EXTINF:-1 tvg-chno="	481	" group-title="CA Sports",	CH481
+https://			
+#EXTINF:-1 tvg-chno="	482	" group-title="CA Sports",	CH482
+https://			
+#EXTINF:-1 tvg-chno="	483	" group-title="CA Sports",	CH483
+https://			
+#EXTINF:-1 tvg-chno="	484	" group-title="CA Sports",	CH484
+https://			
+#EXTINF:-1 tvg-chno="	485	" group-title="CA Sports",	CH485
+https://			
+#EXTINF:-1 tvg-chno="	486	" group-title="CA Sports",	CH486
+https://			
+#EXTINF:-1 tvg-chno="	487	" group-title="CA Sports",	CH487
+https://			
+#EXTINF:-1 tvg-chno="	488	" group-title="CA Sports",	CH488
+https://			
+#EXTINF:-1 tvg-chno="	489	" group-title="CA Sports",	CH489
+https://			
+#EXTINF:-1 tvg-chno="	490	" group-title="CA Sports",	CH490
+https://			
+#EXTINF:-1 tvg-chno="	491	" group-title="CA Sports",	CH491
+https://			
+#EXTINF:-1 tvg-chno="	492	" group-title="CA Sports",	CH492
+https://			
+#EXTINF:-1 tvg-chno="	493	" group-title="CA Sports",	CH493
+https://			
+#EXTINF:-1 tvg-chno="	494	" group-title="CA Sports",	CH494
+https://			
+#EXTINF:-1 tvg-chno="	495	" group-title="CA Sports",	CH495
+https://			
+#EXTINF:-1 tvg-chno="	496	" group-title="CA Sports",	CH496
+https://			
+#EXTINF:-1 tvg-chno="	497	" group-title="CA Sports",	CH497
+https://			
+#EXTINF:-1 tvg-chno="	498	" group-title="CA Sports",	CH498
+https://			
+#EXTINF:-1 tvg-chno="	499	" group-title="CA Sports",	CH499
+https://			
+
+########################## 500-530 @ CartoonKID ##########################
+#EXTINF:-1 tvg-chno="500" group-title="Cartoon" , Disney Channel
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=16709&extension=ts
+#EXTINF:-1 tvg-chno="500" group-title="Cartoon" , Disney Junior
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=16709&extension=ts
+#EXTINF:-1 tvg-chno="500" group-title="Cartoon" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png", Disney XD
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=10925&extension=ts
+#EXTINF:-1 tvg-chno="501" group-title="Cartoon" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-cartoonnetwork.png", CN ipw
+http://iptvworld.ml:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115690&extension=ts
+#EXTINF:-1 tvg-chno="502" group-title="Cartoon",DREAMWORKS
+http://dootvz.ddns.net:8080/0833344311/0833344311/64
+#EXTINF:-1 tvg-chno="503" group-title="Cartoon",CARTOON NETWORK
+http://dootvz.ddns.net:8080/0833344311/0833344311/65
+#EXTINF:-1 tvg-chno="504" group-title="Cartoon",NICK JR
+http://dootvz.ddns.net:8080/0833344311/0833344311/66
+#EXTINF:-1 tvg-chno="505" group-title="Cartoon",NICKELODEON
+http://dootvz.ddns.net:8080/0833344311/0833344311/67
+#EXTINF:-1 tvg-chno="506" group-title="Cartoon",TRUE SPARK PLAY
+http://dootvz.ddns.net:8080/0833344311/0833344311/68
+#EXTINF:-1 tvg-chno="507" group-title="Cartoon",TRUE SPARK JUMP
+http://dootvz.ddns.net:8080/0833344311/0833344311/69
+#EXTINF:-1 tvg-chno="508" group-title="Cartoon",BOOMERANG
+http://dootvz.ddns.net:8080/0833344311/0833344311/70
+#EXTINF:-1 tvg-chno="509" group-title="Cartoon",TOONEE
+http://49.0.87.24:1936/HDToonee/Toonee/chunklist_w551554224.m3u8
+#EXTINF:-1 tvg-chno="510" group-title="Cartoon",Cartoon Club
+http://dootvz.ddns.net:8080/0833344311/0833344311/72			
+#EXTINF:-1 group-title="Cartoon",Cartoonnetwork
+http://6395online.com:8080/live/0635192910/0833344553/172.ts
+#EXTINF:-1 group-title="Cartoon",Boomerang TH
+http://6395online.com:8080/live/0635192910/0833344553/173.ts
+#EXTINF:-1 group-title="Cartoon",NickJr TH
+http://6395online.com:8080/live/0635192910/0833344553/174.ts
+#EXTINF:-1 group-title="Cartoon",nickelodeon
+http://6395online.com:8080/live/0635192910/0833344553/175.ts
+#EXTINF:-1 group-title="Cartoon",DreamWorks
+http://6395online.com:8080/live/0635192910/0833344553/176.ts
+#EXTINF:-1 group-title="Cartoon",Animax
+http://6395online.com:8080/live/0635192910/0833344553/177.ts
+#EXTINF:-1 group-title="Cartoon",Cartoon-Club
+http://6395online.com:8080/live/0635192910/0833344553/178.ts
+#EXTINF:-1 group-title="Cartoon",True-Jump
+http://6395online.com:8080/live/0635192910/0833344553/179.ts
+#EXTINF:-1 group-title="Cartoon",TRUE-PLAY
+http://6395online.com:8080/live/0635192910/0833344553/180.ts
+#EXTINF:-1 group-title="Cartoon",ANI-PLUS
+http://6395online.com:8080/live/0635192910/0833344553/181.ts		
+#EXTINF:-1 tvg-chno="	523	" group-title="Cartoon",	CH523
+https://			
+#EXTINF:-1 tvg-chno="	524	" group-title="Cartoon",	CH524
+https://			
+#EXTINF:-1 tvg-chno="	525	" group-title="Cartoon",	CH525
+https://			
+#EXTINF:-1 tvg-chno="	526	" group-title="Cartoon",	CH526
+https://			
+#EXTINF:-1 tvg-chno="	527	" group-title="Cartoon",	CH527
+https://			
+#EXTINF:-1 tvg-chno="	528	" group-title="Cartoon",	CH528
+https://			
+#EXTINF:-1 tvg-chno="	529	" group-title="Cartoon",	CH529
+https://			
+#EXTINF:-1 tvg-chno="	530	" group-title="Cartoon",	CH530
+https://			
+#EXTINF:-1 tvg-chno="	531	" group-title="Cartoon",	CH531
+https://			
+#EXTINF:-1 tvg-chno="	532	" group-title="Cartoon",	CH532
+https://			
+#EXTINF:-1 tvg-chno="	533	" group-title="Cartoon",	CH533
+https://			
+#EXTINF:-1 tvg-chno="	534	" group-title="Cartoon",	CH534
+https://			
+#EXTINF:-1 tvg-chno="	535	" group-title="Cartoon",	CH535
+https://			
+#EXTINF:-1 tvg-chno="	536	" group-title="Cartoon",	CH536
+https://			
+#EXTINF:-1 tvg-chno="	537	" group-title="Cartoon",	CH537
+https://			
+#EXTINF:-1 tvg-chno="	538	" group-title="Cartoon",	CH538
+https://			
+#EXTINF:-1 tvg-chno="	539	" group-title="Cartoon",	CH539
+https://			
+#EXTINF:-1 tvg-chno="	540	" group-title="Cartoon",	CH540
+https://			
+#EXTINF:-1 tvg-chno="	541	" group-title="Cartoon",	CH541
+https://			
+#EXTINF:-1 tvg-chno="	542	" group-title="Cartoon",	CH542
+https://			
+#EXTINF:-1 tvg-chno="	543	" group-title="Cartoon",	CH543
+https://			
+#EXTINF:-1 tvg-chno="	544	" group-title="Cartoon",	CH544
+https://			
+#EXTINF:-1 tvg-chno="	545	" group-title="Cartoon",	CH545
+https://			
+#EXTINF:-1 tvg-chno="	546	" group-title="Cartoon",	CH546
+https://			
+#EXTINF:-1 tvg-chno="	547	" group-title="Cartoon",	CH547
+https://			
+#EXTINF:-1 tvg-chno="	548	" group-title="Cartoon",	CH548
+https://			
+#EXTINF:-1 tvg-chno="	549	" group-title="Cartoon",	CH549
+https://			
+#EXTINF:-1 tvg-chno="	550	" group-title="Cartoon",	CH550
+https://			
+#EXTINF:-1 tvg-chno="	551	" group-title="Cartoon",	CH551
+https://			
+#EXTINF:-1 tvg-chno="	552	" group-title="Cartoon",	CH552
+https://			
+#EXTINF:-1 tvg-chno="	553	" group-title="Cartoon",	CH553
+https://			
+#EXTINF:-1 tvg-chno="	554	" group-title="Cartoon",	CH554
+https://			
+
+########################## 555-571 @ Documentary ##########################
+#EXTINF:555 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png", Discovery ASIA
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeo.png", National Geographic
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-discovery.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png", BBC EARTH 
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png", BBC EARTH HD
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-bbcearth.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", HISTORY TH
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeo.png", National Geographic
+http://6395online.com:8080/0635192910/0833344553/270
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png", Discovery Asia 
+http://6395online.com:8080/0635192910/0833344553/274
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery
+http://6395online.com:8080/0635192910/0833344553/275
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true_explore_sci.png", TRUE SCI
+http://6395online.com:8080/0635192910/0833344553/283
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true_explore_life.png", TRUE LIFE
+http://6395online.com:8080/0635192910/0833344553/284
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true_explore_wild.png", TRUE WILD
+http://6395online.com:8080/0635192910/0833344553/285
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", HISTORY TH
+http://6395online.com:8080/0635192910/0833344553/277
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png", H2 TH
+http://6395online.com:8080/0635192910/0833344553/278
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo-500x313.png", AnimalPlanet
+http://6395online.com:8080/0635192910/0833344553/280
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png", BBC EARTH 
+http://6395online.com:8080/0635192910/0833344553/281
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png", lovenature-4K
+http://6395online.com:8080/0635192910/0833344553/272
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true_xzyte.png", TRUE X-ZYTE
+http://6395online.com:8080/0635192910/0833344553/297
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png", Food-Channel TH
+http://6395online.com:8080/0635192910/0833344553/287
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-food-network-sg.svg", Asian-Food
+http://6395online.com:8080/0635192910/0833344553/288
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/samrujlok_tv_th.png", Samrojlok
+http://6395online.com:8080/0635192910/0833344553/295
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thainess-tv-th.png", KhongDee
+http://6395online.com:8080/0635192910/0833344553/140164
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_sci_th.png", MySci
+http://6395online.com:8080/0635192910/0833344553/12194
+#EXTINF:-1 group-title="Documentary" tvg-logo="", Lifetime HD
+http://6395online.com:8080/0635192910/0833344553/12195
+#EXTINF:-1 group-title="Documentary" tvg-logo="", BBC Lifestyle
+http://6395online.com:8080/0635192910/0833344553/140161
+#EXTINF:-1 tvg-chno="	580	" group-title="Documentary",	CH580
+https://			
+#EXTINF:-1 tvg-chno="	581	" group-title="Documentary",	CH581
+https://			
+#EXTINF:-1 tvg-chno="	582	" group-title="Documentary",	CH582
+https://			
+#EXTINF:-1 tvg-chno="	583	" group-title="Documentary",	CH583
+https://			
+#EXTINF:-1 tvg-chno="	584	" group-title="Documentary",	CH584
+https://			
+#EXTINF:-1 tvg-chno="	585	" group-title="Documentary",	CH585
+https://			
+#EXTINF:-1 tvg-chno="	586	" group-title="Documentary",	CH586
+https://			
+#EXTINF:-1 tvg-chno="	587	" group-title="Documentary",	CH587
+https://			
+#EXTINF:-1 tvg-chno="	588	" group-title="Documentary",	CH588
+https://			
+#EXTINF:-1 tvg-chno="	589	" group-title="Documentary",	CH589
+https://			
+#EXTINF:-1 tvg-chno="	590	" group-title="Documentary",	CH590
+https://			
+#EXTINF:-1 tvg-chno="	591	" group-title="Documentary",	CH591
+https://			
+#EXTINF:-1 tvg-chno="	592	" group-title="Documentary",	CH592
+https://			
+#EXTINF:-1 tvg-chno="	593	" group-title="Documentary",	CH593
+https://			
+#EXTINF:-1 tvg-chno="	594	" group-title="Documentary",	CH594
+https://			
+#EXTINF:-1 tvg-chno="	595	" group-title="Documentary",	CH595
+https://			
+#EXTINF:-1 tvg-chno="	596	" group-title="Documentary",	CH596
+https://			
+#EXTINF:-1 tvg-chno="	597	" group-title="Documentary",	CH597
+https://			
+#EXTINF:-1 tvg-chno="	598	" group-title="Documentary",	CH598
+https://			
+#EXTINF:-1 tvg-chno="	599	" group-title="Documentary",	CH599
+https://			
+
+################## 600-699 Sport ####################
+#EXTINF:-1 tvg-chno="600" group-title="Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-premiere-football-hd-1-th.png", Premier 1A
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115760&extension=ts
+#EXTINF:-1 tvg-chno="601" group-title="Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-premiere-football-hd-1-th.png", Premier 1B
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115759&extension=ts
+#EXTINF:-1 tvg-chno="602" group-title="Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-premiere-football-hd-2-th.png", Premier 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115508&extension=ts
+#EXTINF:-1 tvg-chno="603" group-title="Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-premiere-football-hd-3-th.png", Premier 3
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115510&extension=ts
+#EXTINF:-1 tvg-chno="604" group-title="Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-premiere-football-hd-4-th.png", Premier 4
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115513&extension=ts
+#EXTINF:-1 tvg-chno="605" group-title="Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-premiere-football-hd-5-th.png", Premier 5
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115515&extension=ts
+#EXTINF:-1 tvg-chno="606" group-title="Sport" , TrueHD2 ipw
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115533&extension=ts
+#EXTINF:-1 tvg-chno="607" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-Sports-1-qa-fr.png", BeinSport 1 ipw
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115807&extension=ts
+#EXTINF:-1 tvg-chno="608" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-Sports-2-qa-fr.png", BeinSport 2 
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115809&extension=ts
+#EXTINF:-1 tvg-chno="609" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-Sports-3-qa-fr.png", BeinSport 3
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115601&extension=ts
+#EXTINF:-1 tvg-chno="610" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueHD1 Fdd
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="611" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueHD2 Fdd
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="612" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueHD3 Fdd
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="	613	" group-title="Sport",	CH613
+https://			
+#EXTINF:-1 tvg-chno="	614	" group-title="Sport",	CH614
+https://			
+#EXTINF:-1 tvg-chno="	615	" group-title="Sport",	CH615
+https://			
+#EXTINF:-1 tvg-chno="	616	" group-title="Sport",	CH616
+https://			
+#EXTINF:-1 tvg-chno="	617	" group-title="Sport",	CH617
+https://			
+#EXTINF:-1 tvg-chno="	618	" group-title="Sport",	CH618
+https://			
+#EXTINF:-1 tvg-chno="	619	" group-title="Sport",	CH619
+https://			
+#EXTINF:-1 tvg-chno="	620	" group-title="Sport",	CH620
+https://			
+#EXTINF:-1 tvg-chno="	621	" group-title="Sport",	CH621
+https://			
+#EXTINF:-1 tvg-chno="	622	" group-title="Sport",	CH622
+https://			
+#EXTINF:-1 tvg-chno="	623	" group-title="Sport",	CH623
+https://			
+#EXTINF:-1 tvg-chno="	624	" group-title="Sport",	CH624
+https://			
+#EXTINF:-1 tvg-chno="	625	" group-title="Sport",	CH625
+https://			
+#EXTINF:-1 tvg-chno="	626	" group-title="Sport",	CH626
+https://			
+#EXTINF:-1 tvg-chno="	627	" group-title="Sport",	CH627
+https://			
+#EXTINF:-1 tvg-chno="	628	" group-title="Sport",	CH628
+https://			
+#EXTINF:-1 tvg-chno="	629	" group-title="Sport",	CH629
+https://			
+#EXTINF:-1 tvg-chno="	630	" group-title="Sport",	CH630
+https://			
+#EXTINF:-1 tvg-chno="	631	" group-title="Sport",	CH631
+https://			
+#EXTINF:-1 tvg-chno="	632	" group-title="Sport",	CH632
+https://			
+#EXTINF:-1 tvg-chno="	633	" group-title="Sport",	CH633
+https://			
+#EXTINF:-1 tvg-chno="	634	" group-title="Sport",	CH634
+https://			
+#EXTINF:-1 tvg-chno="	635	" group-title="Sport",	CH635
+https://			
+#EXTINF:-1 tvg-chno="	636	" group-title="Sport",	CH636
+https://			
+#EXTINF:-1 tvg-chno="	637	" group-title="Sport",	CH637
+https://			
+#EXTINF:-1 tvg-chno="	638	" group-title="Sport",	CH638
+https://			
+#EXTINF:-1 tvg-chno="	639	" group-title="Sport",	CH639
+https://			
+#EXTINF:-1 tvg-chno="	640	" group-title="Sport",	CH640
+https://			
+#EXTINF:-1 tvg-chno="	641	" group-title="Sport",	CH641
+https://			
+#EXTINF:-1 tvg-chno="	642	" group-title="Sport",	CH642
+https://			
+#EXTINF:-1 tvg-chno="	643	" group-title="Sport",	CH643
+https://			
+#EXTINF:-1 tvg-chno="	644	" group-title="Sport",	CH644
+https://			
+#EXTINF:-1 tvg-chno="	645	" group-title="Sport",	CH645
+https://			
+#EXTINF:-1 tvg-chno="	646	" group-title="Sport",	CH646
+https://			
+#EXTINF:-1 tvg-chno="	647	" group-title="Sport",	CH647
+https://			
+#EXTINF:-1 tvg-chno="	648	" group-title="Sport",	CH648
+https://			
+#EXTINF:-1 tvg-chno="	649	" group-title="Sport",	CH649
+https://			
+#EXTINF:-1 tvg-chno="	650	" group-title="Sport",	CH650
+https://			
+#EXTINF:-1 tvg-chno="	651	" group-title="Sport",	CH651
+https://			
+#EXTINF:-1 tvg-chno="	652	" group-title="Sport",	CH652
+https://			
+#EXTINF:-1 tvg-chno="	653	" group-title="Sport",	CH653
+https://			
+#EXTINF:-1 tvg-chno="	654	" group-title="Sport",	CH654
+https://			
+#EXTINF:-1 tvg-chno="	655	" group-title="Sport",	CH655
+https://			
+#EXTINF:-1 tvg-chno="	656	" group-title="Sport",	CH656
+https://			
+#EXTINF:-1 tvg-chno="	657	" group-title="Sport",	CH657
+https://			
+#EXTINF:-1 tvg-chno="	658	" group-title="Sport",	CH658
+https://			
+#EXTINF:-1 tvg-chno="	659	" group-title="Sport",	CH659
+https://			
+#EXTINF:-1 tvg-chno="	660	" group-title="Sport",	CH660
+https://			
+#EXTINF:-1 tvg-chno="	661	" group-title="Sport",	CH661
+https://			
+#EXTINF:-1 tvg-chno="	662	" group-title="Sport",	CH662
+https://			
+#EXTINF:-1 tvg-chno="	663	" group-title="Sport",	CH663
+https://			
+#EXTINF:-1 tvg-chno="664" group-title="Sport",	SPOTV1
+http://iptvworld.ml:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115682&extension=ts
+#EXTINF:-1 tvg-chno="665" group-title="Sport",	SPOTV2
+http://iptvworld.ml:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115686&extension=ts
+#EXTINF:-1 tvg-chno="666" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueSport1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115531&extension=ts
+#EXTINF:-1 tvg-chno="667" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-2-th.png", TrueSport2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115533&extension=ts
+#EXTINF:-1 tvg-chno="668" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueSport3
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=115537&extension=ts
+#EXTINF:-1 tvg-chno="	669	" group-title="Sport",	CH669
+https://			
+#EXTINF:-1 tvg-chno="	670	" group-title="Sport",	CH670
+https://			
+#EXTINF:-1 tvg-chno="	671	" group-title="Sport",	CH671
+https://			
+#EXTINF:-1 tvg-chno="	672	" group-title="Sport",	CH672
+https://			
+#EXTINF:-1 tvg-chno="	673	" group-title="Sport",	CH673
+https://			
+#EXTINF:-1 tvg-chno="	674	" group-title="Sport",	CH674
+https://			
+#EXTINF:-1 tvg-chno="	675	" group-title="Sport",	CH675
+https://			
+#EXTINF:-1 tvg-chno="	676	" group-title="Sport",	CH676
+https://			
+#EXTINF:-1 tvg-chno="	677	" group-title="Sport",	CH677
+https://			
+#EXTINF:-1 tvg-chno="	678	" group-title="Sport",	CH678
+https://			
+#EXTINF:-1 tvg-chno="	679	" group-title="Sport",	CH679
+https://			
+#EXTINF:-1 tvg-chno="	680	" group-title="Sport",	CH680
+https://			
+#EXTINF:-1 tvg-chno="	681	" group-title="Sport",	CH681
+https://			
+#EXTINF:-1 tvg-chno="	682	" group-title="Sport",	CH682
+https://			
+#EXTINF:-1 tvg-chno="	683	" group-title="Sport",	CH683
+https://			
+#EXTINF:-1 tvg-chno="	684	" group-title="Sport",	CH684
+https://			
+#EXTINF:-1 tvg-chno="	685	" group-title="Sport",	CH685
+https://			
+#EXTINF:-1 tvg-chno="	686	" group-title="Sport",	CH686
+https://			
+#EXTINF:-1 tvg-chno="	687	" group-title="Sport",	CH687
+https://			
+#EXTINF:-1 tvg-chno="	688	" group-title="Sport",	CH688
+https://			
+#EXTINF:-1 tvg-chno="689" group-title="Sport", SPOTV 1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com
+https://live.vip-streaming.com:30443/ufabetcompany-live/true-spotv-1/chunks.m3u8
+#EXTINF:-1 tvg-chno="690" group-title="Sport", SPOTV 1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com
+https://live.vip-streaming.com:30443/ufabetcompany-live/true-spotv-2/chunks.m3u8
+#EXTINF:-1 tvg-chno="	691	" group-title="Sport",	CH691
+https://			
+#EXTINF:-1 tvg-chno="	692	" group-title="Sport",	CH692
+https://			
+#EXTINF:-1 tvg-chno="	693	" group-title="Sport",	CH693
+https://			
+#EXTINF:-1 tvg-chno="	694	" group-title="Sport",	CH694
+https://			
+#EXTINF:-1 tvg-chno="	695	" group-title="Sport",	CH695
+https://			
+#EXTINF:-1 tvg-chno="	696	" group-title="Sport",	CH696
+https://			
+#EXTINF:-1 tvg-chno="	697	" group-title="Sport",	CH697
+https://			
+#EXTINF:-1 tvg-chno="	698	" group-title="Sport",	CH698
+https://			
+#EXTINF:-1 tvg-chno="	699	" group-title="Sport",	CH699
+https://			
+
+################# 700-776 Sports US ##################
+#EXTINF:-1 tvg-chno="700" group-title="US Sports" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg", ESPN
+http://royx.xyz:80/play/live.php?mac=00:1A:79:d7:0a:34&stream=45579&extension=ts
+#EXTINF:-1 tvg-chno="701" group-title="US Sports" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN2
+http://royx.xyz:80/play/live.php?mac=00:1A:79:d7:0a:34&stream=45580&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_u.png", ESPN U
+http://royx.xyz:80/play/live.php?mac=00:1A:79:d7:0a:34&stream=90958&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", FS1
+http://royx.xyz:80/play/live.php?mac=00:1A:79:d7:0a:34&stream=45571&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", FS2
+http://royx.xyz:80/play/live.php?mac=00:1A:79:d7:0a:34&stream=45570&extension=ts
+#EXTINF:-1 group-title="US Sports", ESPN News
+http://royx.xyz:80/play/live.php?mac=00:1A:79:d7:0a:34&stream=45578&extension=ts
+#EXTINF:-1 group-title="US Sports", NFL Network
+http://royx.xyz:80/play/live.php?mac=00:1A:79:d7:0a:34&stream=45526&extension=ts
+#EXTINF:-1 group-title="US Sports", NFL 01
+http://royx.xyz:80/play/live.php?mac=00:1A:79:d7:0a:34&stream=836296&extension=ts&play_token=2KJ0WlZ2ZL
+
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://seeklogo.com/images/N/nba-logo-59F0731E03-seeklogo.com.png", NBA TV
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=749756&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live01
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836373&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live02
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836372&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live03
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836371&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live04
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836370&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live05
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836369&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live06
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836368&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live07
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836367&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live08
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836366&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live09
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836365&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live10
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836364&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live11
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836363&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png", NBA Live12
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=836362&extension=ts
+
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB Network
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/55684.ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 01
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037140&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 02
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037141&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 03
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037142&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 04
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037143&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 05
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037144&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 06
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037145&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 07
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037146&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 08
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037147&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 09
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037148&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 10
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037150&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 11
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037134&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 12
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037134&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 13
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037136&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 14
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037137&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 15
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037138&extension=ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 16
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1037139&extension=ts
+
+#EXTINF:-1 group-title="US Sports", NHL Network
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/32516.ts
+#EXTINF:-1 group-title="US Sports", Foxsport1
+http://clientsportals.com:80/live/f3TRyXuq/b2uymMbP/8254.ts
+#EXTINF:-1 group-title="US Sports", CBSSN
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/55942.ts
+#EXTINF:-1 group-title="US Sports", NBCSN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61444&extension=ts
+#EXTINF:-1 group-title="US Sports", ABC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61430&extension=ts
+#EXTINF:-1 group-title="US Sports", FOX 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61403&extension=ts
+#EXTINF:-1 group-title="US Sports", TNT US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+#EXTINF:-1 group-title="US Sports", CBS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61465&extension=ts
+#EXTINF:-1 group-title="US Sports", SEC NETWORK
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61354&extension=ts
+#EXTINF:-1 group-title="US Sports", ACCN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61384&extension=ts
+#EXTINF:-1 group-title="US Sports", PAC-12 Oregon
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=10966&extension=ts
+#EXTINF:-1 group-title="US Sports", PAC-12 Arizona
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=10969&extension=ts
+#EXTINF:-1 group-title="US Sports", STADIUM
+http://tptv.cz:80/53A40D432CF3457/QpqyVK5ITM/71966
+#EXTINF:-1 group-title="US Sports", BTN
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=11898&extension=ts
+#EXTINF:-1 group-title="US Sports", NBCSN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61350&extension=ts
+#EXTINF:-1 group-title="US Sports", LONGHORN NETWORK
+http://tptv.cz:80/53A40D432CF3457/XvuzauzI11/71918
+#EXTINF:-1 group-title="US Sports", NBC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61387&extension=ts
+#EXTINF:-1 group-title="US Sports", YES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:C7:3B&stream=61356&extension=ts
+
+################# Sports World ##################
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png", SuperSports Motorsport AM
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/31911.ts
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-it.png", Sky Sports F1 AM
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/720.ts
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png", SuperSports Motorsport
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=239082&extension=ts
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-it.png", Sky Sports F1 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=30499&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", Auto Motor Sport AUS
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1107808&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", Mortorvision DE
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=707136&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", TV Motor
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=917008&extension=ts
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorsport_tv_fr.png", Motorsport.tv trexA7
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=889030&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="https://www.lyngsat.com/logo/tv/mm/motowizja_tv_pl.png", Motowizja HD trexA7
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=880413&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-fr.png", Canal+ FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=507708&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", NowSports1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1110615&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", NowSports2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1110616&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", NowSports3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1110617&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", NowSports4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1110618&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", NowSports5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1110619&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", NowSports6
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1110620&extension=ts
+#EXTINF:-1 group-title="SportsWorld", tvg-logo="", NowSports7
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1110621&extension=ts
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://media.info/i/lf/300/1647384977/1539.png" ,BT Sport 1 FHD
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=30567&extension=ts
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://media.info/i/lf/300/1647385004/1540.png" ,BT Sport 2 FHD
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=30566&extension=ts
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://media.info/i/lf/300/1647385037/5712.png" ,BT Sport 3 FHD
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=30565&extension=ts
+#EXTINF:-1 group-title="SportsWorld" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" ,BT Sport 4 FHD
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=1019935&extension=ts
+#EXTINF:-1 group-title="SportsWorld", Sky Sports Golf
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/722.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="SportsWorld", beIN Sport 1
+http://ultratv.one:2095/live/xkduPZtZ/p1chrzwj/94453.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="SportsWorld", beIN Sport 2
+http://ultratv.one:2095/live/xkduPZtZ/p1chrzwj/94449.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-3-qa.png" group-title="SportsWorld", beIN Sport 3
+http://ultratv.one:2095/live/xkduPZtZ/p1chrzwj/94445.ts
+#EXTINF:-1 group-title="SportsWorld", PGA Tour
+http://ultratv.one:2095/live/xkduPZtZ/p1chrzwj/331460.ts
+#EXTINF:-1 group-title="SportsWorld", NFL NETWORK
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/6348.ts
+#EXTINF:-1 group-title="SportsWorld", Golf Channel
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/55954.ts
+#EXTINF:-1 group-title="SportsWorld", CANAL+ Sport
+http://51.89.234.174/get/david.kendall01/3a3nyyQfhy/channel/60487.ts
+#EXTINF:-1 group-title="SportsWorld", BT Sport 1 ipw
+http://iptvworld.ml:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=9850&extension=ts
+#EXTINF:-1 group-title="SportsWorld", BT Sport 2		
+http://iptvworld.ml:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=9848&extension=ts
+#EXTINF:-1 group-title="SportsWorld", BT Sport 3
+http://iptvworld.ml:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=9846&extension=ts
+#EXTINF:-1 group-title="SportsWorld", BT Sport 4
+http://iptvworld.ml:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=23657&extension=ts
+#EXTINF:-1 group-title="SportsWorld", SuperSport Laliga
+http://iptvworld.ml:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=39406&extension=ts
+#EXTINF:-1 group-title="SportsWorld", HubPremier 1 EPL
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=348097&extension=ts
+#EXTINF:-1 group-title="SportsWorld", HubPremier 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=348098&extension=ts
+#EXTINF:-1 group-title="SportsWorld", HubPremier 3
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=348099&extension=ts
+#EXTINF:-1 group-title="SportsWorld", HubPremier 4
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=348100&extension=ts
+#EXTINF:-1 group-title="SportsWorld", HubPremier 5
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=348101&extension=ts
+#EXTINF:-1 group-title="SportsWorld", HubPremier 6
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=348102&extension=ts
+#EXTINF:-1 group-title="SportsWorld", HubPremier 7
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=348103&extension=ts
+
+################# NFL PACKAGE #################
+#EXTINF:-1 group-title="NFL" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" ,NFL Daddy
+https://daddylivehd.sx/stream/stream-405.php|webdelayalldig$$delay=1
+#EXTINF:-1 group-title="NFL" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png", NFL Trexiptv
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=45526&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png", NFL Royx
+http://royx.xyz:80/play/live.php?mac=00:1A:79:13:5f:a7&stream=45526&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_red_zone.png", NFL RedZone
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=45524&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://i.pinimg.com/564x/c5/12/79/c5127902ba1f6472edcaa73843bf2fbe.jpg", NFL Live01
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=1040586&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://i.pinimg.com/564x/c5/12/79/c5127902ba1f6472edcaa73843bf2fbe.jpg", NFL Live02
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=1040586&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://i.pinimg.com/564x/9a/a5/aa/9aa5aa262117eb38d4edbe25895605e3.jpg", NFL Info
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=1040586&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://i.pinimg.com/564x/9a/a5/aa/9aa5aa262117eb38d4edbe25895605e3.jpg", NFL HighLight
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=1040585&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://i.pinimg.com/564x/9a/a5/aa/9aa5aa262117eb38d4edbe25895605e3.jpg", NFL Replay01
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=1040584&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://i.pinimg.com/564x/9a/a5/aa/9aa5aa262117eb38d4edbe25895605e3.jpg", NFL Replay02
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=1040583&extension=ts
+#EXTINF:-1 group-title="NFL" tvg-logo="https://i.pinimg.com/564x/9a/a5/aa/9aa5aa262117eb38d4edbe25895605e3.jpg", NFL Replay03
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=1040582&extension=ts
 
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/o6SxT3q.png" group-title="Kênh Thể Thao VN",VTV3 HD
-https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="Kênh Thể Thao VN",VTV5 HD
-https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.imgur.com/GtnRg0D.png" group-title="Kênh Thể Thao VN",VTV6 HD
-https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtvcab3d" group-title="Kênh Thể Thao VN" tvg-logo="http://onetv.click/logo/on-sports.jpg",VTVcab3 - On Sports
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Kênh Thể Thao VN" tvg-logo="http://onetv.click/logo/on-football.jpg",VTVcab16 - On Football
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="Kênh Thể Thao VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTVcab6 - On Sports +
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="VTC3" group-title="Kênh Thể Thao VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3 HD - On Sports
-https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh Thể Thao VN" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c6/HTV7_%282016-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200608060620&path-prefix=vi" tvg-chno="27",HTV7 HD
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh Thể Thao VN" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTV9_%282016-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200608060619&path-prefix=vi" tvg-chno="29",HTV9 HD
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh Thể Thao VN" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi" tvg-chno="25",HTV Thể Thao
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sctv15hd" group-title="Kênh Thể Thao VN" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/15_f6a8241e.jpg",SCTV15
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv17hd" group-title="Kênh Thể Thao VN" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/17_03ba5e54.jpg",SCTV17
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="sctv22hd" group-title="Kênh Thể Thao VN" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/22_881fabb7.jpg",SCTV22
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="btv5hd" group-title="Kênh Thể Thao VN" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/68_ad4ad421.jpg",BTV5
-https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sctvonline.vn
+################# NBA #################
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/atl.png", Atlanta Hawks
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428861&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png", Boston Celtics
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428862&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png", Brooklyn Nets
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428863&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png", Charlotte Hornets
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428864&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png", Chicago Bulls
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428865&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png", Cleveland Cavaliers
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428866&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png", Dallas Mavericks
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428867&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png", Denver Nuggets
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428868&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/det.png", Detroit Pistons
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428869&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png", Golden State Warriors
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428870&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/hou.png", Houston Rockets
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428871&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png", Indiana Pacers
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428872&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png", LA Clippers
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836345&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png", LA Lakers
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836344&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png", Memphis Grizzlies
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836343&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mia.png", Miami Heat
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836342&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mil.png", Milwaukee Bucks
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836341&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png", Minnesota Timberwolves
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836340&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/no.png", New Orleans Pelicans
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836339&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/nyk.png", New York Knicks
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836338&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png", Oklahoma City Thunder
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C0:49:40&stream=836337&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/orl.png", Orlando Magic
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428882&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png", Philadelphia 76ers
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428883&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/pho.png", Phoenix x Suns
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428884&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png", Portland Trail Blazers
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428885&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sac.png", Sacramento Kings
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428886&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sa.png", San Antonio Spurs
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428887&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png", Toronto Raptors
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428888&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/utah.png", Utah Jazz
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428889&extension=ts
+#EXTINF:-1 group-title="NBA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/was.png", Washington Wizards
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:AE:C6:E7&stream=428890&extension=ts
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1
-https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png",VTC2
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/340?cb=20201207142820&path-prefix=vi",VTC3
-https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTC4_2018-2020.png/revision/latest/scale-to-width-down/340?cb=20201212065736&path-prefix=vi",VTC4
-https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/VTC5_2018.png/revision/latest/scale-to-width-down/340?cb=20200821143114",VTC5
-https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/1024px-VTC6_logo_2018.svg.png",VTC6
-https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest/scale-to-width-down/340?cb=20201125094038&path-prefix=vi",VTC7
-https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/768px-VTC8_logo_2018.svg.png",VTC8
-https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/1200px-VTC9_logo_2018.svg.png",VTC9
-https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png",VTC10
-https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png",VTC11
-https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTC12_Grey.png/revision/latest/scale-to-width-down/340?cb=20200904024746&path-prefix=vi",VTC12
-https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi",VTC13
-https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png",VTC14
-https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1200px-VTC16_logo_2018.svg.png",VTC16
-https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://download.truongquocvi.com/logo/btv4-imovie%20%28binh%20duong%204%29.png" group-title="AVG",BTV4 iMOVIE TV
-https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/BTV6_logo.png/revision/latest?cb=20210824001544&path-prefix=vi" group-title="AVG",BTV6
-https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="AVG" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",An Viên HD - BTV9
-https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/NCM_BTV10_logo.png/revision/latest?cb=20181008070900&path-prefix=vi" group-title="AVG",NCM BTV10
-https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://tivihot.net/wp-content/uploads/2019/07/icon_channel_sam_tivihotnet.jpg" group-title="AVG",SAM CHANNEL - BTV11
-https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 group-title="SPORT",ESPN
-http://the.cctv-hut.net/get/david.kendall01/3a3nyyQfhy/channel/55945.ts
+#EXTINF:-1 group-title="DDY" tvg-logo="https://i.pinimg.com/564x/68/f0/4a/68f04af7ff3b4dc4aef3cb3ab6f9032a.jpg", ESPN 44
+https://ddy5.onlinewebtv.lol/ddy5/premium44/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DDY" tvg-logo="https://i.pinimg.com/564x/68/f0/4a/68f04af7ff3b4dc4aef3cb3ab6f9032a.jpg", ESPN 44
+https://ddy5.onlinewebtv.lol/ddy5/premium39/tracks-v1a1/mono.m3u8
