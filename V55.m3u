@@ -108,3 +108,145 @@ https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="612" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueHD3 Fdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20221206212414dN6XnCEP3AO7N4XFOFyZ8V8kZF5.jpg", Lyle, Lyle, Crocodile
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Lyle_Lyle_Crocodile_2022/Lyle_Lyle_Crocodile_2022_st_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://i.pinimg.com/564x/a4/e1/e8/a4e1e8e12873bab1a6820d66172ce0e0.jpg", AVATAR2 2022
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Avatar_The_Way_of_Water_2022/Avatar_The_Way_of_Water_2022_st_1080p_T.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20200419175241Avatar%20%E0%B8%AD%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%A3%20(2009).jpg", AVATAR
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie1/Avatar-2009/Avatar-2009-en-1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Fantastic_Four_poster.jpg", Fantastic Four 1
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie2/Fantastic%20Four%201-2/Fantastic%20Four%201%20(2005)%20en%201080p%20fw.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Fantastic_Four_2_Poster.jpg", Fantastic Four 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie2/Fantastic%20Four%201-2/Fantastic%20Four%202%20(2007)%20en%201080p%20fw.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fantastic_Four_2015_poster.jpg", Fantastic Four 2015
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie2/Fantastic%20Four%20(2015)/Fantastic%20Four%20(2015)%20en%201080p%20fw.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Close_2022.jpg", Close
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Gifted-2017/Gifted-2017-EN-1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Gifted_poster.jpeg", Gifted
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Gifted-2017/Gifted-2017-EN-1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/202302011543287ZINBixo7zO21iF9doe1cSTHrV4.jpg", BlackPanther 2022
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Black_Panther_Wakanda_Forever_2022/Black_Panther_Wakanda_Forever_2022_st_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20221112185133cascascas.jpg", One_Piece_Film_Red_2022
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/One_Piece_Film_Red_2022/One_Piece_Film_Red_2022_thr_v1.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20220702164128tmnt-521616e348b7a.jpg", TMNT นินจาเต่า 4 
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/TMNT_2007/TMNT_2007_EN_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20180724235857MV5BMmYwNWZlNzEtNjE4Zi00NzQ4LWI2YmUtOWZhNzZhZDYyNmVmXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_.jpg", Paddington 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Paddington_2_2017/Paddington_2_2017_EN_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20210823174120jack-the-giant-slayer-52e53a4d39fdd.jpg", Jack-the-Giant-Slayer
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie1/Jack-the-Giant-Slayer-2013/Jack-the-Giant-Slayer-2013-en-1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20220524085331everything-everywhere-all-at-once-624ef81c612d0.jpg", Everything_Everywhere_All_at_Once
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Everything_Everywhere_All_at_Once_2022/Everything_Everywhere_All_at_Once_2022_en_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20221224130600lXUuDntyQBHXkrM4pCar2I0LO8.jpg", Strang World
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Strange_World_2022/Strange_World_2022_st_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20220418081042j0M5ig2EEuCVh6ko5A3PIEl6ctU.jpg", The BATMAN
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/The_Batman_2022/The_Batman_2022_en_1080p_F.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20180918100022The-Way-Home-2002-film-images-fb1b7c72-8eab-48dd-8cd0-3339d301f1c.jpg", The Way Home
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/The-Way-Home-2002/The-Way-Home-2002-KR-1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="", Transformer
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie2/Transformers%20Prime%20Beast%20Hunters%20Predacons%20Rising%20(2013)/Transformers%20Prime%20Beast%20Hunters%20Predacons%20Rising%20(2013)%20th%201080p%20fw.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://m.media-amazon.com/images/I/81hTC6BDDiL._RI_.jpg", After the storm
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie2/After-the-Storm-2016/After-the-Storm-2016-JP-1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://m.media-amazon.com/images/I/81HQqNmjfzL._RI_.jpg", Our Little Sister
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie2/Our_Little_Sister_2015/Our_Little_Sister_2015_en_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20191209185330poster_big.jpg", Tokyo Sonata
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Tokyo_Sonata_2008/Tokyo_Sonata_2008_JP_1080p.m4v
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20200609155728a1de6000cf73189837d9859708183d95.jpg", Nobody Known
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Nobody_Knows_2004/Nobody_Knows_2004_TH_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20170506091624departures-okuribito.29794.jpg", Departure
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Departures_2008/Departures_2008_JP_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/202106101615078Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg", Nomadland
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Nomadland_2020/Nomadland_2020_en_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/202110060323286mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg", Minari
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Minari_2020/Minari_2020_en_kr_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20190328055319green-book-5c3274369b163.jpg", Green Book
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Green-Book-2018/Green-Book-2018-EN-1080p.m4v
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/2017021508134711908_front.jpg", AVATAR
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie1/Avatar-2009/Avatar-2009-en-1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20221214194139v2rtdNIyoLMlUebnCvad8DOSf33.jpg", Conan
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Detective_Conan_The_Bride_of_Halloween_2022/Detective_Conan_The_Bride_of_Halloween_2022_st_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20210814082414gdhdd.jpg", CODA
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Coda_2021/Coda_2021_EN_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20221127201237aqAPeeORk5zVarX2NGM8jgzthgx.jpg", Black Adam(2022)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Black_Adam_2022/Black_Adam_2022_st_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="http://www.impawards.com/2010/posters/flipped.jpg", Flipped (2010)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie2/Flipped (2010)/Flipped (2010) en 1080p fw.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="http://www.impawards.com/2006/posters/monster_house_ver3.jpg", Monster House (2006)
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie2/Monster House (2006)/Monster House (2006) th 1080p fw.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/202210291502095dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg", Wendell & Wild
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Wendell_And_Wild_2022/Wendell_And_Wild_2022_st_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20221201024928swmOmm3vz3DRR7FBoJasc4LcaR1.jpg", บุพเพสันนิวาส 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Love_Destiny_The_Movie_2022/Love_Destiny_The_Movie_2022_th_1080p.mp4
+
+#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20221211003903vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg", Pinocchio_2022
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://m1free.inwstream.com:1936/movie3/Guillermo_del_Toro_s_Pinocchio_2022/Guillermo_del_Toro_s_Pinocchio_2022_st_1080p.mp4
