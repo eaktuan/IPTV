@@ -1,113 +1,232 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
 
-#EXTINF:-1 group-title="movies" tvg-logo="https://img.inwiptv.net/postor/20190226200146the-little-mermaid-522a944095a57.jpg", The-Little-Mermaid
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://m1free.inwstream.com:1936/movie3/The-Little-Mermaid-1989/The-Little-Mermaid-1989-EN-1080p.m4v
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="SPORTS",DAZN 1 1080p
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="SPORTS",DAZN 2 1080p
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="SPORTS",DAZN 3 1080p
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="SPORTS",DAZN 4 1080p
+acestream://e454681a152a86da504e63694f17f90d0586867d
 
-########################## 01-36 @ Digital TV ##########################
-#EXTINF:-1 tvg-chno="1" tvg-id="ThaiTV5HD1.th" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Digital TV",TV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="ThaiPBS3.th" tvg-name="Thai PBS 3" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Digital TV",Thai PBS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://i.imgur.com/Y6k45Su.png" group-title="Digital TV",ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Digital TV",CH5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
-#EXTINF:-1 group-title="Digital TV",Thai PBS HD
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="Digital TV",T Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
-#EXTINF:-1 group-title="Digital TV",NBT2
-https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV",NBT11
-https://thainews.prd.go.th/lv/live/ch9_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://i.imgur.com/Jfdy937.png" group-title="Digital TV",TPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8
-#EXTINF:-1 group-title="Digital TV",NBT11 Central
-https://thainews.prd.go.th/lv/live/ch9_L.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV",NBT Bangkok
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Digital TV",NBT WORLD
-https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV",CH14
-https://
-#EXTINF:-1 group-title="Digital TV",Thairath32
-https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="TNN16.th" tvg-name="TNN16" tvg-logo="https://i.imgur.com/mfVhuRC.png" group-title="Digital TV",TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
-#EXTINF:-1 group-title="Digital TV",TNN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tnnthailand-1mertz.cdn.byteark.com/live/pl_720p/index.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://i.imgur.com/zxgCdl0.png" group-title="Digital TV",JKN 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
-#EXTINF:-1 group-title="Digital TV",CH19
-https://
-#EXTINF:-1 group-title="Digital TV",CH20
-https://
-#EXTINF:-1 group-title="Digital TV",CH21
-https://
-#EXTINF:-1 tvg-chno="22" tvg-id="Nation TV" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Digital TV",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://i.imgur.com/oxf6BRn.png" group-title="Digital TV",Workpoint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Digital TV",True 4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="Digital TV",GMM 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chgmm3/index.m3u8
-#EXTINF:-1 group-title="Digital TV",CH26
-https://
-#EXTINF:-1 tvg-chno="27" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="Digital TV",CH 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
-#EXTINF:-1 group-title="Digital TV",CH28
-https://
-#EXTINF:-1 tvg-chno="29" tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Digital TV",MONO 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="MCOT HD" tvg-name="MCOT HD" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="Digital TV",MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="Digital TV",ONE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title="Digital TV",Thairath TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Digital TV",CH3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="Digital TV",Amarin TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Digital TV",CH7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Digital TV",PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
-#EXTINF:-1 tvg-chno="610" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueHD1 Fdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="611" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueHD2 Fdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="612" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueHD3 Fdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png" group-title="SPORTS",SKY SPORT MAIN EVENT FHD
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-premier-league-90.png" group-title="SPORTS",SKY SPORT PREMIER LEAGUE FHD
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png" group-title="SPORTS",SKY SPORT FOOTBALL FHD
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png" group-title="SPORTS",ELEVEN SPORT 1 PT
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png" group-title="SPORTS",ELEVEN SPORT 2 PT
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png" group-title="SPORTS",ELEVEN SPORT 3 PT
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-4-portugal.png" group-title="SPORTS",ELEVEN SPORT 4 PT
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-5-portugal.png" group-title="SPORTS",ELEVEN SPORT 5 PT
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-6-portugal.png" group-title="SPORTS",ELEVEN SPORT 6 PT
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-plus-1475.png" group-title="SPORTS",M LIGA DE CAMPEONES FHD
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="SPORTS",M DEPORTES FHD
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-game-russia.png" group-title="SPORTS",MATCH TV FHD
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png" group-title="SPORTS",MATCH FOOTBALL 1 FHD
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png" group-title="SPORTS",MATCH FOOTBALL 2 FHD
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png" group-title="SPORTS",MATCH FOOTBALL 3 FHD
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/32/i2o.png" group-title="SPORTS",MATCH GAME FHD
+acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png" group-title="SPORTS",MATCH PREMIER FHD
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png" group-title="SPORTS",SETANTA 1 RU
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-eurasia-plus.png" group-title="SPORTS",SETANTA 2 RU
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+
+#EXTINF:-1 tvg-id="BT Sport 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="SPORTS",BT SPORT 1 UK
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="SPORTS",BT SPORT 2 UK
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SPORTS",BT SPORT 3 UK
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-id="BT Sport espn" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group-title="SPORTS",BT SPORT ESPN UK
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" group-title="SPORTS",ESPN US HD 60FPS
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nz-espn-2-466.png" group-title="SPORTS",ESPN 2 US HD 60FPS
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png" group-title="SPORTS",FOX SPORTS 1 US
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-2-61.png" group-title="SPORTS",FOX SPORTS 2 US
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png",PREMIER SPORT 1 UK
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-2-1442.png",PREMIER SPORT 2 UK
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-uk-mutv-114.png",MUTV
+acestream://30447ef0ecb4410d5499eaac68026bf123a7ffa6
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-nba-tv-75.png",NBA TV HD 60FPS
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png" group-title="SPORTS",SKY SPORT ARENA
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="SPORTS",SKY SPORT CRICKET
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/polsat-sport.png" group-title="SPORTS",POLSAT SPORT PL
+acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-polsat-sport-extra-560.png" group-title="SPORTS",POLSAT SPORT EXTRA PL
+acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="SPORTS",ELEVEN SPORT 1 PL 4K
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" group-title="SPORTS",ELEVEN SPORT 1 PL
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png" group-title="SPORTS",ELEVEN SPORT 2 PL
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png" group-title="SPORTS",ELEVEN SPORT 3 PL
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png" group-title="SPORTS",ELEVEN SPORT 4 PL
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/polsat-sport-premium-1.png" group-title="SPORTS",POLSAT SPORT PREMIUM 1 PL
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/polsat-sport-premium-2.png" group-title="SPORTS",POLSAT SPORT PREMIUM 2 PL
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-sport.png" group-title="SPORTS",TVP SPORT PL
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportklub-635.png" group-title="SPORTS",SPORTKLUB PL
+acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-polsat-sport-fight-1311.png" group-title="SPORTS",POLSAT SPORT FIGHT PL
+acestream://9e7fe279f421b734a8af9e68320955fd16f80b4b
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fight-klub-polska-1312.png" group-title="SPORTS",FIGHTKLUB PL
+acestream://b73da828421018c98905ed05934b77ea35aa1b29
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fightbox-578.png" group-title="SPORTS",FIGHTBOX RU
+acestream://49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fightbox-578.png" group-title="SPORTS",FIGHTBOX PL
+acestream://d9e5e213121f3ea7fbcb216b48c306cd935b017a
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="SPORTS",BEIN SPORTS 3 TU FHD
+acestream://ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" group-title="SPORTS",BEIN SPORTS 1 FR FHD
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png" group-title="SPORTS",BEIN SPORTS 2 FR FHD
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png" group-title="SPORTS",BEIN SPORTS 3 FR FHD
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-1-241.png",ESPN 1 BE FHD
+acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-2-242.png",ESPN 2 BE FHD
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-3-243.png",ESPN 3 BE FHD
+acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-4-244.png",ESPN 4 BE FHD
+acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
+
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="SPORTS",DAZN 1 DE
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" group-title="SPORTS",DAZN 2 DE
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-select-netherlands.png" group-title="SPORTS",ZIGGO SELECT BE
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ziggo-voetbal-286.png" group-title="SPORTS",ZIGGO VOETBAL BE
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png" group-title="SPORTS",SPORT DIGITAL DE
+acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-de-sport1-plus-149.png" group-title="SPORTS",SPORT1+ DE FHD
+acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-golf-channel-polska-1303.png" group-title="SPORTS",GOLF CHANNEL PL FHD
+acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ziggo-golf-287.png" group-title="SPORTS",ZIGGO GOLF HD
+acestream://035e34b791335962ca817f42fd14300382af3797
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j3RswyGy4so/maxresdefault.jpg" group-title="SPORTS",ONE GOLF HD
+acestream://60e1595db53c6af5339b50ad21d957ad9a44a311
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="SPORTS",CANAL+ SPORT PL
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="SPORTS",CANAL+ SPORT 2 PL
+acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-3-1883.png" group-title="SPORTS",CANAL+ SPORT 3 PL
+acestream://3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png" group-title="SPORTS",CANAL+ SPORT 4 PL
+acestream://04448c3ca0b7518819491e468adbabc8a2551bd7
+
+
+#EXTINF:-1 tvg-id="Sky Sport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-top-event-2764.png" group-title="SPORTS",SKY SPORT TOP EVENT DE
+acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
+#EXTINF:-1 tvg-id="Sky Sport 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-tennis-2767.png" group-title="SPORTS",SKY SPORT TENNIS DE
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
+
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv2-sport-x-1933.png" group-title="SPORTS",TV2 SPORT
+acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv2-sport-x-1933.png" group-title="SPORTS",TV2 SPORT X
+acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png" group-title="SPORTS",EUROSPORT 1 DE
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png" group-title="SPORTS",EUROSPORT 2 DE
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eurosport-556.png" group-title="SPORTS",EUROSPORT 1 PL
+acestream://314eb626864faf52e01624361bd6906b5406127f
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eurosport-2-557.png" group-title="SPORTS",EUROSPORT 2 PL
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-1-ru-1419.png" group-title="SPORTS",EUROSPORT 1 RU
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-2-ru-1420.png" group-title="SPORTS",EUROSPORT 2 RU
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="SPORTS",EUROSPORT 1 ESP
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" group-title="SPORTS",EUROSPORT 2 ESP
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+#EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="4K",ELEVEN SPORT 1 PL 4K
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/nasha_sibir_4k_obychnyy.jpg" group-title="4K",OUR SIBERIA 4K
+acestream://4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="4K",LOVE NATURE 4K
+acestream://a54d3ec9d49487cb1e9102c74f341fec4cebd189
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/INSIGHT_UHD.png" group-title="4K",INSIGHT 4K
+acestream://2bc787fab6cfce8b5c7a7c6b85e862066d967a68
+#EXTINF:-1 tvg-logo="https://picon.ml/bcu-kids.png" group-title="4K",BCU KIDS 4K
+acestream://c3aa52aab6bd48c3b79189410fbf716f2e4dd293
+#EXTINF:-1 tvg-logo="https://ak.picdn.net/shutterstock/videos/7872409/thumb/3.jpg" group-title="4K",CINEMA 4K
+acestream://6c76dccd15ff935fb1442223529d1aecc8f515d8
+#EXTINF:-1 tvg-logo="https://ak.picdn.net/shutterstock/videos/7872409/thumb/3.jpg" group-title="4K",CINEMA 4K
+acestream://038b448c810cad19a2a9e615d94696a23141e379
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/284-2844478_russian-extreme-tv-channel-replaces-extreme-russian-extreme.png" group-title="4K",RUSSIAN EXTREME 4K
+acestream://9214a597a38ed669aba1fe73351a580b1a77ce6e
+#EXTINF:-1 tvg-logo="https://picon.ml/bcu-premiere-4k.png" group-title="4K",BCU PREMIERE ULTRA 4K
+acestream://30b1dba65edffa2c0c8ade75257508b00d8a61ea
+#EXTINF:-1 tvg-logo="https://picon.ml/bcu-ultra4k.png" group-title="4K",BCU ULTRA 4K
+acestream://6c82a952053419ef358907fc2fc52151626be0b7
+#EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/M87kbVk.png" group-title="4K",CLARITY 4K
+acestream://f7537658cf8b49139386ce6f0f84d7d90f143d4a
+#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2017-09/1504351358_e387ed1317b237663b4059ba0eac629c.jpg" group-title="4K",SERIAL 4K
+acestream://3a71745381e1a6821a881c96a230b6cd365d4da5
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-uhd.png" group-title="4K",SKY BUNDESLIGA 4K
+acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-small-2021.png" group-title="4K",SKY SPORTS DE 4K
+acestream://96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
