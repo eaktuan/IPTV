@@ -1,6 +1,6 @@
 {
-"name": "V55 Live",
-"author": "E20240328",
+"name": "V55",
+"author": "E240328",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u",
 "groups": [
@@ -8,17 +8,17 @@
 {"name": "Acestream",
  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/acestream.m3u",
-"import": "true"},
+"import": false},
 
 {"name": "Sports",
  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/jmrk.m3u",
-"import": "true"},
+"import": false},
 
-{"name": "Sports",
+{"name": "DE-IPTV19",
  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/DE-IPTV19.m3u",
-"import": "true"},
+"import": false},
 
 {"name": "Win IPTVFree",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
