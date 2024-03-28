@@ -1,15 +1,23 @@
 {
-"name": "Live",
-"author": "Eak 11/3/2024",
-"image": "https://img.freepik.com/premium-vector/iptv-badge-icon-logo-illustration_100456-1447.jpg",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.m3u",
+"name": "V55 Live",
+"author": "E20240328",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u",
 "groups": [
 
-{
-"name": "Sports",
-"author": "",
- "image": "https://yt3.googleusercontent.com/ytc/AIf8zZTeXMihZQhfOn-r4OK4kCzEtAilKQMuJxqWVJfrhA=s900-c-k-c0x00ffffff-no-rj",
+{"name": "Acestream",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/acestream.m3u",
+"import": "true"},
+
+{"name": "Sports",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/jmrk.m3u",
+"import": "true"},
+
+{"name": "Sports",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/DE-IPTV19.m3u",
 "import": "true"},
 
 {"name": "Win IPTVFree",
