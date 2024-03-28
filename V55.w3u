@@ -2,20 +2,15 @@
 "name": "Live",
 "author": "Eak 11/3/2024",
 "image": "https://img.freepik.com/premium-vector/iptv-badge-icon-logo-illustration_100456-1447.jpg",
-"url": "https://onedrive.live.com/download?cid=1BFBD4D607A08BFC&resid=1BFBD4D607A08BFC%21238040&authkey=AKhnTX-SvkUWUfg",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.m3u",
 "groups": [
 
 {
 "name": "Sports",
 "author": "",
  "image": "https://yt3.googleusercontent.com/ytc/AIf8zZTeXMihZQhfOn-r4OK4kCzEtAilKQMuJxqWVJfrhA=s900-c-k-c0x00ffffff-no-rj",
-"url": "https://pastebin.com/raw/Xg2PLRth",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/jmrk.m3u",
 "import": "true"},
-
-{"name": "WE ARE ONE MEGAPL",
-"image": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png",
-"url": "https://pastebin.com/raw/NC3uhUTd",
-"import": false},
 
 {"name": "Win IPTVFree",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
