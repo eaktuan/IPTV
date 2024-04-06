@@ -231,15 +231,19 @@ acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-small-2021.png" group-title="4K",SKY SPORTS DE 4K
 acestream://96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="ĐUA XE F1",ELEVEN SPORT 1 PL--ĐUA XE F1
+#EXTINF:-1 group-title="F1",F1TV FHD 1080p
+acestream://90a9505df45de30d95ae9ea754fc3cfc54d83744
+#EXTINF:-1 group-title="F1",F1TV 720p
+acestream://c1bdcd2bfee086e0042553267e361f7d249657a6
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="F1",ELEVEN SPORT 1 PL--ĐUA XE F1
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="ĐUA XE F1",ELEVEN SPORT 1 PL 4K--ĐUA XE F1
+#EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="F1",ELEVEN SPORT 1 PL 4K--ĐUA XE F1
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="ĐUA XE F1" tvg-id="Sky Sport 1 HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Sky_Sport_1_HD_PRIMARY_RGB.PNG",SKY SPORT 1 DE--ĐUA XE F1
+#EXTINF:-1 group-title="F1" tvg-id="Sky Sport 1 HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Sky_Sport_1_HD_PRIMARY_RGB.PNG",SKY SPORT 1 DE--ĐUA XE F1
 acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-de-2541.png" group-title="ĐUA XE F1",SKY SPORT F1 DE--ĐUA XE F1
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-de-2541.png" group-title="F1",SKY SPORT F1 DE--ĐUA XE F1
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ĐUA XE F1",DAZN F1 FHD--ĐUA XE F1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="F1",DAZN F1 FHD--ĐUA XE F1
 acestream://c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ĐUA XE F1",DAZN F1 FHD--ĐUA XE F1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="F1",DAZN F1 FHD--ĐUA XE F1
 acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
