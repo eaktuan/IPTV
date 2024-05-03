@@ -1,7 +1,7 @@
 {
-		"name": "markkystreams LIVE",
-		"author": "BY We Are One",
-		"image":"https://v.markkystreams.com/wp-content/uploads/2020/08/cropped-dca07489-63c5-4d57-bfaa-0c3badd6bd40_200x200.png",
+		"name": "BuffStream LIVE",
+		"author": "Eak",
+		"image":"https://buff-streams.net/img/logo.png",
 		"url": "https://pastebin.com/raw/6pxPLy7F",
 		 "info": "",
  
@@ -11,7 +11,7 @@
             {
 "name": "NBA", 
 "image": "https://images.ctfassets.net/h8q6lxmb5akt/5qXnOINbPrHKXWa42m6NOa/421ab176b501f5bdae71290a8002545c/nba-logo_2x.png", 
-"url":"https://v.markkystreams.com/video/nba-01/", "referer": "https://v.markkystreams.com/", "info": "","desktop": "true"}, 
+"url":"https://embedstreamgate.com/embed?key=1", "referer": "https://embedstreamgate.com/", "info": "","desktop": "true"}, 
 
             {
 "name": "NBA", 
