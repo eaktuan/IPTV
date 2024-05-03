@@ -15,7 +15,7 @@
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/MarkkyStreams.w3u",
 "import": "true"},
 
-{"name": "MarkkyStreams",
+{"name": "BuffStreams",
  "image": "https://buff-streams.net/img/logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/buff.w3u",
 "import": "true"},
