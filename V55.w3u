@@ -1,6 +1,6 @@
 {
 "name": "V55",
-"author": "E240328",
+"author": "E010524",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u",
 "groups": [
@@ -10,15 +10,18 @@
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/acestream.m3u",
 "import": false},
 
-{"name": "markkystreams LIVE",
-"author": "",
+{"name": "MarkkyStreams",
  "image": "https://v.markkystreams.com/wp-content/uploads/2020/08/cropped-dca07489-63c5-4d57-bfaa-0c3badd6bd40_200x200.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/MarkkyStreams.w3u",
 "import": "true"},
 
+{"name": "MarkkyStreams",
+ "image": "https://buff-streams.net/img/logo.png",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/buff.w3u",
+"import": "true"},
+
 {"name": "DooKeeLa",
-"author": "",
- "image": "https://play-lh.googleusercontent.com/VOGCWbEo_9iSabadZ2n4kq6pT7koYg4GhYUlc6AKV1vXGH81sOHZLYDv7meURh7vxfI",
+"image": "https://play-lh.googleusercontent.com/VOGCWbEo_9iSabadZ2n4kq6pT7koYg4GhYUlc6AKV1vXGH81sOHZLYDv7meURh7vxfI",
 "url": "https://pastebin.com/raw/F1vKprfA",
 "import": "true"},
 
