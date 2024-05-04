@@ -29,6 +29,11 @@
 "url":"https://embedstreamgate.com/embed?key=4", "referer": "https://embedstreamgate.com/", "info": "","desktop": "true"}, 
 
             {
+"name": "Tennis1", 
+"image": "", 
+"url":"https://fiveyardlab.com/wiki.php?player=desktop&live=ten1", "referer": "https://fiveyardlab.com/", "info": "","desktop": "true"},
+
+            {
 "name": "TNT Sport 3", 
 "image": "", 
 "url":"https://freestreams-live.my/bt-sport-3-uk/", "referer": "https://fiveyardlab.com/", "info": "","desktop": "true"},
