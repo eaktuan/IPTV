@@ -1,0 +1,15 @@
+{
+		"name": "tennis",
+		"image":"",
+		"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/tennis.w3u",
+		 "info": "",
+ 
+		"stations":[
+ 
+{"name": "tennis1", 
+"image": "", 
+"url":"https://scorevisit.com/match/court-suzanne-lenglen-1629372674",
+"referer": "https://scorevisit.com/",
+"info": "","desktop": "true"}, 
+]
+}
