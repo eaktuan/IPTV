@@ -10,21 +10,6 @@
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/acestream.m3u",
 "import": false},
 
-{"name": "F1 LIVE",
- "image": "https://assets.stickpng.com/images/61fc02163cf0e70004222072.png",
-"url": "https://pastebin.com/raw/Wy0vkEja",
-"import": "true"},
-
-{"name": "Motorsport LIVE",
- "image": "https://cdn5.f-cdn.com/contestentries/1217329/4161505/5a45fa971ee92_thumb900.jpg",
-"url": "https://pastebin.com/raw/yPDWM6h9",
-"import": "true"},
-
-{"name": "GOLF LIVE",
- "image": "https://static.vecteezy.com/system/resources/previews/010/257/759/original/golf-logo-with-silhouette-of-person-swinging-golf-stick-free-vector.jpg",
-"url": "https://pastebin.com/raw/fBEExBSX",
-"import": "true"},
-
 {"name": "Test",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://pastebin.com/raw/Xg2PLRth",
@@ -32,13 +17,3 @@
 
 ]
 }
-
-<html>
-<head>
-<meta charset="UTF-8">
-<title>PLAYIDTV NEW</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="refresh" content="0;url=https://my.cbox.ws/IPTV7495">
-</body>
-</html>
