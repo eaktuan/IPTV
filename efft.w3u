@@ -12,7 +12,7 @@
 
 {"name": "IPTVServ",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/IPTVServ.w3u.w3u",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/IPTVServ.w3u",
 "import": false},
 
 {"name": "Free55",
