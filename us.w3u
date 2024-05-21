@@ -30,6 +30,11 @@
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/tennis.w3u",
 "import": "true"},
 
+{"name": "baseball",
+"image":"",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/baseball.w3u",
+"import": "true"},
+
 {"name": "MarkkyStreams",
 "image": "https://v.markkystreams.com/wp-content/uploads/2020/08/cropped-dca07489-63c5-4d57-bfaa-0c3badd6bd40_200x200.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/MarkkyStreams.w3u",
