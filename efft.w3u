@@ -6,12 +6,12 @@
 
 
 {"name": "7495",
-"image": "https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
+"image": "https://github.com/eaktuan/IPTV/blob/main/7495logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/tv/main/7495.w3u",
 "import": false},
 
 {"name": "Free55",
-"image": "https://en.m.wikipedia.org/wiki/File:FreeTv_Egypt_Logo.png",
+"image": "https://github.com/eaktuan/IPTV/blob/main/55logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/free55.w3u",
 "import": false},
 
