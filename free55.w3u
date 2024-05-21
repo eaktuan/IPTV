@@ -6,7 +6,7 @@
 "groups": [
 
 {"name": "Acestream",
- "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/acestream.m3u",
 "import": false},
 
