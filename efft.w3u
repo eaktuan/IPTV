@@ -3,16 +3,22 @@
 	"author": "eak",
 	"image":"https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
 	"url": "https://efft.short.gy/7495",
-	"info": "",
  	"group":[
+
+{"name": "Dooball2You",
+"image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
+"url": "https://drive.google.com/uc?id=1PD_YHPa8GnaMNqwtW1Pv0wMMpKSs_ayH",
+"import": false},
 
 {"name": "V55", 
 "image":"https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u",
+"import": false},
 
 {"name": "7495",
 "image":"https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u",
+"import": false},
 
 ]
 }
