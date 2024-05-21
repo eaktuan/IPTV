@@ -6,13 +6,15 @@
 	"info": "",
  	"stations":[
 
-{"name": "V55",
+{"name": "V55", 
 "image":"https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u"},
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u",
+"referer": "", "info": "","desktop": "true"}, 
 
 {"name": "7495",
 "image":"https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
-"url": "https://raw.githubusercontent.com/eaktuan/tv/main/7495.w3u"},
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u",
+"referer": "", "info": "","desktop": "true"}, 
 
 ]
 }
