@@ -8,7 +8,7 @@
 		"stations":[
  
 {"name": "Buff-Streams",
-"image":"https://buff-streams.net/img/logo.png",
+"image": "https://buff-streams.net/img/logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/us-buffstreams.w3u"},
 
 {"name": "MLB LIVE",
