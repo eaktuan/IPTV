@@ -63,26 +63,6 @@
 "url": "https://pastebin.com/YpDkAZPg",
 "import": false},
 
-{"name": "MLB LIVE",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png",
-"url": "https://pastebin.com/raw/nTwuPEbT",
-"import": "true"},
-
-{"name": "NFL LIVE",
- "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",
-"url": "https://pastebin.com/raw/MmtP9Vga",
-"import": "true"},
-
-{"name": "NBA LIVE",
- "image": "https://pbs.twimg.com/profile_images/1392258537993211905/kYxkTjiE_400x400.jpg",
-"url": "https://pastebin.com/raw/CY0k4GVD",
-"import": "true"},
-
-{"name": "MarkkyStreams",
- "image": "https://v.markkystreams.com/wp-content/uploads/2020/08/cropped-dca07489-63c5-4d57-bfaa-0c3badd6bd40_200x200.png",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/MarkkyStreams.w3u",
-"import": "true"},
-
 {"name": "Acestream",
  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/acestream.m3u",
