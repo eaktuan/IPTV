@@ -1,16 +1,18 @@
 {
-		"name": "Go7495",
-		"author": "V55",
-		"image":"https://buff-streams.net/img/logo.png",
-		"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/buff.w3u",
-		 "info": "",
- 
-		"stations":[
-{"name": "SIAMSPORT1",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",
-"url": "https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL001/HLS/JL001.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
-"online": "true"},
+	"name": "EFFT",
+	"author": "eak",
+	"image":"https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
+	"url": "https://efft.short.gy/7495",
+	"info": "",
+ 	"stations":[
+
+{"name": "V55",
+"image":"https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/V55.w3u"},
+
+{"name": "7495",
+"image":"https://github.com/eaktuan/IPTV/blob/main/7495logo.jpg",
+"url": "https://raw.githubusercontent.com/eaktuan/tv/main/7495.w3u"},
+
 ]
 }
