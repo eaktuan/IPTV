@@ -1,8 +1,8 @@
 {
-		"name": "MLB LIVE",
+		"name": "MLB-Strams AI",
 		"author": "BY We Are One",
 		"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png",
-		"url": "https://pastebin.com/raw/nTwuPEbT",
+		"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/us-mlbstreamsai.w3u",
 		 "info": "",
  
 		"stations":[
@@ -112,7 +112,7 @@
 {
 "name": "Cleveland Guardians", 
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Guardians_winged_%22G%22.svg/1200px-Guardians_winged_%22G%22.svg.png", 
-"url":"https://freestreams-live.my/cleveland-guardians-live-stream/", "referer": "https://freetvdd.com/", "info": "","desktop": "true"},
+"url":"https://mlbstreams.ai/team/cleveland-guardians-live-stream-links/", "referer": "https://mlbstreams.ai/", "info": "","desktop": "true"},
 
            {
 "name": "Minnesota Twins", 
