@@ -1,0 +1,28 @@
+{
+		"name": "baseball",
+		"image":"",
+		"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/baseball.w3u",
+		 "info": "",
+ 
+		"stations":[
+ 
+{"name": "npb1", 
+"image": "", 
+"url":"https://scorevisit.com/match/lions-vs-marines-1629372272",
+"referer": "https://scorevisit.com/",
+"info": "","desktop": "true"}, 
+
+{"name": "npb2", 
+"image": "", 
+"url":"https://scorevisit.com/match/hawks-vs-golden-eagles-1629372273",
+"referer": "https://scorevisit.com/",
+"info": "","desktop": "true"}, 
+
+{"name": "npb3", 
+"image": "", 
+"url":"https://scorevisit.com/match/giants-vs-dragons-1629372269",
+"referer": "https://scorevisit.com/",
+"info": "","desktop": "true"}, 
+
+]
+}
