@@ -4,10 +4,14 @@
 "url": "https://rebrand.ly/7495",
 "groups": [
 
-
 {"name": "7495",
 "image": "https://img5.pic.in.th/file/secure-sv1/7495logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/7495.w3u",
+"import": false},
+
+{"name": "Live!",
+"image": "https://img5.pic.in.th/file/secure-sv1/imagese7db429e89c5a3ec.jpeg",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/live.w3u",
 "import": false},
 
 {"name": "Dooball2You",
