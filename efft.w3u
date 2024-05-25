@@ -14,6 +14,11 @@
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/live.w3u",
 "import": false},
 
+{"name": "Live!",
+"image": "https://cdn.beacons.ai/user_content/4F0XXmNbyZas8b1AZat002wvbSf2/profile_scorevisitcom.png",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/soccervisit.w3u",
+"import": false},
+
 {"name": "Dooball2You",
 "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
 "url": "https://drive.google.com/uc?id=1PD_YHPa8GnaMNqwtW1Pv0wMMpKSs_ayH",
