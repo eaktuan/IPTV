@@ -7,10 +7,10 @@
  
 		"stations":[
  
-{"name": "NBA1", 
+{"name": "Buff1", 
 "image": "https://images.ctfassets.net/h8q6lxmb5akt/5qXnOINbPrHKXWa42m6NOa/421ab176b501f5bdae71290a8002545c/nba-logo_2x.png", 
 "url":"https://embedstreamgate.com/embed?key=1", "referer": "https://embedstreamgate.com/", "info": "","desktop": "true"}, 
-{"name": "NBA2", 
+{"name": "Buff2", 
 "image": "https://images.ctfassets.net/h8q6lxmb5akt/5qXnOINbPrHKXWa42m6NOa/421ab176b501f5bdae71290a8002545c/nba-logo_2x.png", 
 "url":"https://embedstreamgate.com/embed?key=2", "referer": "https://embedstreamgate.com/", "info": "","desktop": "true"}, 
 {"name": "Buff3", 
