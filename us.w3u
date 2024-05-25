@@ -5,6 +5,11 @@
 		"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/us.w3u",
  		"groups": [
 
+{"name": "live",
+"image":"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/live.w3u",
+"import": "true"},
+
 {"name": "Buff-Streams",
 "image": "https://buff-streams.net/img/logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/us-buffstreams.w3u",
@@ -23,16 +28,6 @@
 {"name": "NBA LIVE",
 "image": "https://pbs.twimg.com/profile_images/1392258537993211905/kYxkTjiE_400x400.jpg",
 "url": "https://pastebin.com/raw/CY0k4GVD",
-"import": "true"},
-
-{"name": "Tennis",
-"image":"",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/tennis.w3u",
-"import": "true"},
-
-{"name": "baseball",
-"image":"",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/baseball.w3u",
 "import": "true"},
 
 {"name": "MarkkyStreams",
