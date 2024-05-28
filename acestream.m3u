@@ -1,51 +1,5 @@
 #EXTM3U url-tvg="http://bit.ly/guidevn"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png" group-title="SPORTS",ELEVEN SPORT 1 PT
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png" group-title="SPORTS",ELEVEN SPORT 2 PT
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png" group-title="SPORTS",ELEVEN SPORT 3 PT
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-4-portugal.png" group-title="SPORTS",ELEVEN SPORT 4 PT
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-5-portugal.png" group-title="SPORTS",ELEVEN SPORT 5 PT
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-6-portugal.png" group-title="SPORTS",ELEVEN SPORT 6 PT
-acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png" group-title="SPORTS",SKY SPORT MAIN EVENT FHD
-acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-premier-league-90.png" group-title="SPORTS",SKY SPORT PREMIER LEAGUE FHD
-acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png" group-title="SPORTS",SKY SPORT FOOTBALL FHD
-acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png" group-title="SPORTS",SKY SPORT ARENA
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="SPORTS",SKY SPORT CRICKET
-acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-plus-1475.png" group-title="SPORTS",M LIGA DE CAMPEONES FHD
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="SPORTS",M DEPORTES FHD
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-
-
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png" group-title="SPORTS",MATCH FOOTBALL 1 FHD
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png" group-title="SPORTS",MATCH FOOTBALL 2 FHD
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png" group-title="SPORTS",MATCH FOOTBALL 3 FHD
-acestream://b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png" group-title="SPORTS",MATCH PREMIER FHD
-acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png" group-title="SPORTS",SETANTA 1 RU
-acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-eurasia-plus.png" group-title="SPORTS",SETANTA 2 RU
-acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
-
-
 #EXTINF:-1 tvg-id="BT Sport 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="SPORTS",BT SPORT 1 UK
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="BT Sport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="SPORTS",BT SPORT 2 UK
@@ -67,6 +21,48 @@ acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-2-1442.png",PREMIER SPORT 2 UK
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png" group-title="SPORTS",SKY SPORT MAIN EVENT FHD
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-premier-league-90.png" group-title="SPORTS",SKY SPORT PREMIER LEAGUE FHD
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png" group-title="SPORTS",SKY SPORT FOOTBALL FHD
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png" group-title="SPORTS",SKY SPORT ARENA
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="SPORTS",SKY SPORT CRICKET
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png" group-title="SPORTS",ELEVEN SPORT 1 PT
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png" group-title="SPORTS",ELEVEN SPORT 2 PT
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png" group-title="SPORTS",ELEVEN SPORT 3 PT
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-4-portugal.png" group-title="SPORTS",ELEVEN SPORT 4 PT
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-5-portugal.png" group-title="SPORTS",ELEVEN SPORT 5 PT
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-6-portugal.png" group-title="SPORTS",ELEVEN SPORT 6 PT
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-plus-1475.png" group-title="SPORTS",M LIGA DE CAMPEONES FHD
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="SPORTS",M DEPORTES FHD
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png" group-title="SPORTS",MATCH FOOTBALL 1 FHD
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png" group-title="SPORTS",MATCH FOOTBALL 2 FHD
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png" group-title="SPORTS",MATCH FOOTBALL 3 FHD
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png" group-title="SPORTS",MATCH PREMIER FHD
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png" group-title="SPORTS",SETANTA 1 RU
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-eurasia-plus.png" group-title="SPORTS",SETANTA 2 RU
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/polsat-sport.png" group-title="SPORTS",POLSAT SPORT PL
 acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
