@@ -1,22 +1,5 @@
 #EXTM3U url-tvg="http://bit.ly/guidevn"
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",1h00 Al Nassr-Al Ittihad 1 SPORTDIGITAL FHD
-acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",1h30 Fortuna Düsseldorf-Bochum 1 ELEVEN 1 PT FHD
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png",1h30 Fortuna Düsseldorf-Bochum 2 SKY FOOTBALL FHD
-acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png",1h30 Fortuna Düsseldorf-Bochum 3 SKY ME FHD
-acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-1-ru-1419.png" group-title="ROLAND GARROS",ROLAND GARROS--EUROSPORT 1 RU
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-2-ru-1420.png" group-title="ROLAND GARROS",ROLAND GARROS--EUROSPORT 2 RU
-acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png" group-title="SPORTS",ELEVEN SPORT 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png" group-title="SPORTS",ELEVEN SPORT 2 PT
@@ -212,8 +195,6 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 
-
-
 #EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="4K",ELEVEN SPORT 1 PL 4K
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/nasha_sibir_4k_obychnyy.jpg" group-title="4K",OUR SIBERIA 4K
@@ -242,103 +223,3 @@ acestream://3a71745381e1a6821a881c96a230b6cd365d4da5
 acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-small-2021.png" group-title="4K",SKY SPORTS DE 4K
 acestream://96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
-
-
-
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-de-2541.png" group-title="ĐUA XE F1",ĐUA XE F1--SKY SPORT F1 DE FHD
-acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ĐUA XE F1",ĐUA XE F1--DAZN F1 FHD
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-de-2541.png" group-title="ĐUA XE F1",ĐUA XE F1--SKY SPORT F1 DE FHD
-acestream://f63f46a006a157a1a2f40be57475044ebe7af3e6
-#EXTINF:-1 tvg-logo="https://www.thef1spectator.com/wp-content/uploads/2021/10/f1-tv-logo.jpg" group-title="ĐUA XE F1",ĐUA XE F1--F1TV FHD
-acestream://c131d3315d3e4fe16b2d23cf9da6e36d1e231519
-#EXTINF:-1 tvg-logo="https://www.thef1spectator.com/wp-content/uploads/2021/10/f1-tv-logo.jpg" group-title="ĐUA XE F1",ĐUA XE F1--F1TV FHD
-acestream://f18b92ecbbffd6c105df7754fa5a783fd5ff3139
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-de-2541.png" group-title="ĐUA XE F1",ĐUA XE F1--SKY SPORT F1 HD
-acestream://6ff3acf29e0af5998210bb4b4649630979c6b256
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" group-title="VIETNAM",HTVC THUAN VIET
-acestream://122e778e0be72d6af1433bcce0a59bcff311f635
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png" group-title="VIETNAM",HTVC PHU NU
-acestream://b5611eca3fcdad545fbccbca11104a1639625025
-
-
-#EXTINF:-1 tvg-id="vtv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" group-title="VIETNAM",VTV1 FHD
-acestream://8c805a9d2f9d4cc0fe25bf8bfe5a5b98591ce377
-#EXTINF:-1 tvg-id="vtv5tnb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png" group-title="VIETNAM",VTV5 TNB FHD
-acestream://3cabf00d12e1eee41101e06164b6852f19c91124
-#EXTINF:-1 tvg-id="vtv6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="VIETNAM",VTV CAN THO HD1
-acestream://7b67226d1ce6c66d1e61c7e192f5c987e278b39f
-#EXTINF:-1 tvg-id="vtv6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="VIETNAM",VTV CAN THO HD2
-acestream://85479a5a19838f38a99ee6ab8bc3c3d72077c2ed
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="VIETNAM",CHANNEL NEWS ASIA
-acestream://7475d26006421a3e63da3f3bb8c6d22669a4e1ea
-#EXTINF:-1 tvg-id="ftv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fashion_tv_hd.png" group-title="VIETNAM",FASHION HD
-acestream://1e9eae64ae1705b4c5b9feed28db9dfca88361f1
-#EXTINF:-1 tvg-id="antv" tvg-logo="https://mytv.com.vn/upload/channel/35.png" group-title="VIETNAM",ANTV
-acestream://2ba398b25fbee0e1e530ba925957967d3eff947e
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/71.png" group-title="VIETNAM",QUOC HOI
-acestream://64784c879ce2c2ac555623bf597266d7c33f82b2
-#EXTINF:-1 tvg-id="vtc13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlbDLlkgRjCa9gDZigmFWXVqo4XqrCV4RG4_AzunOXSjwHO4OPHuoCzAL0yRQV9IyjGk&usqp=CAU" group-title="VIETNAM",VTC13 4K
-acestream://6d66e98ecc5e0f59621c81b4d2683dff328b5e56
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/691.png" group-title="VIETNAM",CA MAU TV
-acestream://69f0503e266c3c90041d674624abbe18fb6e6768
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/631.png" group-title="VIETNAM",TIEN GIANG TV
-acestream://8fa670e27bd7ef63107a1a4f53cc51d33ec38c16
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="VIETNAM",KIEN GIANG TV
-acestream://53c2a8b40293258ffc267260055aa5d6b734fa97
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="VIETNAM",KIEN GIANG TV1
-acestream://99b9575b9a4f3ae6083faf4ec8aecf4434a65c9b
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/811.png" group-title="VIETNAM",GIA LAI TV
-acestream://33bd4d006152e8ee2ce37d2e14a642ebc051de08
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/431.png" group-title="VIETNAM",DA NANG TV1
-acestream://46d57cf1adc354fe1f42d646cd5f2b99b3ded783
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/432.png" group-title="VIETNAM",DA NANG TV2
-acestream://144031bfd039478ee18b83e9b314028e77c08f8f
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/921.png" group-title="VIETNAM",QUANG NAM TV
-acestream://cb7ec7de999e89d0235e35e85f528e46f66f238c
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="VIETNAM",HOA BINH TV
-acestream://6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",PIMPLETV 1 HD 50FPS
-acestream://ff126d47dc3e3eb69552f240ce824567580f9901
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",PIMPLETV 2 HD 50FPS
-acestream://658b488a9abbab9ae832f0b4671ea9e9db055107
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",PIMPLETV 3 HD 50FPS
-acestream://9c990f070e8f6ef6a5f92719c2468f78e240d102
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",PIMPLETV 4 FHD 50FPS EPL
-acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",PIMPLETV 5 FHD 50FPS LALIGA
-acestream://658b488a9abbab9ae832f0b4671ea9e9db055107
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",PIMPLETV 6 FHD EPL
-acestream://be7019793fb97580cff55d7784e510bd0477f832
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",PIMPLETV 7 FHD EPL
-acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",ACETOP 1 HD 50FPS
-acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",ACETOP 2 HD 50FPS
-acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",ACETOP 3 HD 50FPS
-acestream://2743fd284cad79cd23afc31848091b28d5929020
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg" group-title="LIVE BÓNG ĐÁ 50FPS",ACETOP 3 FHD 50FPS
-#acestream://4062a37387b943e5167cfdf5ccf962cdb7deba9d
-
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/11/09/07/39/ball-65471_640.jpg" group-title="LIVE KHI CÓ BÓNG - THANKS",ONLINE 1 HD 50FPS
-#acestream://65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/11/09/07/39/ball-65471_640.jpg" group-title="LIVE KHI CÓ BÓNG - THANKS",ONLINE 2 HD 50FPS EPL
-#acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/11/09/07/39/ball-65471_640.jpg" group-title="LIVE KHI CÓ BÓNG - THANKS",ONLINE 3 FHD 50FPS
-#acestream://99da47072cf6d0d9323479791026c48961889557
