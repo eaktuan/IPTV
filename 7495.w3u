@@ -28,6 +28,11 @@
 {"name": "sd-tsports","image": "https://rentapi.blackboxsys.net/images/png/sd-tsports.png","url": "https://livesod365.com/live/sd-tsports","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 ]},
 
+{"name": "AceStreamViet",
+"image": "https://img5.pic.in.th/file/secure-sv1/vietnam.png",
+"url": "https://pastebin.com/raw/MDyHF0F6",
+"import": false},
+
 {"name": "warpfootball",
 "image": "https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
 "url": "https://tinyurl.com/2apjtzhz",
