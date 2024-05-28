@@ -5,7 +5,7 @@
 "groups": [
 
 {"name": "TrueSports",
-"image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png",
+"image": "https://livesod365.com/wp-content/uploads/2023/01/logo.png",
 "stations": [
 {"name": "Spotv","image": "https://rentapi.blackboxsys.net/images/png/hd-spotv.png","url": "https://livesod365.com/live/hd-spotv","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "Spotv2","image": "https://rentapi.blackboxsys.net/images/png/hd-spotv2.png","url": "https://livesod365.com/live/hd-spotv2","referer": "https://livesod365.com/","playInNatPlayer": "true"},
