@@ -1,4 +1,5 @@
 {"name": "365","author": "","url": "","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","groups": [
+
 {"name": "Sports","author": "","url": "","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","stations": [
 {"name": "af-supersport1","image": "https://rentapi.blackboxsys.net/images/png/af-supersport1.png","url": "https://livesod365.com/live/af-supersport1","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport2","image": "https://rentapi.blackboxsys.net/images/png/af-supersport2.png","url": "https://livesod365.com/live/af-supersport2","referer": "https://livesod365.com/","playInNatPlayer": "true"},
@@ -238,5 +239,5 @@
 {"name": "uk-btsport1hdbkp","image": "https://rentapi.blackboxsys.net/images/png/uk-btsport1hdbkp.png","url": "https://livesod365.com/live/uk-btsport1hdbkp","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "uk-btsport2hd","image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png","url": "https://livesod365.com/live/uk-btsport2hd","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "uk-btsport2hdbkp","image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hdbkp.png","url": "https://livesod365.com/live/uk-btsport2hdbkp","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-]
+]},
 ]}
