@@ -33,11 +33,6 @@
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/LiveSod365world.w3u",
 "import": false},
 
-{"name": "AceStreamViet",
-"image": "https://img5.pic.in.th/file/secure-sv1/vietnam.png",
-"url": "https://pastebin.com/raw/MDyHF0F6",
-"import": false},
-
 {"name": "warpfootball",
 "image": "https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
 "url": "https://tinyurl.com/2apjtzhz",
@@ -60,17 +55,10 @@
 "image": "https://dl.dropbox.com/scl/fi/6xs5b2mybbumcu4lv40k7/20240328_161925.png?rlkey=udyw7jgujmqllusbmqeaxjsbg&dl=0",
 "url": "https://dl.dropbox.com/scl/fi/nsvb6dc5lv9u0cjlnltkq/playidtvpl.m3u?rlkey=snv30njtwx66jy5b46b9fmrp5&dl=0"},
 
-{"name": "Movies-Series 🟢", 
-"image": "https://dl.dropbox.com/scl/fi/b5wikc187cqww9378cc1x/20240328_160859.png?rlkey=uu322pqug0s3fjkeyfmgyls6x&dl=0",
-"url": "https://dl.dropbox.com/s/m21l3fbh4h5tfxs/testplay.w3u?dl=0"},
-  
-{"name": "TRUEID 🟢",
-"image": "https://dl.dropbox.com/scl/fi/odzc7q2qt99xynula8mup/trueidaisplay.png?rlkey=wibeizs27xergep04d0pj0dfl&dl=0",
-"url": "https://drzl.short.gy/aistrue.html"},
-
-{"name": "RADIO 🟢",
-"image": "https://dl.dropbox.com/scl/fi/9ffota6qqtu44c3dwa1dd/listen.png?rlkey=12pvj336nttvuuy2ikjusoc5v&dl=0",
-"url": "https://dl.dropbox.com/s/6l7d02w316bsr3q/playidtv-radio.w3u?dl=0"},
+{"name": "AceStreamViet",
+"image": "https://img5.pic.in.th/file/secure-sv1/vietnam.png",
+"url": "https://pastebin.com/raw/MDyHF0F6",
+"import": false},
 
 {"name": "Dookeela", 
 "image": "https://www.dropbox.com/scl/fi/59nlstp91lwx3fbzzsobk/dookeela.png?rlkey=c2hl12phatd044kwew9q3hegx&dl=1", 
@@ -81,11 +69,6 @@
 "image": "https://buff-streams.net/img/logo.png",
 "url": "https://1drv.ms/u/s!AvyLoAfW1Psblfh5IpgFXidoHNQsHQ?e=EHtBjX",
 "import": "true"},
-
-{"name": "Radio ฟังวิทยุ",
-"image": "https://w7.pngwing.com/pngs/391/364/png-transparent-computer-icons-internet-radio-radio-electronics-logo-internet-radio.png",
-"url": "https://drive.google.com/uc?id=1NdQqYbVpxW-KSsePXHuVXdmzCJH23fD2",
-"import": false},
 
 {"name": "Win IPTVFree",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
