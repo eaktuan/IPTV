@@ -1,13 +1,6 @@
-{"name": "Sports","author": "","url": "","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","groups": [
-
+{"name": "365","author": "","url": "","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","groups": [
+{"name": "Sports","author": "","url": "","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","stations": [
 {"name": "af-supersport1","image": "https://rentapi.blackboxsys.net/images/png/af-supersport1.png","url": "https://livesod365.com/live/af-supersport1","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-{"name": "af-supersport10","image": "https://rentapi.blackboxsys.net/images/png/af-supersport10.png","url": "https://livesod365.com/live/af-supersport10","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-{"name": "af-supersport11","image": "https://rentapi.blackboxsys.net/images/png/af-supersport11.png","url": "https://livesod365.com/live/af-supersport11","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-{"name": "af-supersport13","image": "https://rentapi.blackboxsys.net/images/png/af-supersport13.png","url": "https://livesod365.com/live/af-supersport13","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-{"name": "af-supersport14","image": "https://rentapi.blackboxsys.net/images/png/af-supersport14.png","url": "https://livesod365.com/live/af-supersport14","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-{"name": "af-supersport15","image": "https://rentapi.blackboxsys.net/images/png/af-supersport15.png","url": "https://livesod365.com/live/af-supersport15","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-{"name": "af-supersport16","image": "https://rentapi.blackboxsys.net/images/png/af-supersport16.png","url": "https://livesod365.com/live/af-supersport16","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-{"name": "af-supersport17","image": "https://rentapi.blackboxsys.net/images/png/af-supersport17.png","url": "https://livesod365.com/live/af-supersport17","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport2","image": "https://rentapi.blackboxsys.net/images/png/af-supersport2.png","url": "https://livesod365.com/live/af-supersport2","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport3","image": "https://rentapi.blackboxsys.net/images/png/af-supersport3.png","url": "https://livesod365.com/live/af-supersport3","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport4","image": "https://rentapi.blackboxsys.net/images/png/af-supersport4.png","url": "https://livesod365.com/live/af-supersport4","referer": "https://livesod365.com/","playInNatPlayer": "true"},
@@ -16,6 +9,14 @@
 {"name": "af-supersport7","image": "https://rentapi.blackboxsys.net/images/png/af-supersport7.png","url": "https://livesod365.com/live/af-supersport7","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport8","image": "https://rentapi.blackboxsys.net/images/png/af-supersport8.png","url": "https://livesod365.com/live/af-supersport8","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport9","image": "https://rentapi.blackboxsys.net/images/png/af-supersport9.png","url": "https://livesod365.com/live/af-supersport9","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+{"name": "af-supersport10","image": "https://rentapi.blackboxsys.net/images/png/af-supersport10.png","url": "https://livesod365.com/live/af-supersport10","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+{"name": "af-supersport11","image": "https://rentapi.blackboxsys.net/images/png/af-supersport11.png","url": "https://livesod365.com/live/af-supersport11","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+{"name": "af-supersport13","image": "https://rentapi.blackboxsys.net/images/png/af-supersport13.png","url": "https://livesod365.com/live/af-supersport13","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+{"name": "af-supersport14","image": "https://rentapi.blackboxsys.net/images/png/af-supersport14.png","url": "https://livesod365.com/live/af-supersport14","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+{"name": "af-supersport15","image": "https://rentapi.blackboxsys.net/images/png/af-supersport15.png","url": "https://livesod365.com/live/af-supersport15","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+{"name": "af-supersport16","image": "https://rentapi.blackboxsys.net/images/png/af-supersport16.png","url": "https://livesod365.com/live/af-supersport16","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+{"name": "af-supersport17","image": "https://rentapi.blackboxsys.net/images/png/af-supersport17.png","url": "https://livesod365.com/live/af-supersport17","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+
 {"name": "al-supersports1","image": "https://rentapi.blackboxsys.net/images/png/al-supersports1.png","url": "https://livesod365.com/live/al-supersports1","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "al-supersports2","image": "https://rentapi.blackboxsys.net/images/png/al-supersports2.png","url": "https://livesod365.com/live/al-supersports2","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "al-supersports3","image": "https://rentapi.blackboxsys.net/images/png/al-supersports3.png","url": "https://livesod365.com/live/al-supersports3","referer": "https://livesod365.com/","playInNatPlayer": "true"},
@@ -24,8 +25,10 @@
 {"name": "al-tringsport1","image": "https://rentapi.blackboxsys.net/images/png/al-tringsport1.png","url": "https://livesod365.com/live/al-tringsport1","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "al-tringsport3","image": "https://rentapi.blackboxsys.net/images/png/al-tringsport3.png","url": "https://livesod365.com/live/al-tringsport3","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "al-tringsport4","image": "https://rentapi.blackboxsys.net/images/png/al-tringsport4.png","url": "https://livesod365.com/live/al-tringsport4","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+
 {"name": "hd-eurosport","image": "https://rentapi.blackboxsys.net/images/png/hd-eurosport.png","url": "https://livesod365.com/live/hd-eurosport","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "us-eleven","image": "https://rentapi.blackboxsys.net/images/png/us-eleven.png","url": "https://livesod365.com/live/us-eleven","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+
 {"name": "au-fox501","image": "https://rentapi.blackboxsys.net/images/png/au-fox501.png","url": "https://livesod365.com/live/au-fox501","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "au-fox502","image": "https://rentapi.blackboxsys.net/images/png/au-fox502.png","url": "https://livesod365.com/live/au-fox502","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "au-fox503","image": "https://rentapi.blackboxsys.net/images/png/au-fox503.png","url": "https://livesod365.com/live/au-fox503","referer": "https://livesod365.com/","playInNatPlayer": "true"},
@@ -235,5 +238,5 @@
 {"name": "uk-btsport1hdbkp","image": "https://rentapi.blackboxsys.net/images/png/uk-btsport1hdbkp.png","url": "https://livesod365.com/live/uk-btsport1hdbkp","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "uk-btsport2hd","image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png","url": "https://livesod365.com/live/uk-btsport2hd","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "uk-btsport2hdbkp","image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hdbkp.png","url": "https://livesod365.com/live/uk-btsport2hdbkp","referer": "https://livesod365.com/","playInNatPlayer": "true"},
-
+]
 ]}
