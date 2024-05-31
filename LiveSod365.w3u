@@ -23,7 +23,7 @@
 {"name": "Spotv2","image": "https://rentapi.blackboxsys.net/images/png/hd-spotv2.png","url": "https://livesod365.com/live/hd-spotv2","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 ]},
 
-{"name": "Sports","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","stations": [
+{"name": "SuperSport","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","stations": [
 {"name": "af-supersport1","image": "https://rentapi.blackboxsys.net/images/png/af-supersport1.png","url": "https://livesod365.com/live/af-supersport1","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport2","image": "https://rentapi.blackboxsys.net/images/png/af-supersport2.png","url": "https://livesod365.com/live/af-supersport2","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport3","image": "https://rentapi.blackboxsys.net/images/png/af-supersport3.png","url": "https://livesod365.com/live/af-supersport3","referer": "https://livesod365.com/","playInNatPlayer": "true"},
@@ -40,7 +40,9 @@
 {"name": "af-supersport15","image": "https://rentapi.blackboxsys.net/images/png/af-supersport15.png","url": "https://livesod365.com/live/af-supersport15","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport16","image": "https://rentapi.blackboxsys.net/images/png/af-supersport16.png","url": "https://livesod365.com/live/af-supersport16","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport17","image": "https://rentapi.blackboxsys.net/images/png/af-supersport17.png","url": "https://livesod365.com/live/af-supersport17","referer": "https://livesod365.com/","playInNatPlayer": "true"},
+]},
 
+{"name": "Sport","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","stations": [
 {"name": "al-supersports1","image": "https://rentapi.blackboxsys.net/images/png/al-supersports1.png","url": "https://livesod365.com/live/al-supersports1","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "al-supersports2","image": "https://rentapi.blackboxsys.net/images/png/al-supersports2.png","url": "https://livesod365.com/live/al-supersports2","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "al-supersports3","image": "https://rentapi.blackboxsys.net/images/png/al-supersports3.png","url": "https://livesod365.com/live/al-supersports3","referer": "https://livesod365.com/","playInNatPlayer": "true"},
