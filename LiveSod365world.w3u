@@ -1,4 +1,4 @@
-{"name": "Sports","author": "","url": "","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","stations": [
+{"name": "Sports","author": "","url": "","image": "https://i.ibb.co/Fg72bz1/icons8-tv-64.png","groups": [
 
 {"name": "af-supersport1","image": "https://rentapi.blackboxsys.net/images/png/af-supersport1.png","url": "https://livesod365.com/live/af-supersport1","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 {"name": "af-supersport10","image": "https://rentapi.blackboxsys.net/images/png/af-supersport10.png","url": "https://livesod365.com/live/af-supersport10","referer": "https://livesod365.com/","playInNatPlayer": "true"},
