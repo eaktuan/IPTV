@@ -4,6 +4,11 @@
 "url": "https://rebrand.ly/7495",
 "groups": [
 
+{"name": "LiveSod365",
+"image": "https://livesod365.com/wp-content/uploads/2023/01/logo.png",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/LiveSod365.w3u",
+"import": false},
+
 {"name": "7495",
 "image": "https://img5.pic.in.th/file/secure-sv1/7495logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/7495.w3u",
@@ -17,11 +22,6 @@
 {"name": "Dooball2You",
 "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
 "url": "https://drive.google.com/uc?id=1PD_YHPa8GnaMNqwtW1Pv0wMMpKSs_ayH",
-"import": false},
-
-{"name": "DooBall66s",
-"image": "https://livesod365.com/wp-content/uploads/2023/01/logo.png",
-"url": "https://playidtv24.vercel.app/stream/TrueID/index.html",
 "import": false},
 
 {"name": "US-Sports",
