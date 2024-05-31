@@ -28,6 +28,11 @@
 {"name": "sd-tsports","image": "https://rentapi.blackboxsys.net/images/png/sd-tsports.png","url": "https://livesod365.com/live/sd-tsports","referer": "https://livesod365.com/","playInNatPlayer": "true"},
 ]},
 
+{"name": "LiveSod365",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/LiveSod365world.w3u",
+"import": false},
+
 {"name": "AceStreamViet",
 "image": "https://img5.pic.in.th/file/secure-sv1/vietnam.png",
 "url": "https://pastebin.com/raw/MDyHF0F6",
