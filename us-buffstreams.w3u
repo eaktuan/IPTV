@@ -7,6 +7,16 @@
  
 		"stations":[
  
+{"name": "Tennis 05", 
+"image": "", 
+"url":"https://wikisport.se/court/ten05.php", "referer": "https://wikisport.se/", "info": "","desktop": "true"},
+{"name": "Tennis 055", 
+"image": "", 
+"url":"https://wikisport.se/court/ten055.php", "referer": "https://wikisport.se/", "info": "","desktop": "true"},
+{"name": "Tennis 056", 
+"image": "", 
+"url":"https://wikisport.se/court/ten056.php", "referer": "https://wikisport.se/", "info": "","desktop": "true"},
+
 {"name": "CrackStream MLB04", 
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png", 
 "url":"https://crackstreams.dev/mlb4/", "referer": "https://crackstreams.dev/", "info": "","desktop": "true"},
