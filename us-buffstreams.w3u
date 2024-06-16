@@ -17,6 +17,13 @@
 "image": "", 
 "url":"https://wikisport.se/court/ten056.php", "referer": "https://wikisport.se/", "info": "","desktop": "true"},
 
+{"name": "ScoreVisit", 
+"url":"https://livecdn-bp2.rumsport.com/stream/8/chunks.m3u8?x-sign=c851f2d48ab51b73a1fa93f365e7b958&x-time=1718581800&is_vip=false&token=0ca3825304610c8ff3b31e3c9b18b3d070c3187b",
+"referer": "https://scorevisit.com/", "info": "","desktop": "true"},
+{"name": "ScoreVisitS", 
+"url":"https://livecdn-bp2.rumsport.com/stream/8/chunks.m3u8","referer": "https://scorevisit.com/", "info": "","desktop": "true"},
+
+
 {"name": "CrackStream MLB04", 
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png", 
 "url":"https://crackstreams.dev/mlb4/", "referer": "https://crackstreams.dev/", "info": "","desktop": "true"},
