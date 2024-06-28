@@ -12,7 +12,6 @@
 {"name": "PLAYIDTV.TXT",
 "image": "https://dl.dropbox.com/scl/fi/5psd0jcuel4u7uoi6mi14/20231007_191849.jpg?rlkey=zazgtlzcq7xdmup943j33vw4d&dl=0",
 "url": "https://www.dropbox.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=1",
-#### "url": "https://drzl.short.gy/Linkwiesplay.html",
 "import": false},
 
 {"name": "DOO DEE",
@@ -20,14 +19,14 @@
 "url": "https://pastebin.com/raw/aa1V1hMp",
 "import": false},
 
-{"name": "ผู้เฒ่าพเนจร",
-"image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1",
-"url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
-"import": false},
-
 {"name": "7495",
 "image": "https://img5.pic.in.th/file/secure-sv1/7495logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/7495.w3u",
+"import": false},
+
+{"name": "ผู้เฒ่าพเนจร",
+"image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1",
+"url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
 "import": false},
 
 {"name": "ScoreVisit",
