@@ -4,6 +4,21 @@
 "url": "https://efft.short.gy/7495",
 "groups": [
 
+{"name":"DooKeela+Livescore",
+"image":"",
+"url": "https://pastebin.com/jUH3zKfR",
+"import": false},
+
+{"name": "Win IPTVFree",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://pastebin.com/YpDkAZPg",
+"import": false},
+
+{"name": "Dookeela", 
+"image": "https://www.dropbox.com/scl/fi/59nlstp91lwx3fbzzsobk/dookeela.png?rlkey=c2hl12phatd044kwew9q3hegx&dl=1", 
+"url": "https://www.dropbox.com/scl/fi/mg1b78mdoxfw62642f63x/dookeela.w3u?rlkey=2ls225kqc2nbdbacwx3wfhvg4&dl=1",
+"import": false},
+
 {"name": "warpfootball",
 "image": "https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
 "url": "https://tinyurl.com/2apjtzhz",
@@ -24,20 +39,10 @@
 "url": "https://pastebin.com/raw/MDyHF0F6",
 "import": false},
 
-{"name": "Dookeela", 
-"image": "https://www.dropbox.com/scl/fi/59nlstp91lwx3fbzzsobk/dookeela.png?rlkey=c2hl12phatd044kwew9q3hegx&dl=1", 
-"url": "https://www.dropbox.com/scl/fi/mg1b78mdoxfw62642f63x/dookeela.w3u?rlkey=2ls225kqc2nbdbacwx3wfhvg4&dl=1",
-"import": false},
-
 {"name": "US-Sport-V55",
 "image": "https://buff-streams.net/img/logo.png",
 "url": "https://1drv.ms/u/s!AvyLoAfW1Psblfh5IpgFXidoHNQsHQ?e=EHtBjX",
 "import": "true"},
-
-{"name": "Win IPTVFree",
-"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
-"url": "https://pastebin.com/YpDkAZPg",
-"import": false},
 
 ]
 }
