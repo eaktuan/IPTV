@@ -1,0 +1,137 @@
+#EXTM3U
+
+
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-1
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-2
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-3
+https://dookeela.live/live-tv/epl3#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-4
+https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TRUE PREMIER HD-5
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TSP HD1
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TSP HD2
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TSP HD-3
+https://dookeela.live/live-tv/tsp3#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png", TSP HD-4
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",TSP5
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",TSP7
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",BEIN1
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",BEIN2
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",BEIN3
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",GOLF
+https://dookeela.live/live-tv/golf#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",TENNIS
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.youdooball.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",SPOTV1
+https://dookeela.live/live-tv/spotv#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",SPOTV2
+https://dookeela.live/live-tv/spotv2#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",LFCTV
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/SPORT.png",MUTV
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HBO HD
+https://dookeela.live/live-tv/hbo#|Referer=https://dookeela.live/live-tv/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HBO HITS
+https://dookeela.live/live-tv/hbo-hits#|Referer=https://dookeela.live/live-tv/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HBO SIGNATURE
+https://dookeela.live/live-tv/hbo-signature#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HBO FAMILY
+https://dookeela.live/live-tv/hbo-family#|Referer=https://dookeela.live/live-tv/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",CINEMAX
+https://dookeela.live/live-tv/cinemax#|Referer=https://dookeela.live/live-tv/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUE THAIHILM
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8|Referer=https://livescorethai.net/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUE SERIES
+https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",AXN
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",WARNER TV  
+https://dookeela.live/live-tv/warnertv#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",PARAMOUNT NETWORK
+https://dookeela.live/live-tv/paramount-network#|Referer=https://dookeela.live/live-tv/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TERUE MOVIE HITS
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",LIFETIME
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUE XZYTE
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUEFILMHD1
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",TRUE FILMHD2
+https://livesod365.com/live/hd-tfilm2/Film%20HD%202/|Referer=https://livesod365.com/channel/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",MOVIES WORLD 1ท.
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",MOVIES WORLD 1 อ.
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",MOVIES WORLD 2
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",MOVIES WORLD 3
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",BOX FILM
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",7Flix
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",Mangkorn
+https://dookeela.live/live-tv/mangorn#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",3BB ASIAN
+https://dookeela.live/live-tv/3bbasian#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",MONO29PLUS
+https://dookeela.live/live-tv/mono29plus#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",HLN
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC12/index.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/6714f03f3020cd0685219c3f6e691e68.png",CCM
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",สำรวจโลก
+https://dookeela.live/live-tv/samrujlok#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",MYSCI
+https://dookeela.live/live-tv/mysci#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",DISCOVERY CHANNEL
+https://dookeela.live/live-tv/discovery#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",DISCOVERY ASIA
+https://dookeela.live/live-tv/discovery-asia#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",ANIMAL PLANET
+https://dookeela.live/live-tv/animal-planet#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",ANIMAL SHOW
+https://dookeela.live/live-tv/animalshow#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",HISTORY
+https://dookeela.live/live-tv/history#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",LOVE NATURE4K
+https://dookeela.live/live-tv/love-nature-4k#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",NATION GEOGRAPHIC
+https://dookeela.live/live-tv/national-geographic#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img5.pic.in.th/file/secure-sv1/25125199a3415ac0f.png",NATION GEO WILD
+https://dookeela.live/live-tv/nat-geo-wild#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",CARTOON CLUB
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",BOOMERANG
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",CARTIOONITO
+https://dookeela.live/live-tv/cartoonito#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",DISNEY CHANNEL
+https://dookeela.live/live-tv/disney-channel#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",DISNEY JUNIOR
+https://dookeela.live/live-tv/disney-junior#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",DISNEY XD
+https://dookeela.live/live-tv/disneyxd#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",NICK JR
+https://dookeela.live/live-tv/nickjr#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",NICK ELODEON
+https://dookeela.live/live-tv/nickelodeon#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",
+https://dookeela.live/live-tv/nicktoons#|Referer=https://dookeela.live/live-tv
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",CN
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/cartoon.png",FWTOON
+https://www.inwiptv.com/player_demo.php?channel=89780
